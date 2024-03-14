@@ -1,0 +1,2408 @@
+[ 
+    {
+        "ID": 1,
+        "Question": "Thời hạn thi hành biện pháp khắc phục hậu quả được quy định tại các văn bản hướng dẫn văn bản QPPL về xử lý VPHC là",
+        "Choice": "D",
+        "Answer": "Theo thời hạn ghi trong quyết định xử phạt VPHC hoặc Quyết định áp dụng khắc phục hậu quả"
+    },
+    {
+        "ID": 2,
+        "Question": "Chọn đáp án đúng cho tình huống sau: Ngày 15/12/2022, Đoàn thanh tra thuế tại trụ sở người nộp thuế phát hiện người nộp thuế có hành vi sử dụng hóa đơn không hợp pháp để khai thuế làm giảm số thuế phải nộp 50 triệu đồng của kỳ tính thuế TNDN năm 2021. Không có tình tiết tăng nặng, giảm nhẹ. Xác định số tiền phạt?",
+        "Choice": "B",
+        "Answer": "b) 75 triệu đồng."
+    },
+    {
+        "ID": 3,
+        "Question": "Theo quy định hiện hành, “Khoảng giá trị giao dịch độc lập chuẩn” là gì?",
+        "Choice": "A",
+        "Answer": "“Khoảng giá trị giao dịch độc lập chuẩn” là tập hợp các giá trị từ bách phân vị thứ 35 đến bách phân vị thứ 75; trung vị của khoảng giá trị giao dịch độc lập chuẩn là giá trị bách phân vị thứ 50 theo hàm xác suất thống kê."
+    },
+    {
+        "ID": 4,
+        "Question": "Theo quy định hiện hành, các bên liên kết được quy định gồm",
+        "Choice": "B",
+        "Answer": "11 trường hợp"
+    },
+    {
+        "ID": 5,
+        "Question": "Trường hợp \"Người nộp thuế (có giao dịch liên kết trong kỳ) vi phạm pháp luật về thuế nhưng thực hiện đầy đủ chế độ kế toán, hóa đơn, chứng từ\", thì cơ quan thuế thực hiện ấn định thế nào là đúng quy định? ",
+        "Choice": "B",
+        "Answer": "Việc ấn định doanh thu, chi phí hoặc thu nhập chịu thuế để xác định nghĩa vụ thuế được thực hiện theo các nguyên tắc phân tích, so sánh, phương pháp xác định giá giao dịch liên kết và cơ sở dữ liệu sử dụng trong quản lý giá giao dịch liên kết quy định tại Nghị định 132/2020/NĐ-CP."
+    },
+    {
+        "ID": 6,
+        "Question": "Người nộp thuế bị ấn định thuế khi thuộc một trong các trường hợp vi phạm pháp luật về thuế: \"Không tuân thủ quy định về nghĩa vụ kê khai, xác định giá giao dịch liên kết hoặc không cung cấp thông tin theo quy định về quản lý thuế đối với doanh nghiệp có phát sinh giao dịch liên kết\" được quy định tại văn bản nào",
+        "Choice": "C",
+        "Answer": "Luật quản lý thuế số 38/2019/QH14"
+    },
+    {
+        "ID": 7,
+        "Question": "Tại Khoản 3 Điều 16 Nghị định 132/2020/NĐ-CP có quy định nào dưới đây",
+        "Choice": "B",
+        "Answer": "a) Tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ của người nộp thuế được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp không vượt quá 30% của tổng lợi nhuận thuần từ hoạt động kinh doanh trong kỳ cộng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ cộng chi phí khấu hao phát sinh trong kỳ của người nộp thuế;"
+    },
+    {
+        "ID": 8,
+        "Question": "Tổ chức nước ngoài cung cấp các dịch vụ chuyên môn, quản lý và phát hành trái phiếu, tư vấn pháp lý, đại lý lưu ký, tổ chức roadshow (một hoạt động thuộc mảng kích hoạt thương hiệu) cho Công ty A ở Việt Nam tại các nước mà Công ty A phát hành chứng chỉ GDR (Global Depositary Receipt - chứng chỉ lưu ký toàn cầu) và trái phiếu quốc tế thì thu nhập từ các dịch vụ này có phải nộp thuế nhà thầu không?",
+        "Choice": "A",
+        "Answer": "Tổ chức nước ngoài có thu nhập từ các dịch vụ này không thuộc đối tượng áp dụng của Thông tư số 103/2014/TT-BTC"
+    },
+    {
+        "ID": 9,
+        "Question": "Nhận định nào dưới đây là đúng là kỹ năng thanh kiểm tra các doanh nghiệp có giao dịch liên kết",
+        "Choice": "B",
+        "Answer": "Kiểm tra \"sơ bộ\" các phụ lục về giao dịch liên kết kèm theo Tờ khai quyết toán thuế TNDN là bước công việc cần thiết nhằm nâng cao hiệu quả công tác thanh kiểm tra DN có GDLK"
+    },
+    {
+        "ID": 10,
+        "Question": "Theo quy định tại Khoản 2 Điều 19 Nghị định 132/2020/NĐ-CP: Người nộp thuế có trách nhiệm kê khai xác định giá giao dịch liên kết theo Phụ lục I ban hành kèm theo Nghị định này nhưng được miễn lập Hồ sơ xác định giá giao dịch liên kết trong trường hợp:",
+        "Choice": "A",
+        "Answer": "Người nộp thuế có phát sinh giao dịch liên kết nhưng tổng doanh thu phát sinh của kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết phát sinh trong kỳ tính thuế dưới 30 tỷ đồng;"
+    },
+    {
+        "ID": 11,
+        "Question": "Tại Khoản 3 Điều 19 Nghị định 132/2020/NĐ-CP có quy định nào dưới đây",
+        "Choice": "A",
+        "Answer": "Người nộp thuế thuộc trường hợp được miễn kê khai, miễn lập Hồ sơ xác định giá giao dịch liên kết theo quy định tại khoản 1, khoản 2 Điều này, việc xác định tổng chi phí lãi vay được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp của doanh nghiệp có giao dịch liên kết được thực hiện theo quy định tại khoản 3 Điều 16 Nghị định này."
+    },
+    {
+        "ID": 12,
+        "Question": "Vi phạm quy định về “chi phí được trừ khi tính thuế” theo quy định về quản lý thuế đối với DN có giao dịch liên kết gồm các trường hợp",
+        "Choice": "D",
+        "Answer": "Cả 3 đáp án a, b và c"
+    },
+    {
+        "ID": 13,
+        "Question": "Căn cứ phân loại mức độ \"khó - dễ\" trong việc phát hiện các DN có quan hệ liên kết",
+        "Choice": "B",
+        "Answer": "Mức độ sẵn có của thông tin liên quan mà cơ quan thuế có thể khai thác"
+    },
+    {
+        "ID": 14,
+        "Question": "Việc xác định hành vi vi phạm về quản lý thuế đối với doanh nghiệp có giao dịch liên kết cần căn cứ vào:",
+        "Choice": "B",
+        "Answer": "Hồ sơ, bằng chứng xác định qua thanh kiểm tra và các quy định có liên quan tại văn bản quy phạm pháp luật về quản lý thuế đối với DN có giao dịch liên kết (hành vi, chế tài) và Luật quản lý thuế hiện hành"
+    },
+    {
+        "ID": 15,
+        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ nhỏ hơn hoặc bằng không.",
+        "Choice": "B",
+        "Answer": "Không xử lý do DN không thuộc đối tượng áp dụng quy định tại Khoản 3 Điều 16 Nghị định 132/2020/NĐ-CP"
+    },
+    {
+        "ID": 16,
+        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ vượt mức khống chế (ghi chú: mức khống chế là số dương).",
+        "Choice": "B",
+        "Answer": "Loại trừ \"tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ\" vượt mức khống chế đã xác định"
+    },
+    {
+        "ID": 17,
+        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có mức khống chế (của tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh) là số âm.",
+        "Choice": "B",
+        "Answer": "Loại trừ toàn bộ \"tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ\" và số loại trừ không được chuyển các kỳ sau"
+    },
+    {
+        "ID": 18,
+        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ; \"hành vi 1\": có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ vượt mức khống chế (ghi chú: mức khống chế là số dương); \"hành vi 2\": đồng thời DN có vi phạm thuộc trường hợp \"ấn định tỷ suất lợi nhuận\".",
+        "Choice": "B",
+        "Answer": "Xử lý đồng thời cả hai \"hành vi\"."
+    },
+    {
+        "ID": 19,
+        "Question": "Người nộp thuế được miễn các nghĩa vụ nào trong trường hợp: \"Người nộp thuế có phát sinh giao dịch liên kết nhưng tổng doanh thu phát sinh của kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết phát sinh trong kỳ tính thuế dưới 30 tỷ đồng\";",
+        "Choice": "B",
+        "Answer": "Người nộp thuế có trách nhiệm kê khai xác định giá giao dịch liên kết theo Phụ lục I ban hành kèm theo Nghị định này nhưng được miễn lập Hồ sơ xác định giá giao dịch liên kết "
+    },
+    {
+        "ID": 20,
+        "Question": "Trong trường hợp \"NNT chỉ phát sinh giao dịch với các bên liên kết là đối tượng nộp thuế thu nhập doanh nghiệp tại Việt Nam, áp dụng cùng mức thuế suất thuế thu nhập doanh nghiệp với người nộp thuế và không bên nào được hưởng ưu đãi thuế thu nhập doanh nghiệp trong kỳ tính thuế\", thì:",
+        "Choice": "B",
+        "Answer": "Người nộp thuế được miễn kê khai xác định giá giao dịch liên kết tại mục III, mục IV Phụ lục I ban hành kèm theo Nghị định 132/2020/NĐ-CP, miễn lập Hồ sơ xác định giá giao dịch liên kết theo quy định tại Nghị định 132/2020/NĐ-CP, nhưng phải kê khai căn cứ miễn trừ tại mục I, mục II tại Phụ lục I ban hành kèm theo Nghị định này"
+    },
+    {
+        "ID": 21,
+        "Question": "Cơ sở giáo dục công lập A có số liệu kê khai thuế TNCN của kỳ tính thuế năm 2019 như sau:\n1. Tờ khai khấu trừ thuế TNCN (mẫu 05/KK-TNCN): chỉ tiêu thuế TNCN đã khấu trừ từ tháng 01/2019 đến tháng 12/2019 là 1 tỷ đồng.\n2. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN):\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 1,5 tỷ đồng.\nVậy số thuế TNCN phải nộp năm 2019 của cơ sớ giáo dục công lập A đã kê khai là bao nhiều?\n",
+        "Choice": "B",
+        "Answer": "2 tỷ đồng"
+    },
+    {
+        "ID": 22,
+        "Question": "Năm 2023, Cơ sở y tế A có khoản thu từ dịch vụ ăn uống (trừ ăn uống dinh dưỡng lâm sàng theo chế độ bệnh tật: qua ống tiêu hóa, qua đường tĩnh mạch), vậy khoản thu nêu trên thuộc đối tượng điều tiết của Luật thuế TNDN như thế nào biết rằng cơ sở y tế A kê khai thuế TNDN theo phương pháp trực tiếp trên doanh thu",
+        "Choice": "B",
+        "Answer": "Tỷ lệ thuế TNDN phải nộp 5% trên doanh thu"
+    },
+    {
+        "ID": 23,
+        "Question": "Khai thuế GTGT theo quý được áp dụng đối với người nộp thuế giá trị gia tăng có tổng doanh thu bán hàng hóa và cung cấp dịch vụ của năm trước liền kề kể từ bao nhiêu tỷ đồng",
+        "Choice": "D",
+        "Answer": "50 tỷ trở xuống"
+    },
+    {
+        "ID": 24,
+        "Question": "Cơ sở giáo dục công lập A có số liệu kê khai thuế TNCN của kỳ tính thuế năm 2022 như sau:\n1. Tờ khai khấu trừ thuế TNCN (mẫu 05/KK-TNCN): chỉ tiêu thuế TNCN đã khấu trừ từ tháng 01/2022 đến tháng 12/2022 là 1 tỷ đồng.\n2. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN) chính thức:\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 1,5 tỷ đồng.\n3. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN) bổ sung lần 1:\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 2 tỷ đồng.\n- Chỉ tiêu chênh lệch thuế TNCN còn phải nộp giữa số điều chỉnh và số kê khai là tăng 200 triệu\nVới số liệu kê khai như trên đơn vị có phát sinh rủi ro về việc xác định nghĩa vụ thuế TNCN phải nộp hay không?\n",
+        "Choice": "B",
+        "Answer": "Rủi ro về việc kê khai thiếu thuế TNCN, số thuế có thể kê khai thiếu là 500 triệu đồng"
+    },
+    {
+        "ID": 25,
+        "Question": "Thời điểm kê khai thuế TNDN đối với khoản thu từ học phí chính quy là khi nào?",
+        "Choice": "B",
+        "Answer": "Năm 2013 (Kể từ khi luật giá có hiệu lực)"
+    },
+    {
+        "ID": 26,
+        "Question": "Năm 2022, cá nhân X có các nguồn thu nhập sau:\n- Tại Trường ĐH A (nơi cá nhân X có hợp đồng lao động), thu nhập là 500 triệu đồng.\n- Tại Trường ĐH B cá nhân X có thu nhập từ hoạt động dạy thêm là: 100 triệu đồng, đã khấu trừ thuế TNCN: 10 triệu đồng.\n- Tại trường ĐH C cá nhân X có thu nhập từ hoạt động chấm thi là 1 triệu đồng, trường ĐH C không khấu trừ thuế TNCN do khoản thu nhập này dưới 2 triệu đồng. Vậy trong trường hợp này cá nhân X có ủy quyền quyết toán cho trường ĐH A được không và vì sao?",
+        "Choice": "C",
+        "Answer": "Không thuộc đối tượng ủy quyền quyết toán do có thu nhập vãng lai dưới 120 triệu đồng và chưa được khấu trừ đủ 10%"
+    },
+    {
+        "ID": 27,
+        "Question": "Trường mầm non A có có thu tiền ăn, tiền vận chuyển đưa đón học sinh và các khoản thu khác dưới hình thức thu hộ, chi hộ thì khoản thu này được điều tiết bởi luật thuế GTGT như thế nào?",
+        "Choice": "A",
+        "Answer": "Thuộc đối tượng không chịu thuế GTGT"
+    },
+    {
+        "ID": 28,
+        "Question": "Trường Đại học A có khoản thu về ở nội trú của sinh viên thì khoản thu này được điều tiết bởi luật thuế GTGT như thế nào?",
+        "Choice": " ",
+        "Answer": "Thuộc đối tượng không chịu thuế GTGT"
+    },
+    {
+        "ID": 29,
+        "Question": "Danh mục, loại hình tiêu chí quy mô, tiêu chuẩn của các doanh nghiệp thực hiện xã hội hóa theo danh mục do Thủ tướng quy định tại Quyết định số 1466/QĐ-TTg ngày 10/10/2008 và Quyết định số 693/QĐ-TTg ngày 06/5/2013 gồm những gì?",
+        "Choice": "A",
+        "Answer": "Quy mô sinh viên tối thiểu, Tỷ lệ tối đa sinh viên/giảng viên, Diện tích sàn xây dựng trực tiếp phục vụ đào tạo tối thiểu , Chỉ tiêu tuyển sinh tối thiểu"
+    },
+    {
+        "ID": 30,
+        "Question": "Mức ưu đãi, miễn giảm thuế TNDN được áp dụng đối với các đơn vị sự nghiệp công lập như thế nào?",
+        "Choice": "A",
+        "Answer": "Đơn vị sự nghiệp công lập thực hiện kê khai đầy đủ doanh thu trừ chi phí"
+    },
+    {
+        "ID": 31,
+        "Question": "Năm 2023, Cơ sở giáo dục A có khoản thu từ lãi tiền gửi ngân hàng, vậy khoản thu từ lãi tiền gửi ngân hàng thuộc đối tượng điều tiết của Luật thuế TNDN như thế nào biết rằng cơ sở giáo dục A kê khai thuế TNDN theo phương pháp trực tiếp trên doanh thu",
+        "Choice": "B",
+        "Answer": "Tỷ lệ thuế TNDN phải nộp 5% trên doanh thu"
+    },
+    {
+        "ID": 32,
+        "Question": "Năm 2022, Cơ sở giáo dục A được KTNN kiến nghị tăng thu, giảm chi NSNN qua kiểm toán như sau: tăng thu thuế TNDN từ Khoản thu từ phí xét miễn môn. Vậy cơ quan thuế thực hiện kiến nghị KTNN trong trường hợp này như thế nào?",
+        "Choice": "C",
+        "Answer": "Lập biên bản xử phạt vi phạm hành chính về việc kê khai sai dẫn đến thiếu số thuế TNDN phải nộp, hành vi không xuất hóa đơn đối với khoản thu từ phí xét miễn môn, Hướng dẫn đơn vị kê khai điều chỉnh tờ khai thuế TNDN, tờ khai thuế GTGT"
+    },
+    {
+        "ID": 33,
+        "Question": "Nhận định rủi ro về thuế trong trường hợp cơ sở giáo dục công lập A kê khai doanh thu tính thuế GTGT của kỳ tính thuế Tháng 01/2023 là 10 tỷ đồng, giá trị doanh thu theo dữ liệu hóa đơn điện tử là 20 tỷ đồng?",
+        "Choice": "C",
+        "Answer": "Kê khai thiếu doanh thu tính thuế GTGT: 10 tỷ đồng hoặc xuất hóa đơn GTGT sai thời điểm: 10 tỷ đồng"
+    },
+    {
+        "ID": 34,
+        "Question": "Kỳ lập báo cáo tài chính của cơ sở giáo dục công lập?",
+        "Choice": "A",
+        "Answer": "Từ 1/1 đến 31/12 hàng năm"
+    },
+    {
+        "ID": 35,
+        "Question": "Đơn vị công lập nếu chỉ phát sinh khoản thu từ học phí thì có phải kê khai nộp thuế GTGT và TNDN không",
+        "Choice": "B",
+        "Answer": "Trường hợp đơn vị không xác định được chi phí thực hiện kê khai thuế TNDN theo tỷ lệ 2% và không phải kê khai thuế GTGT"
+    },
+    {
+        "ID": 36,
+        "Question": "Cơ sở giáo dục công lập A có thực hiện kê khai doanh thu trên tờ khai GTGT Quý 1/2023 là 2 tỷ, đã xuất hóa đơn điện tử là 1 tỷ đồng. Đến Quý 2/2023 đơn vị rà soát và phát hiện ra sai sót do không xuất hóa đơn đối với doanh thu từ hoạt động phối hợp đào tạo VB2 ngành Tiếng Anh hệ vừa học vừa làm, đơn vị đã xuất bổ sung vào Quý 2/2023. Trong trường hợp này CQT xử phạt vi phạm hành chính về thuế với mức như thế nào biết rằng số lượng hóa đơn xuất chậm là 01 hóa đơn?",
+        "Choice": "A",
+        "Answer": "Xử phạt vi phạm hành chính đối với hành vi xuất hóa đơn sai thời điểm với mức phạt là 4 triệu đồng"
+    },
+    {
+        "ID": 37,
+        "Question": "Cơ sở giáo dục công lập A có thực hiện kê khai doanh thu trên tờ khai GTGT Quý 1/2023 là 2 tỷ, đã xuất hóa đơn điện tử là 1 tỷ đồng. Đến Quý 2/2023 đơn vị rà soát và phát hiện ra sai sót do không xuất hóa đơn đối với doanh thu từ hoạt động cho thuê căng tin, đơn vị đã xuất bổ sung vào Quý 2/2023. Trong trường hợp này CQT xử phạt vi phạm hành chính về thuế với mức như thế nào biết rằng số lượng hóa đơn xuất chậm là 01 hóa đơn?",
+        "Choice": "C",
+        "Answer": "Xử phạt vi phạm hành chính đối với hành vi xuất hóa đơn sai thời điểm với mức phạt là 6 triệu đồng"
+    },
+    {
+        "ID": 38,
+        "Question": "Cơ sở y tế công lập A có doanh thu hàng năm trên 1 tỷ thì có được kê khai thuế GTGT theo phương pháp trực tiếp trên doanh thu hay không\n",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 39,
+        "Question": "Cơ sở y tế công lập A có doanh thu hàng năm trên 1 tỷ thì có được kê khai thuế TNDN theo phương pháp tỷ lệ trên doanh thu bán HHDV hay không\n",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 40,
+        "Question": "Trường hợp trong gói dịch vụ chữa bệnh (theo quy định của Bộ Y tế) bao gồm cả sử dụng thuốc chữa bệnh thì khoản thu từ tiền thuốc chữa bệnh nằm trong gói dịch vụ chữa bệnh thuộc đối tượng chịu thuế suất thuế GTGT bao nhiêu %?",
+        "Choice": "D",
+        "Answer": "Không chịu thuế GTGT"
+    },
+    {
+        "ID": 41,
+        "Question": "Nhận định rủi ro ban đầu khi kiểm tra hồ sơ khai thuế của cơ sở giáo dục công lập A tại: tờ khai thuế GTGT và dữ liệu tra cứu hóa đơn điện tử phát hiện: kỳ tính thuế Tháng 01/2023 có kê khai doanh thu tính thuế GTGT là 20 tỷ đồng, giá trị doanh thu theo dữ liệu hóa đơn điện tử là 10 tỷ đồng?",
+        "Choice": "D",
+        "Answer": "Xuất hóa đơn GTGT sai thời điểm: 10 tỷ đồng hoặc không xuất hóa đơn GTGT: 10 tỷ đồng"
+    },
+    {
+        "ID": 42,
+        "Question": "Năm 2023, Cơ sở y tế A có khoản thu từ bán thuốc phòng bệnh, chữa bệnh và kinh doanh hàng hóa khác, vậy khoản thu nêu trên thuộc đối tượng điều tiết của Luật thuế TNDN như thế nào biết rằng cơ sở y tế A kê khai thuế TNDN theo phương pháp trực tiếp trên doanh thu",
+        "Choice": "D",
+        "Answer": "Tỷ lệ thuế TNDN phải nộp 1% trên doanh thu"
+    },
+    {
+        "ID": 43,
+        "Question": "Năm 2023, Cơ sở giáo dục A có khoản thu từ lãi tiền gửi ngân hàng, vậy khoản thu từ lãi tiền gửi ngân hàng thuộc đối tượng điều tiết của Luật thuế GTGT như thế nào biết rằng cơ sở giáo dục A kê khai thuế GTGT theo phương pháp trực tiếp trên doanh thu",
+        "Choice": "B",
+        "Answer": "Thuộc đối tượng không phải kê khai thuế GTGT"
+    },
+    {
+        "ID": 44,
+        "Question": "Hoạt động tiêm vacxin thuộc đối trượng chịu thuế suất thuế GTGT như thế nào?\n",
+        "Choice": "C",
+        "Answer": "Không chịu thuế GTGT"
+    },
+    {
+        "ID": 45,
+        "Question": "Thuế suất thuế GTGT, thuế TNCN đối với hộ kinh doanh dịch vụ dịch vụ khám chữa bệnh được quy định như thế nào?",
+        "Choice": "B",
+        "Answer": "Không chịu thuế GTGT, tỉ lệ thuế suất thuế TNCN là 2%"
+    },
+    {
+        "ID": 46,
+        "Question": "Các bệnh viện công lập có doanh thu trên 1 tỷ thì thực hiện kê khai theo phương pháp nào?",
+        "Choice": "C",
+        "Answer": "PP trực tiếp hoặc khấu trừ (tùy theo sự lựa chọn của đơn vị)"
+    },
+    {
+        "ID": 47,
+        "Question": "Mức ưu đãi, miễn giảm thuế TNDN được áp dụng đối với các đơn vị sự nghiệp công lập như thế nào?",
+        "Choice": "A",
+        "Answer": "Đơn vị sự nghiệp công lập thực hiện kê khai đầy đủ doanh thu trừ chi phí"
+    },
+    {
+        "ID": 48,
+        "Question": "Năm 2023, Bệnh viện A có khoản thu từ lãi tiền gửi ngân hàng, vậy khoản thu từ lãi tiền gửi ngân hàng thuộc đối tượng điều tiết của Luật thuế TNDN như thế nào biết rằng bệnh viện A kê khai thuế TNDN theo phương pháp trực tiếp trên doanh thu",
+        "Choice": "B",
+        "Answer": "Tỷ lệ thuế TNDN phải nộp 5% trên doanh thu"
+    },
+    {
+        "ID": 49,
+        "Question": "Các bệnh viện công lập có phải thực hiện nộp BCTC cho cơ quan thuế không?",
+        "Choice": "A",
+        "Answer": "Có "
+    },
+    {
+        "ID": 50,
+        "Question": "Các bệnh viện lựa chọn phương pháp kê khai thuế GTGT trực tiếp trên doanh thu có các tỉ lệ % tính thuế GTGT đối với doanh thu  ntn?",
+        "Choice": "E",
+        "Answer": "Tất cả các phương án trên"
+    },
+    {
+        "ID": 51,
+        "Question": "Bệnh viện là công ty cổ phần kê khai thuế theo phương pháp trực tiếp có cho các đơn vị bên ngoài thuê mặt bằng để làm dịch vụ cawngtin, trông giữ xe. Bệnh viện phải nộp thuế GTGT và TNDN đối với các dịch vụ này như thế nào?",
+        "Choice": "D",
+        "Answer": "5% GTGT, 5% TNDN"
+    },
+    {
+        "ID": 52,
+        "Question": "Danh mục loại hình, quy mô, tiêu chí và tiêu chuẩn về khuyến khích xã hội hóa đối với Bệnh viện đa khoa theo Quyết định số 1466/QĐ-TTg ngày 10/10/2008 và Quyết định số 693/QĐ-TTg ngày 06/5/2013?",
+        "Choice": "B",
+        "Answer": "Quy mô từ 31 giường bệnh trở lên; riêng đối với các cơ sở tại Hà Nội, thành phố Hồ Chí Minh, Hải Phòng, Đà Nẵng phải có quy mô từ 100 giường bệnh trở lên."
+    },
+    {
+        "ID": 53,
+        "Question": "Cơ sở thực hiện xã hội hóathành lập mới từ Tháng 6/2008 tại các địa bàn ưu đãi đầu tư theo quy định tại Phụ lục B ban hành kèm theo Nghị định số 108/2006/NĐ-CP ngày 22 tháng 9 năm 2006 được hưởng ưu đãi về thuế TNDN như thế nào ?",
+        "Choice": "C",
+        "Answer": "Được miễn thuế thu nhập doanh nghiệp trong 4 năm, kể từ khi có thu nhập chịu thuế, giảm 50% thuế thu nhập doanh nghiệp trong 9 năm tiếp theo và được áp dụng thuế suất thuế thu nhập doanh nghiệp là 10% trong suốt thời gian hoạt động"
+    },
+    {
+        "ID": 54,
+        "Question": "Cơ sở tư vấn, dịch vụ chăm sóc người cao tuổi quy định tại điểm b, điểm c khoản 2 Điều 20 của Luật người cao tuổi có thuộc danh mục loại hình được hưởng chính sách ưu đãi về thuế trong lĩnh vực y tế quy định trong QĐ số 1466/QĐ-TTg ngày 10/10/2008 hay không?",
+        "Choice": "B",
+        "Answer": "Không được hưởng"
+    },
+    {
+        "ID": 55,
+        "Question": "Loại hình Phòng Khám có được hưởng ưu đãi của các cơ sở thực hiện xã hội hóa trong lĩnh vực y tế hay không?",
+        "Choice": "B",
+        "Answer": "Chỉ áp dụng đối với Phòng khám tại địa bàn kinh tế - xã hội đặc biệt khó khăn và địa bàn kinh tế - xã hội khó khăn."
+    },
+    {
+        "ID": 56,
+        "Question": "Cơ sở thực hiện xã hội hóa trong lĩnh vực y tế được miễn các loại thuế, phí gì?",
+        "Choice": "A",
+        "Answer": "Miễn lệ phí trước bạ khi đăng ký quyền sử dụng đất, quyền sở hữu tài sản gắn với đất; được miễn các khoản phí, lệ phí khác liên quan đến quyền sử dụng đất, tài sản gắn với đất"
+    },
+    {
+        "ID": 57,
+        "Question": "Khi được nhà nước giao đất và miễn thu tiền sử dụng đất, cho thuê đất và miễn thu tiền thuê đất, cơ sở thực hiện xã hội hóa có được tính giá trị đất đang sử dụng vào giá trị tài sản của dự án đầu tư hay không?",
+        "Choice": "B",
+        "Answer": "Không"
+    },
+    {
+        "ID": 58,
+        "Question": "Danh mục loại hình, quy mô, tiêu chí và tiêu chuẩn về khuyến khích xã hội hóa đối với dịch vụ xét nghiệm, kiểm nghiệm thuộc lĩnh vực y tế dự phòng theo Quyết định số 1466/QĐ-TTg ngày 10/10/2008 và Quyết định số 693/QĐ-TTg ngày 06/5/2013?",
+        "Choice": "C",
+        "Answer": "Có từ 10 cán bộ làm việc 100% thời gian trở lên; riêng đối với các đơn vị tại thành phố Hồ Chí Minh, Hải Phòng, Đà Nẵng phải có từ 15 cán bộ làm việc 100% thời gian trở lên."
+    },
+    {
+        "ID": 59,
+        "Question": "Theo Quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế thì quy trình (QLRR trong quản lý và sử dụng hóa đơn) áp dụng cho cơ quan thuế",
+        "Choice": "D",
+        "Answer": "Tổng cục thuế, Cục thuế, chi cục thuế (Bao gồm cả Chi cục thuế khu vực)"
+    },
+    {
+        "ID": 60,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn) thì thời điểm đánh giá là:",
+        "Choice": "C",
+        "Answer": "Thời điểm thực hiện phân tích thông tin đánh giá NNT"
+    },
+    {
+        "ID": 61,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế thì (QLRR trong quản lý và sử dụng hóa đơn)việc đánh giá, phân loại NNT tại thời điểm",
+        "Choice": "C",
+        "Answer": "Ngày 25 hàng tháng"
+    },
+    {
+        "ID": 62,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn) thì NNT thuộc nhóm I phải trình lãnh đạo cơ quan thuế chuyển sang sử dụng hóa đơn có mã của cơ quan thuế chậm nhất là:",
+        "Choice": "C",
+        "Answer": "Trước ngày 05 hàng tháng"
+    },
+    {
+        "ID": 63,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn) thì NNT phải chuyển sang sử dụng hóa đơn có mã của cơ quan thuế thuộc nhóm:",
+        "Choice": "C",
+        "Answer": "Nhóm I"
+    },
+    {
+        "ID": 64,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn)khi NNT thuộc nhóm I thì thực hiện",
+        "Choice": "C",
+        "Answer": "Chuyển sang sử dụng hóa đơn có mã của cơ quan thuế "
+    },
+    {
+        "ID": 65,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn) thì NNT được xếp hạng rủi ro:",
+        "Choice": "C",
+        "Answer": "Rủi ro cao, rủi ro trung bình, rủi ro thấp"
+    },
+    {
+        "ID": 66,
+        "Question": "Theo quyết định số 575/QĐ-TCT ngày 10/5/2023 của Tổng cục thuế (QLRR trong quản lý và sử dụng hóa đơn) khi NNT thuộc nhóm II, III thì thực hiện",
+        "Choice": "C",
+        "Answer": "Kiểm tra vi phạm pháp luật về hóa đơn tại cơ quan thuế"
+    },
+    {
+        "ID": 67,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, trường hợp hóa đơn điện tử đã lập có thời điểm ký số trên hóa đơn khác thời điểm lập hóa đơn thì  kê khai:",
+        "Choice": "C",
+        "Answer": "Là thời điểm lập hóa đơn"
+    },
+    {
+        "ID": 68,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP  ngày 19/10/2020 của Chính phủ, thời điểm lập hóa đơn đối với các cửa hàng bán lẻ xăng dầu cho khách hàng",
+        "Choice": "C",
+        "Answer": "Thời điểm kết thúc việc bán xăng dầu theo từng lần bán"
+    },
+    {
+        "ID": 69,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, Hóa đơn điện tử có mã của cơ quan thuế là hóa đơn điện tử",
+        "Choice": "C",
+        "Answer": "Được cơ quan thuế cấp mã trước khi tổ chức, cá nhân bán hàng hóa, cung cấp dịch vụ gửi cho người mua"
+    },
+    {
+        "ID": 70,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, Hóa đơn điện tử có mã của cơ quan thuế chỉ sai sót về tên, địa chỉ của người mua thì người bán thực hiện",
+        "Choice": "C",
+        "Answer": "Giải trình"
+    },
+    {
+        "ID": 71,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, trường hợp công chức quản lý thuế phát hiện hóa đơn điện tử có mã của cơ quan thuế hoặc hóa đơn điện tử không có mã của cơ quan thuế đã lập có sai sót thì thực hiện",
+        "Choice": "C",
+        "Answer": "Thông báo cho người bán (Mẫu số 01/TB-RSĐT) về việc hóa đơn cần rà soát"
+    },
+    {
+        "ID": 72,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, Chứng từ trong lĩnh vực quản lý thuế, phí, lệ phí của cơ quan thuế bao gồm:",
+        "Choice": "C",
+        "Answer": "Chứng từ khấu trừ thuế thu nhập cá nhân và biên lai thu thuế, phí, lệ phí."
+    },
+    {
+        "ID": 73,
+        "Question": "Theo Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, Doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh thuộc các trường hợp sau ngừng sử dụng hóa đơn điện tử có mã của cơ quan thuế, ngừng sử dụng hóa đơn điện tử không có mã của cơ quan thuế:",
+        "Choice": "D",
+        "Answer": "Doanh nghiệp, tổ chức kinh tế, tổ chức khác, hộ, cá nhân kinh doanh thuộc trường hợp a, b, c"
+    },
+    {
+        "ID": 74,
+        "Question": "Thời hạn trưởng đoàn thanh tra có trách nhiệm báo cáo Lãnh đạo bộ phận thanh tra, để báo cáo Lãnh đạo cơ quan thuế về tiến độ thực hiện nhiệm vụ của Đoàn thanh tra",
+        "Choice": "A",
+        "Answer": "Chậm nhất là 10 (mười) ngày 1 lần"
+    },
+    {
+        "ID": 75,
+        "Question": "Thời hiệu xử phạt vi phạm hành chính về hóa đơn",
+        "Choice": "A",
+        "Answer": "1 năm"
+    },
+    {
+        "ID": 76,
+        "Question": "Công ty X có khoản hoa hồng đại lý với nhà cung cấp nước ngoài phát sinh vào tháng 12/2023 phát sinh thuế nhà thầu. Công ty X sẽ đối chiếu công nợ vào tháng 01/2024. Sau khi bù trừ công nợ, số tiền cuối cùng sẽ được thanh toán vào tháng 2/2024. Thuế nhà thầu của khoản hoa hồng đại lý đó sẽ được kê khai vào tháng 2/2024, việc kê khai thuế nhà thầu vào tháng 02/2024 cho khoản hoa hồng phát sinh vào tháng 12/2023 thì khoản hoa hồng đại lý đó có được tính là chi phí hợp lý hợp lệ trong năm tài chính 2023 được không  và thời điểm kê khai thuế nhà thầu vào tháng 2/2024 có đúng không ?",
+        "Choice": "B",
+        "Answer": "Được đưa vào chi phí hợp lý hợp lệ trong năm tài chính 2023 - kê khai thuế nhà thầu vào tháng 2/2024 là sai"
+    },
+    {
+        "ID": 77,
+        "Question": "Công ty X mới thành lập tháng 5/2020 hoạt động trong lĩnh vực xuất khẩu. Trong quá trình hoạt động Công ty có 3 lần xuất khẩu hàng hóa sang Trung Quốc vào tháng 3/2020, tháng 3/2021 và tháng tháng 5/2023. Việc kê khai nào sau đây là đúng quy định:",
+        "Choice": "C",
+        "Answer": "Công ty kê khai tờ khai Hải Quan, xuất hóa đơn điện tử đối với kỳ tháng 3/2021 và tháng 5/2023 và kê khai doanh thu tính thuế GTGT thuế suất 0% đối với 3 lần xuất khẩu nêu trên"
+    },
+    {
+        "ID": 78,
+        "Question": "Ngày 16/5/2023, cơ sở kinh doanh nộp thuế giá trị gia tăng theo phương pháp khấu trừ phát hiện hóa đơn bán ra của sản phẩm hàng hóa chịu thuế suất thuế giá trị gia tăng 5% phát sinh tháng 03/2023 bị bỏ sót chưa kê khai dẫn đến làm giảm số thuế phải nộp và cơ quan thuế, cơ quan có thẩm quyền chưa công bố quyết định thanh tra, kiểm tra thì việc khai bổ sung điều chỉnh thuế giá trị gia tăng của cơ sở kinh doanh",
+        "Choice": "A",
+        "Answer": "Thực hiện khai vào hồ sơ khai thuế bổ sung kỳ tính tháng 03/2023"
+    },
+    {
+        "ID": 79,
+        "Question": "Doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN đối với khoản chi phí nào dưới đây.",
+        "Choice": "B",
+        "Answer": "Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại các khoản nợ phải trả có gốc ngoại tệ cuối kỳ tính thuế"
+    },
+    {
+        "ID": 80,
+        "Question": "Trường hợp cơ sở kinh doanh sử dụng hàng hóa, dịch vụ để khuyến mại nhưng không thực hiện theo đúng quy định của pháp luật về thương mại thì thuế GTGT đối với hàng hóa, dịch vụ đó được xác định",
+        "Choice": "C",
+        "Answer": "Phải kê khai, tính nộp thuế như đối với hàng hóa, dịch vụ dùng để biếu, tặng, cho."
+    },
+    {
+        "ID": 81,
+        "Question": "Theo quy định của Luật thuế TNDN, mức trích lập Quỹ phát triển khoa học và công nghệ của doanh nghiệp thành lập và hoạt động theo quy định của pháp luật Việt Nam:",
+        "Choice": "A",
+        "Answer": "Tối đa 15% từ thu nhập tính thuế."
+    },
+    {
+        "ID": 82,
+        "Question": "Hàng hóa trong trường hợp nào sau đây không phải kê khai, tính nộp thuế GTGT:",
+        "Choice": "C",
+        "Answer": "Sản phẩm trồng trọt, chăn nuôi chưa qua chế biến do cơ sở kinh doanh nộp thuế GTGT theo phương pháp khấu trừ bán cho doanh nghiệp, hợp tác xã khác ở khâu kinh doanh thương mại."
+    },
+    {
+        "ID": 83,
+        "Question": "Theo quy định của Luật thuế GTGT, chuyển quyền sử dụng đất thuộc đối tượng:",
+        "Choice": "A",
+        "Answer": "Không chịu thuế GTGT."
+    },
+    {
+        "ID": 84,
+        "Question": "Cơ sở kinh doanh không phải kê khai, nộp thuế GTGT trong trường hợp nào sau đây:",
+        "Choice": "D",
+        "Answer": "Cả ba trường hợp không phải kê khai, nộp thuế GTGT."
+    },
+    {
+        "ID": 85,
+        "Question": "Năm 2018, công ty X có dự án đầu tư mới sản xuất sản phẩm Y và được hưởng ưu đãi về thuế suất 10% trong thời hạn 15 năm. Nếu dự án đầu tư này phát sinh doanh thu từ năm 2019 nhưng đến năm 2023 mới phát sinh thu nhập thì thời gian áp dụng thuế suất ưu đãi 10% được tính liên tục từ năm:",
+        "Choice": "B",
+        "Answer": "Năm 2019."
+    },
+    {
+        "ID": 86,
+        "Question": "Người nộp thuế có đơn vị phụ thuộc là cơ sở sản xuất hàng hóa, không trực tiếp bán hàng, không phát sinh doanh thu khác tỉnh, thành phố nơi có trụ sở chính thì đối với hoạt động sản xuất của đơn vị phụ thuộc: ",
+        "Choice": "B",
+        "Answer": "Khai tập trung tại trụ sở chính và nộp phụ lục bảng phân bổ thuế giá trị gia tăng phải nộp cho địa phương nơi được hưởng nguồn thu cho cơ quan thuế quản lý trực tiếp; Nộp số tiền thuế phân bổ cho tỉnh nơi có đơn vị phụ thuộc."
+    },
+    {
+        "ID": 87,
+        "Question": "Quy định về thời điểm xác định thuế GTGT đối với bán hàng hóa là : ",
+        "Choice": "C",
+        "Answer": "Thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa."
+    },
+    {
+        "ID": 88,
+        "Question": "Quy định về thời điểm xác định thuế GTGT đối với bán hàng hóa là : ",
+        "Choice": "C",
+        "Answer": "Thời điểm chuyển giao quyền sở hữu hoặc quyền sử dụng hàng hóa cho người mua, không phân biệt đã thu được tiền hay chưa."
+    },
+    {
+        "ID": 89,
+        "Question": "Công ty xây dựng X có một số công trình xây lắp thực hiện trong 2 năm 2022 và 2023. Trong năm 2022 đã xuất một số hóa đơn theo giai đoạn công trình theo mức thuế suất ưu đãi 8%. Sang năm 2023 sẽ hoàn thành, quyết toán và bàn giao công trình.\n         Vậy khi quyết toán công trình thì mức thuế suất (tính cho cả công trình/hợp đồng) là mức 8% hay 10%? Đối với các hóa đơn đã xuất trong năm 2022 theo mức 8% có phải xuất điều chỉnh, bổ sung thành 10% khi quyết toán công trình trong năm 2023 hay không? Nếu không phải điều chỉnh thì trong phần quyết toán giá trị sẽ thể hiện như thế nào (khi có cả 2 mức thuế suất khác nhau)?",
+        "Choice": "C",
+        "Answer": "Xuất hóa đơn thuế suất 8% năm 2022 theo quy định tại NĐ 15/2022 và xuất hóa đơn thuế suất 10% năm 2023 đối với phần còn lại của công trình được nghiệm thu năm 2023."
+    },
+    {
+        "ID": 90,
+        "Question": "Lập và phê duyệt kế hoạch kiểm tra hồ sơ thuế năm",
+        "Choice": "C",
+        "Answer": "Có thể bổ sung, điều chỉnh tùy thuộc vào thực tế phát sinh"
+    },
+    {
+        "ID": 91,
+        "Question": "Tổ kiểm tra tại trụ sở cơ quan thuế được quy định:",
+        "Choice": "B",
+        "Answer": "Tối thiểu 02 người/01 Tổ kiểm tra, có thể thay đổi trong 1 năm"
+    },
+    {
+        "ID": 92,
+        "Question": "Hết thời hạn theo thông báo lần 2 của cơ quan thuế mà người nộp thuế không giải trình, bổ sung thông tin, tài liệu nhưng có kết quả xác minh vẫn hoạt động tại địa chỉ đăng ký kinh doanh; hoặc không khai bổ sung hồ sơ thuế; hoặc giải trình, khai bổ sung hồ sơ thuế nhưng không chứng minh được số thuế đã khai là đúng thì Tổ kiểm tra thực hiện:",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên đều đúng"
+    },
+    {
+        "ID": 93,
+        "Question": "Số tiêu chí chấm điểm của TPR đối với các sắc thuế TNDN, GTGT, TTĐB theo quy định về việc ban hành tiêu chí rủi ro là:",
+        "Choice": "B",
+        "Answer": "TNDN: 8 tiêu chí, GTGT: 5 tiêu chí, TTĐB: 4 tiêu chí."
+    },
+    {
+        "ID": 94,
+        "Question": "Theo Quyết định 970/QĐ-TCT ngày 14/7/2023 của TCT quy định hồ sơ trình để thực hiện ra thông báo giải trình, bổ sung thông tin, tài liệu lần 1:",
+        "Choice": "C",
+        "Answer": "Tờ trình, Dự thảo thông báo, Quyết định giao nhiệm vụ kiểm tra hồ sơ thuế, Bản nhận xét hồ sơ thuế, Hồ sơ thuế"
+    },
+    {
+        "ID": 95,
+        "Question": "Doanh nghiệp A có 2 hoạt động kinh doanh chính là: Sản xuất đồ nhựa và kinh doanh bất động sản. Năm 2022, do tình hình kinh tế khó khăn nên hoạt động sản xuất đồ nhựa bị lỗ, kinh doanh bất động sản thì lãi. Doanh nghiệp A có được bù trừ lãi lỗ hai hoạt động kinh doanh trên để xác định thuế TNDN không?",
+        "Choice": "B",
+        "Answer": "Không"
+    },
+    {
+        "ID": 96,
+        "Question": "Nguyên tắc xử lý trong trường hợp khi cơ quan thuế xác định số thuế đủ điều kiện được hoàn khác số thuế người nộp thuế đề nghị hoàn:",
+        "Choice": "B",
+        "Answer": "Trường hợp số thuế đề nghị hoàn nhỏ hơn số thuế đủ điều kiện được hoàn thì người nộp thuế được hoàn bằng số thuế đề nghị hoàn."
+    },
+    {
+        "ID": 97,
+        "Question": "Trường hợp cơ quan thuế, cơ quan nhà nước có thẩm quyền qua thanh tra, kiểm tra phát hiện người nộp thuế đã được hoàn không đúng quy định, thì:",
+        "Choice": "A",
+        "Answer": "Người nộp thuế phải nộp số tiền đã được hoàn thừa và nộp tiền chậm nộp tương ứng vào ngân sách nhà nước kể từ ngày được Kho bạc Nhà nước chi trả tiền hoàn hoặc ngày Kho bạc Nhà nước hạch toán bù trừ tiền hoàn thuế với khoản thu ngân sách nhà nước theo Quyết định về việc thu hồi hoàn thuế"
+    },
+    {
+        "ID": 98,
+        "Question": "Trường hợp người nộp thuế đã được hoàn thuế giá trị gia tăng đối với hàng hóa xuất khẩu nhưng bị người bán trả lại hàng hóa đã xuất khẩu, NNT đã khai bổ sung trước khi Cơ quan thuế công bố quyết định thanh tra, kiểm tra tại trụ sở NNT đồng thời nộp số tiền đã được hoàn tương ứng với hàng xuất khẩu bị trả lại và nộp tiền chậm nộp tương ứng thì:",
+        "Choice": "B",
+        "Answer": "NNT không bị xử phạt vi phạm hành chính về quản lý thuế"
+    },
+    {
+        "ID": 99,
+        "Question": "Trong các trường hợp sau, trường hợp nào hồ sơ nào không thuộc diện kiểm tra trước hoàn thuế ",
+        "Choice": "B",
+        "Answer": "Hồ sơ của người nộp thuế đề nghị hoàn thuế trong thời hạn 02 năm kể từ thời điểm bị xử lý về hành vi khai sai"
+    },
+    {
+        "ID": 100,
+        "Question": "Trường hợp qua kiểm tra, thanh tra thuế phát hiện người nộp thuế mua hàng hóa, dịch vụ của người nộp thuế khác (bên cung cấp hàng hóa, dịch vụ) có hành vi trốn thuế,",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên"
+    },
+    {
+        "ID": 101,
+        "Question": "Trong quá trình kiểm tra hồ sơ hoàn thuế thuộc diện kiểm tra trước hoàn, nếu cơ quan thuế xác định vừa có số thuế đủ điều kiện được hoàn vừa có số thuế cần kiểm tra xác minh thì:",
+        "Choice": "A",
+        "Answer": "Giải quyết hoàn trả số thuế đã đủ điều kiện hoàn cho người nộp thuế, không chờ kết quả kiểm tra xác minh toàn bộ hồ sơ hoàn thuế;"
+    },
+    {
+        "ID": 102,
+        "Question": "Trường hợp cơ sở kinh doanh (sau đây gọi là NNT) có dự án đầu tư mới tại địa bàn tỉnh, thành phố trực thuộc trung ương khác với tỉnh, thành phố nơi đóng trụ sở chính, đang trong giai đoạn đầu tư chưa đi vào hoạt động, chưa đăng ký kinh doanh, chưa đăng ký thuế đề nghị hoàn thuế từ tháng 01/2021 hoặc quý 1/2021 trở đi thì cơ quan thuế giả quyết hoàn thuế là: ",
+        "Choice": "B",
+        "Answer": "Cục Thuế nơi có dự án đầu tư tiếp nhận và giải quyết hồ sơ hoàn thuế đối với dự án đầu tư của NNT."
+    },
+    {
+        "ID": 103,
+        "Question": "Trường hợp qua kiểm tra, thanh tra hoàn thuế thuế phát hiện người nộp thuế mua hàng hóa, dịch vụ của người nộp thuế khác (bên cung cấp hàng hóa, dịch vụ) có hành vi trốn thuế thì",
+        "Choice": "D",
+        "Answer": "a và c"
+    },
+    {
+        "ID": 104,
+        "Question": "Người nộp thuế tự phát hiện đã được hoàn không đúng quy định  nhưng vẫn đáp ứng đủ điều kiện khấu trừ về thuế giá trị gia tăng theo quy định của pháp luật về thuế giá trị gia tăng thì",
+        "Choice": "A",
+        "Answer": " Được khai khấu trừ bổ sung số tiền đã được hoàn không đúng quy định  kể từ kỳ tính thuế tiếp theo kỳ phát hiện sai sót"
+    },
+    {
+        "ID": 105,
+        "Question": "Cơ quan thuế thực hiện thanh tra kiểm tra đối với hồ sơ hoàn thuế trước theo nguyên tắc quản lý rủi ro trong quản lý thuế trong thời hạn",
+        "Choice": "A",
+        "Answer": "05 năm kể từ ngày ban hành quyết định hoàn thuế"
+    },
+    {
+        "ID": 106,
+        "Question": "Khi kiểm tra chứng từ thanh toán hàng hóa, dịch vụ xuất khẩu, Trường hợp phía nước ngoài thanh toán qua ngân hàng nhưng chứng từ thanh toán qua ngân hàng không đúng tên ngân hàng phải thanh toán đã thoả thuận trong hợp đồng. Nhưng nội dung chứng từ thể hiện rõ tên người thanh toán, tên người thụ hưởng, số hợp đồng xuất khẩu, giá trị thanh toán phù hợp với hợp đồng xuất khẩu đã được ký kết ",
+        "Choice": "A",
+        "Answer": "Được chấp nhận là chứng từ thanh toán hợp lệ."
+    },
+    {
+        "ID": 107,
+        "Question": "Hàng hóa, vật tư do doanh nghiệp Việt Nam xuất khẩu để thực hiện công trình xây dựng ở nước ngoài thì thủ tục hồ sơ để doanh nghiệp Việt Nam thực hiện công trình xây dựng tại nước ngoài được khấu trừ hoặc hoàn thuế GTGT đầu vào phải đáp ứng các điều kiện nào:",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên"
+    },
+    {
+        "ID": 108,
+        "Question": "Trường hợp phía nước ngoài (bên nhập khẩu) ủy quyền cho bên thứ ba là tổ chức, cá nhân ở nước ngoài thực hiện thanh toán; bên thứ ba yêu cầu tổ chức ở Việt Nam (bên thứ tư) thanh toán bù trừ công nợ với bên thứ ba bằng việc thực hiện thanh toán qua ngân hàng số tiền bên nhập khẩu phải thanh toán cho cơ sở kinh doanh Việt Nam xuất khẩu thì cơ sở kinh doanh xuất khẩu phải có đủ các điều kiện, hồ sơ như sau:",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên"
+    },
+    {
+        "ID": 109,
+        "Question": "Khi kiểm tra thanh tra hoàn thuế tại DN A, Đoàn kiểm tra phát hiện DN A không có chứng từ thanh toán qua ngân hàng đối với lô hàng hóa xuất khẩu không đảm bảo chất lượng phải tiêu hủy. DN A cung cấp hồ sơ gồm: Văn bản giải trình rõ lý do tiêu hủy,  biên bản tiêu hủy  hàng hóa ở nước ngoài của cơ quan thực hiện tiêu hủy, chứng từ thanh toán qua ngân hàng đối với chi phí tiêu hủy thuộc trách nhiệm chi trả của DN A, kèm giấy tờ chứng minh chi phí tiêu hủy thuộc trách nhiệm của người mua hoặc bên thứ ba (01 bản sao). Đoàn kiểm tra xử lý:",
+        "Choice": "A",
+        "Answer": "Đủ điều kiện khấu trừ, hoàn thuế"
+    },
+    {
+        "ID": 110,
+        "Question": "Khi kiểm tra doanh nghiệp A có hàng hóa dịch vụ xuất khẩu, hàng hóa xuất khẩu được tổ chức nước ngoài  thanh toán từ tài khoản tiền gửi vãng lai của phía nước ngoài mở tại các tổ chức tín dụng tại Việt Nam. Doanh nghiệp A cung cấp choa Đoàn kiểm tra:  Chứng từ thanh toán là giấy báo Có của ngân hàng bên xuất khẩu về số tiền đã nhận được từ tài khoản vãng lai của người mua phía nước ngoài đã ký hợp đồng;  Hợp đồng xuất khẩu (phụ lục hợp đồng hoặc văn bản điều chỉnh hợp đồng - nếu có), trong hợp đồng không có quy định thanh toán từ tài khoản tiền gửi vãng lai của phía nước ngoài mở tại các tổ chức tín dụng tại Việt Nam thì Doanh nghiệp A có đáp ứng điều kiện được coi là thanh toán qua ngân hàng.",
+        "Choice": "A",
+        "Answer": "Đáp ứng điều kiện"
+    },
+    {
+        "ID": 111,
+        "Question": "Công ty B có trụ sở chính tại Hà Nội, tháng 7/2023, Công ty có dự án đầu tư mới tại Hải phòng, dự án đang trong giai đoạn đầu tư, chưa đi vào hoạt động, chưa đăng ký kinh doanh, chưa đăng ký thuế, Công ty B thực hiện kê khai riêng thuế GTGT đầu vào của dự án đầu tư này tại Hải Phòng trên Tờ khai thuế GTGT dành cho dự án đầu tư. Tháng 8/2023, số thuế GTGT đầu vào của dự án đầu tư là 500 triệu đồng; số thuế GTGT phải nộp của hoạt động sản xuất kinh doanh mà Công ty đang thực hiện là 200 triệu đồng. Công ty B phải bù trừ 200 triệu đồng thuế GTGT đầu vào của dự án đầu tư với số thuế phải nộp của hoạt động sản xuất kinh doanh đang thực hiện (200 triệu đồng). Vậy, kỳ tính thuế tháng 8/2023 Công ty B có số thuế GTGT đầu vào của dự án đầu tư mới chưa được khấu trừ hết là 300 triệu đồng. Công ty B được xét hoàn thuế GTGT cho dự án đầu tư và lập hồ sơ hoàn thuế. Cơ quan thuế giải quyết hồ sơ hoàn thuế dự án đầu tư là: ",
+        "Choice": "B",
+        "Answer": "Cục Thuế Hải Phòng"
+    },
+    {
+        "ID": 112,
+        "Question": "Công ty A nhập khẩu Bia, rượu sau đó xuất khẩu có số thuế GTGT đầu vào trên 300 triệu đồng thì khi xuất khẩu Công ty A có được  khấu trừ thuế GTGT đầu vào và hoàn thuế GTGT đối với xuất khẩu hay không",
+        "Choice": "A",
+        "Answer": "Công ty A không được khấu trừ thuế GTGT đầu vào, không được hoàn thuế đối với hoaạt động xuất khẩu"
+    },
+    {
+        "ID": 113,
+        "Question": "Trường hợp xây dựng, lắp đặt không bao thầu nguyên vật liệu, máy móc, thiết bị, giá tính thuế là:",
+        "Choice": "B",
+        "Answer": "Giá trị xây dựng, lắp đặt không bao gồm giá trị nguyên vật liệu, máy móc, thiết bị và chưa gồm thuế GTGT."
+    },
+    {
+        "ID": 114,
+        "Question": "Kể từ khi thông tư số 80/2021/TT-BTC có hiệu lực thi hành, Người nộp thuế kinh doanh xây dựng, lắp đặt,ngoại tỉnh thì phân bổ thuế GTGT phải nộp theo tỷ lệ trên doanh thu hàng hoá chưa có thuế GTGT với cơ quan Thuế quản lý địa phương nơi có hoạt động xây dựng, lắp đặt ngoại tỉnh, theo quy định",
+        "Choice": "D",
+        "Answer": "doanh thu chưa có thuế giá trị gia tăng đối với hoạt động xây dựng tại từng tỉnh nhân (x) với 1%"
+    },
+    {
+        "ID": 115,
+        "Question": "Người nộp thuế tài nguyên là ",
+        "Choice": "D",
+        "Answer": "Cả 2 trường hợp a, b"
+    },
+    {
+        "ID": 116,
+        "Question": "Người nộp thuế là nhà thầu xây dựng, ký hợp đồng trực tiếp với chủ đầu tư để thi công công trình xây dựng tại tỉnh khác với nơi có trụ sở chính của người nộp thuế, bao gồm cả công trình, hạng mục công trình xây dựng liên quan tới nhiều tỉnh thì người nộp thuế thực hiện khai thuế giá trị gia tăng ở đâu theo quy định tại Thông tư số 80/2021/TT-BTC",
+        "Choice": "A",
+        "Answer": "Thực hiện khai thuế giá trị gia tăng của các công trình, hạng mục công trình đó với cơ quan thuế nơi có công trình xây dựng theo mẫu số 05/GTGT ban hành kèm theo phụ lục II Thông tư này; nộp tiền thuế đã kê khai vào ngân sách nhà nước tại tỉnh nơi có công trình xây dựng. Người nộp thuế phải tổng hợp doanh thu chưa có thuế giá trị gia tăng đối với hoạt động xây dựng vào hồ sơ khai thuế tại trụ sở chính để xác định số thuế phải nộp cho toàn bộ hoạt động sản xuất kinh doanh tại trụ sở chính. Số thuế giá trị gia tăng đã nộp tại tỉnh nơi có công trình xây dựng được bù trừ với số thuế giá trị gia tăng phải nộp tại trụ sở chính"
+    },
+    {
+        "ID": 117,
+        "Question": "Hàng hóa, vật tư do doanh nghiệp Việt Nam xuất khẩu để thực hiện công trình xây dựng ở nước ngoài thì thủ tục hồ sơ để doanh nghiệp Việt Nam thực hiện công trình xây dựng tại nước ngoài được khấu trừ hoặc hoàn thuế GTGT đầu vào phải đáp ứng các điều kiện sau:",
+        "Choice": "D",
+        "Answer": "Tờ khai hải quan theo quy định tại khoản 2 Điều 16 Thông tư 219/2013/TT-BTC. Hàng hóa, vật tư xuất khẩu phải phù hợp với Danh mục hàng hóa xuất khẩu để thực hiện công trình xây dựng ở nước ngoài do Giám đốc doanh nghiệp Việt Nam thực hiện công trình xây dựng ở nước ngoài phê duyệt; Hợp đồng ủy thác xuất khẩu (trường hợp ủy thác xuất khẩu)."
+    },
+    {
+        "ID": 118,
+        "Question": "Hàng hóa, vật tư do cơ sở kinh doanh trong nước bán cho doanh nghiệp Việt Nam để thực hiện công trình xây dựng ở nước ngoài và thực hiện giao hàng hóa tại nước ngoài theo Hợp đồng ký kết thì thủ tục hồ sơ để cơ sở kinh doanh trong nước bán hàng thực hiện khấu trừ hoặc hoàn thuế GTGT đầu vào đối với hàng hóa xuất khẩu phải đáp ứng các điều kiện sau:",
+        "Choice": "g",
+        "Answer": "Tất cả các đáp án trên"
+    },
+    {
+        "ID": 119,
+        "Question": "Năm 2015, doanh nghiệp thành lập mới tại địa bàn tỉnh Hà Giang (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn) hoạt động trong lĩnh vực xây dựng. Doanh nghiệp được hưởng ưu đãi thuế thu nhập doanh nghiệp do đáp ứng điều kiện về địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn. Trong năm 2015, doanh nghiệp thực hiện hoạt động xây dựng tại địa bàn tỉnh Hà Giang, đồng thời có hoạt động xây dựng tại các tỉnh lân cận như tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn), thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn), thành phố Hà Nội (không thuộc địa bàn ưu đãi). Do hoạt động xây dựng thực hiện tại địa bàn tỉnh Hà Giang nên thu nhập từ hoạt động xây dựng tại địa bàn tỉnh Hà Giang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn tỉnh Hà Giang. Đối với thu nhập từ hoạt động xây dựng tại các tỉnh lân cận thì xác định ưu đãi thuế thu nhập doanh nghiệp ",
+        "Choice": "B",
+        "Answer": "Do hoạt động xây dựng thực hiện tại địa bàn tỉnh Hà Giang nên thu nhập từ hoạt động xây dựng tại địa bàn tỉnh Hà Giang được hưởng ưu đãi thuế thu nhập doanh nghiệp theo địa bàn tỉnh Hà Giang. Đối với thu nhập từ hoạt động xây dựng tại các tỉnh lân cận thì xác định ưu đãi thuế thu nhập doanh nghiệp như sau: \n+ Đối với thu nhập tại địa bàn tỉnh Cao Bằng (địa bàn có điều kiện kinh tế xã hội đặc biệt khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo mức và thời gian ưu đãi thuế còn lại của doanh nghiệp.\n+ Đối với thu nhập tại địa bàn thành phố Lào Cai (địa bàn có điều kiện kinh tế xã hội khó khăn): được hưởng ưu đãi thuế thu nhập doanh nghiệp theo điều kiện địa bàn có điều kiện kinh tế xã hội khó khăn theo mức và thời gian ưu đãi thuế thu nhập doanh nghiệp theo điều kiện tại địa bàn thành phố Lào Cai cho thời gian còn lại của doanh nghiệp.\n+ Đối với thu nhập tại địa bàn thành phố Hà Nội (không thuộc địa bàn ưu đãi): không được hưởng ưu đãi thuế thu nhập doanh nghiệp do hoạt động xây dựng thực hiện tại địa bàn không thuộc địa bàn ưu đãi."
+    },
+    {
+        "ID": 120,
+        "Question": "Doanh nghiệp xây dựng dự án sử dụng vốn nhà nước lập dự toán theo quy định của nhà nước. Nếu phần vượt mức tiêu hao nguyên liệu vượt dự toán mà nguyên nhân là giá nguyên liệu tăng so với lúc lập dự toán thì khoản này có được tính chi phí không?",
+        "Choice": "C",
+        "Answer": "Có nếu được cơ quan Nhà nước có thẩm quyền phê duyệt đồng ý"
+    },
+    {
+        "ID": 121,
+        "Question": "Doanh nghiệp A có doanh thu năm 2019 là 180 tỷ đồng, năm 2021 là 175 tỷ đồng. Doanh nghiệp B có doanh thu năm 2019 là 150 tỷ đồng, năm 2021 là 165 tỷ đồng. Xác định DN được giảm thuế TNDN năm 2021 theo quy định tại Nghị định 92/2021/NĐ-CP",
+        "Choice": "A",
+        "Answer": "Doanh nghiệp A.   "
+    },
+    {
+        "ID": 122,
+        "Question": "Năm 2018, Đoàn kiểm tra Cục thuế TP Hà Nội thực hiện kiểm tra thuế tại Công ty xây dựng A có địa chỉ tại 166 Ngô Quyền, quận Hoàn Kiếm, thành phố Hà Nội, thời kỳ kiểm tra năm 2017. Tại tờ khai thuế GTGT tháng 10/2017, Công ty A kê khai chỉ tiêu 39: Thuế GTGT đã nộp ở địa phương khác của hoạt động kinh doanh xây dựng, lắp đặt, bán hàng, bất động sản ngoại tỉnh, số tiền 600 tr đồng. Công ty A xuất trình chứng từ nộp thuế vãng lai ngoại tỉnh gồm: 200tr nộp cho công trình xây dựng trụ sở UBND quận Nam Từ Liêm ngày 8/10/2017, 300 tr nộp cho Công trình xây dựng trường học tại TP Hồ Chí Minh ngày 9/10/2007, 100 tr còn lại đơn vị không xuất trình được chứng từ. Đoàn kiểm tra xử lý về thuế đối với trường hợp này như sau:",
+        "Choice": "B",
+        "Answer": "Giảm chỉ tiêu 39, số tiền 300 tr đồng"
+    },
+    {
+        "ID": 123,
+        "Question": "Công ty B ký hợp đồng với Công ty C về việc cấp dịch vụ tư vấn, khảo sát, thiết kế cho dự án đầu tư ở Cam-pu-chia của Công ty C ( Công ty B và Công ty C là doanh nghiệp Việt Nam). Hợp đồng có phát sinh các dịch vụ thực hiện ở Việt Nam và các dịch vụ thực hiện taị Campuchia. Xác đinh thuế suất thuế GTGT (giả dụ công ty thỏa mãn đủ điều kiện, hồ sơ áp dụng thuế suất theo quy định) trong TH này",
+        "Choice": "B",
+        "Answer": "Giá trị dịch vụ thực hiện tại Cam-pu-chia được áp dụng thuế suất 0%; đối với với phần doanh thu dịch vụ thực hiện tại VN, Công ty B phải kê khai và nộp thuế GTGT theo quy định"
+    },
+    {
+        "ID": 124,
+        "Question": "Kỹ năng phát hiện doanh nghiệp chưa kê khai doanh thu bảo hành công trình",
+        "Choice": "C",
+        "Answer": "Kiểm tra đối chiếu giữa hồ sơ khai thuế GTGT với hồ sơ quyết toán công trình đã hoàn thành bàn giao"
+    },
+    {
+        "ID": 125,
+        "Question": "Công ty A có trụ sở tại Hà Nội ký hợp đồng với Công ty B chỉ để thực hiện tư vấn, khảo sát, thiết kế công trình được xây dựng tại Sơn La  mà Công ty B là chủ đầu tư. Theo Thông tư số 26/2015/TT-BTC Công ty A có phải kê khai nộp thuế như thế nào",
+        "Choice": "A",
+        "Answer": "Công ty A thực hiện khai thuế GTGT đối với hợp đồng này tại trụ sở chính tại Hà Nội"
+    },
+    {
+        "ID": 126,
+        "Question": "Công ty XD B có công trình nghiệm thu khối lượng hoàn thành ngày 20/11/2022 nhưng ngày 15/01/2023 đơn vị mới lập hóa đơn. Trong trường hợp này đơn vị có được giảm thuế theo Nghị định số 15/2022/NĐ-CP ngày 28/1/2022 của Chính phủ",
+        "Choice": "C",
+        "Answer": "Công ty XD B  được giảm thuế theo Nghị định số 15/2022/NĐ-CP ngày 28/1/2022 của Chính phủ và bị  xử lý vi phạm hành chính đối với hành vi lập hóa đơn không đúng thời điểm"
+    },
+    {
+        "ID": 127,
+        "Question": "Đối với các doanh nghiệp có nhận thầu thi công, không có giấy phép tài nguyên, nhưng trong quá trình thi công có phát sinh sản lượng tài nguyên khai thác tiêu thụ (như nhận thầu nạo vét kênh, mương, hồ, đầm có phát sinh sản lượng cát, đất, bùn bán ra; khai thác đá dùng chế biến làm vật liệu xây dựng thi công công trình. Công ty kê khai và nôp thuế tài nguyên ở đâu",
+        "Choice": "B",
+        "Answer": "Kê khai, nộp thuế tài nguyên với cơ quan thuế địa phương khai thác tài nguyên"
+    },
+    {
+        "ID": 127,
+        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có mức khống chế (của tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh) là số âm.",
+        "Choice": "B",
+        "Answer": "Loại trừ toàn bộ \"tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ\" và số loại trừ không được chuyển các kỳ sau"
+    },
+    {
+        "ID": 128,
+        "Question": "Thuế GTGT mua vào cây ATM được khấu trừ như thế nào?",
+        "Choice": "C",
+        "Answer": "Không được khấu trừ"
+    },
+    {
+        "ID": 129,
+        "Question": "Thuế GTGT sửa chữa, thay thế thiết bị cây ATM được khấu trừ như thế nào?",
+        "Choice": "C",
+        "Answer": "Không được khấu trừ"
+    },
+    {
+        "ID": 130,
+        "Question": "Ngân hàng thương mại A bán tài sản có nguồn gốc đảm bảo tiền vay là dây chuyền chế biến thủy sản có giá trị 8 tỷ đồng. Ngân hàng khai thuế GTGT như thế nào",
+        "Choice": "A",
+        "Answer": "Không chịu thuế GTGT"
+    },
+    {
+        "ID": 131,
+        "Question": "Ngân hàng thương mại A bán tài sản có nguồn gốc đảm bảo tiền vay là ô tô đã sang tên ngân hàng giá trị 1,2 tỷ đồng. Ngân hàng khai thuế GTGT như thế nào",
+        "Choice": "C",
+        "Answer": "Tính thuế 10%"
+    },
+    {
+        "ID": 132,
+        "Question": "Doanh thu từ hoạt động cung ứng dịch vụ thư tín dụng thuộc đối tượng?",
+        "Choice": "C",
+        "Answer": "Chịu thuế GTGT"
+    },
+    {
+        "ID": 133,
+        "Question": "Ngân hàng thương mại A cho thuê tài sản đảm bảo trong thời gian chờ phát mại với mục đích thu hồi nợ của khoản tín dụng cho vay. Ngân hàng A xác định?",
+        "Choice": "C",
+        "Answer": "Tính thuế GTGT"
+    },
+    {
+        "ID": 134,
+        "Question": "Ngân hàng A có khoản cho vay với lãi suất cố định 5,2%. NH A đàm phán với NH B (nước ngoài) để thực hiện hợp đồng hoán đổi lãi suất. Lãi suất thả nổi NH A phải trả cho NHB: Libor + 0,25%. Ngân hàng A phải khai thuế nộp thay nhà thầu nước tính trên thu nhập là:",
+        "Choice": "D",
+        "Answer": "(Libor + 0,25%)-5,2% khi ((Libor + 0,25%)-5,2%)>0"
+    },
+    {
+        "ID": 135,
+        "Question": "Ngân hàng A cho Công ty B vay 8 tỷ đồng, thời hạn 03 năm với tài sản đảm bảo tiền vay là dây chuyền sản xuất giá trị 10 tỷ đồng. Tính đến 31/12/2023, khoản cho vay đã quá hạn trả 100 ngày. Ngân hàng đánh giá lại giá trị tài sản đảm bảo còn 9,2 tỷ đồng. Ngân hàng trích dự phòng nợ xấu là:",
+        "Choice": "C",
+        "Answer": "4 tỷ "
+    },
+    {
+        "ID": 136,
+        "Question": "Anh (chị) hãy cho biết thu nhập tại Ngân hàng thương mại hạch toán tài khoản loại mấy.",
+        "Choice": "C",
+        "Answer": "Loại 7"
+    },
+    {
+        "ID": 137,
+        "Question": "Anh (chị) hãy cho biết chi phí tại Ngân hàng thương mại hạch toán tài khoản loại mấy.",
+        "Choice": "D",
+        "Answer": "Loại 8"
+    },
+    {
+        "ID": 138,
+        "Question": "Trường hợp tổ chức tín dụng được phép chuyển nhượng bất động sản đã được thế chấp theo quy định của pháp luật để thu hồi vốn nếu không xác định được giá vốn của bất động sản thì giá vốn được xác định như sau:",
+        "Choice": "C",
+        "Answer": "Vốn vay phải trả theo hợp đồng thế chấp bất động sản + Chi phí lãi vay chưa trả đến thời điểm phát mãi bất động sản thế chấp theo hợp đồng tín dụng + Các khoản chi phí phát sinh khi chuyển nhượng bất động sản nếu có hóa đơn, chứng từ hợp pháp."
+    },
+    {
+        "ID": 139,
+        "Question": "Tổ chức nào bán tài sản đảm bảo tiền vay thì thuộc đối tượng không chịu thuế GTGT.",
+        "Choice": "D",
+        "Answer": "Cả ba trường hợp trên"
+    },
+    {
+        "ID": 140,
+        "Question": "Phí UPAS L/C thuộc đối tượng?",
+        "Choice": "C",
+        "Answer": "Thuế suất 10%"
+    },
+    {
+        "ID": 141,
+        "Question": "Phí tiếp cận đại lý bảo hiểm Bancasurance thuộc đối tượng?",
+        "Choice": "A",
+        "Answer": "Không chịu thuế GTGT"
+    },
+    {
+        "ID": 142,
+        "Question": "Ngân hàng mua hoa bằng hóa đơn bán hàng, khi tặng khách hàng nhân ngày thành lập khai thuế GTGT như thế nào",
+        "Choice": "C",
+        "Answer": "Khai thuế GTGT 10%"
+    },
+    {
+        "ID": 143,
+        "Question": "Xử phạt vi phạm hành chính về thuế đối với ngân hàng thương mại, người bảo lãnh nộp tiền thuế được quy định như thế nào",
+        "Choice": "C",
+        "Answer": "Cả 2 đáp án trên"
+    },
+    {
+        "ID": 144,
+        "Question": "Phương pháp khai thuế GTGTcủa Ngân hàng thương mại theo phương pháp nào sau đây",
+        "Choice": "C",
+        "Answer": "Cả hai phương pháp a và b"
+    },
+    {
+        "ID": 145,
+        "Question": "Ngân hàng A trả phí dịch vụ thẻ Master, Visa khai thuế TNDN thay nhà thầu theo tỷ lệ nào?",
+        "Choice": "C",
+        "Answer": "Xác định chi tiết chi trả phí có bao gồm bản quyền để áp dụng đúng tỷ lệ"
+    },
+    {
+        "ID": 146,
+        "Question": "Ngân hàng mua ô tô không phải là xe chuyên dụng (không phải xe chở tiền) thì khấu trừ thuế GTGT như thế nào",
+        "Choice": "B",
+        "Answer": "Khấu trừ theo tỷ lệ phân bổ"
+    },
+    {
+        "ID": 147,
+        "Question": "Quý 4/2023 Ngân hàng A có hoạt động kinh doanh vàng bạc lỗ (GTGT âm). Giá trị gia tăng âm này được",
+        "Choice": "B",
+        "Answer": "Không được kết chuyển sang quý 1/2024"
+    },
+    {
+        "ID": 148,
+        "Question": "Khi thực hiện thanh tra kiểm tra dự án kinh doanh bất động sản xây dựng nhà để bán, các Đoàn thanh tra, kiểm tra cần quan tâm đến nội dung gì?",
+        "Choice": "D",
+        "Answer": "Cả ba phương án trên"
+    },
+    {
+        "ID": 149,
+        "Question": "Theo quy định của Luật kinh doanh BĐS về việc thanh toán trong mua bán, thuê mua bất động sản hình thành trong tương lai thì trường hợp bên mua, bên thuê mua chưa được cấp Giấy chứng nhận QSDĐ thì bên bán, bên cho thuê mua không được thu quá bao nhiêu % giá trị hợp đồng:",
+        "Choice": "D",
+        "Answer": 0.95
+    },
+    {
+        "ID": 150,
+        "Question": "Khi xác định diện tích kinh doanh của dự án bất động sản, các đoàn thanh tra kiểm tra cần xác định dựa trên loại diện tích nào?",
+        "Choice": "B",
+        "Answer": "Diện tích thông thủy"
+    },
+    {
+        "ID": 151,
+        "Question": "Tháng 10/2020, Công ty A có thực hiện thu tiền theo tiến độ của khách hàng. Công ty A phải nộp tiền thuế TNDN theo tiến độ thu tiền, Công ty A phải nộp như thế nào?",
+        "Choice": "A",
+        "Answer": "1% trên doanh thu thu được tiền"
+    },
+    {
+        "ID": 152,
+        "Question": "Tháng 10/2021, Công ty A có thực hiện thu tiền theo tiến độ của khách hàng. Công ty A phải nộp tiền thuế TNDN theo tiến độ thu tiền, Công ty A phải nộp như thế nào?",
+        "Choice": "C",
+        "Answer": "1% trên số tiền thu được"
+    },
+    {
+        "ID": 153,
+        "Question": "Công ty A có thực hiện dự án đầu tư xây dựng nhà để bán, năm 2022 Công ty đang trong giai đoạn đầu tư đã ký hợp đồng mua bán và đã thu tiền theo tiến độ của khách hàng. Trong năm 2022 Công ty có phát sinh chi phí quảng cáo và hoa hồng môi giới bán hàng là 20 tỷ đồng. ",
+        "Choice": "C",
+        "Answer": "Công ty không được hạch toán chi phí quảng cáo và hoa hồng môi giới vào chi phí bán hàng năm 2022, việc hạch toán sẽ được hạch toán vào vào chi phí dự án theo quy định vào năm đầu tiên bàn giao bất động sản, phát sinh doanh thu tính thuế thu nhập doanh nghiệp.\n"
+    },
+    {
+        "ID": 154,
+        "Question": "Công ty có hoạt động chuyển nhượng bất động sản tại nhiều tỉnh, thành kê khai bảng phân bổ số thuế thu nhập doanh nghiệp phải nộp đối với hoạt động chuyển nhượng bất động sản tại Phụ lục nào trên tờ khai quyết toán 03/TNDN theo Thông tư 80/TT-BTC của Bộ Tài Chính ngày 29/09/2021 ?",
+        "Choice": "C",
+        "Answer": "Phụ lục 03-8A/TNDN"
+    },
+    {
+        "ID": 155,
+        "Question": "Nếu số thuế đã tạm nộp trong năm tại các tỉnh (không bao gồm số thuế đã tạm nộp cho doanh thu thực hiện dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng hoặc cho thuê mua, có thu tiền ứng trước của khách hàng theo tiến độ mà doanh thu này chưa được tính vào doanh thu tính thuế thu nhập doanh nghiệp trong năm) được trừ vào với số thuế thu nhập doanh nghiệp phải nộp từ hoạt động chuyển nhượng bất động sản của từng tỉnh, nếu chưa trừ hết thì có tiếp tục trừ vào số thuế thu nhập doanh nghiệp phải nộp từ hoạt động chuyển nhượng bất động sản theo quyết toán tại trụ sở chính không?",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 156,
+        "Question": "Trường hợp nào sau đây không thuộc đối tượng phân bổ thuế GTGT theo quy định tại Thông tư 80/2021/TT-BTC",
+        "Choice": "B",
+        "Answer": "Hoạt động chuyển nhượng bất động sản của dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng"
+    },
+    {
+        "ID": 157,
+        "Question": "Phân bổ thuế giá trị gia tăng phải nộp đối với hoạt động chuyển nhượng bất động sản:\nSố thuế giá trị gia tăng phải nộp cho từng tỉnh của hoạt động chuyển nhượng bất động sản bằng (=)",
+        "Choice": "A",
+        "Answer": "Doanh thu chưa có thuế giá trị gia tăng đối với hoạt động chuyển nhượng bất động sản tại từng tỉnh nhân (x) với 1%."
+    },
+    {
+        "ID": 158,
+        "Question": "Người nộp thuế có thực hiện dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng hoặc cho thuê mua, có thu tiền ứng trước của khách hàng theo tiến độ phù hợp với quy định của pháp luật thì thực hiện tạm nộp thuế thu nhập doanh nghiệp trong năm 2023 như thế nào",
+        "Choice": "A",
+        "Answer": "Tạm nộp thuế thu nhập doanh nghiệp theo quý theo tỷ lệ 1% trên số tiền thu được"
+    },
+    {
+        "ID": 159,
+        "Question": "Theo quy định tại Thông tư 80/2021/TT-BTC, Doanh nghiệp kinh doanh hoạt động chuyển nhượng BDS có thuộc trường hợp phân bổ thuế TNDN cho từng tỉnh không?",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 160,
+        "Question": "Phân bổ thuế thu nhập doanh nghiệp phải nộp đối với hoạt động chuyển nhượng bất động sản:\nSố thuế thu nhập doanh nghiệp phải nộp cho từng tỉnh nơi có hoạt động chuyển nhượng bất động sản tạm nộp hàng quý và quyết toán bằng (=)",
+        "Choice": "A",
+        "Answer": "Doanh thu tính thuế thu nhập doanh nghiệp của hoạt động chuyển nhượng bất động sản tại từng tỉnh nhân (x) với 1%"
+    },
+    {
+        "ID": 161,
+        "Question": "Thu nhập từ hoạt động chuyển nhượng bất động sản bao gồm:",
+        "Choice": "D",
+        "Answer": "Tất cả các phương án trên"
+    },
+    {
+        "ID": 162,
+        "Question": "Trường hợp Công ty có dự án ở các tỉnh, thành phố khác nơi đóng trụ sở chính thì thực hiện nộp hồ sơ khai thuế GTGT đối với hoạt động chuyển nhượng BĐS của dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng (bao gồm cả trường hợp có thu tiền ứng trước của khách hàng theo tiến độ) tại nơi có hoạt động chuyển nhượng bất động sản theo mẫu tờ khai nào",
+        "Choice": "B",
+        "Answer": "05/GTGT"
+    },
+    {
+        "ID": 163,
+        "Question": "Công ty A có trụ sở kinh doanh tại TPHN có thực hiện dự án đầu tư xây dựng nhà để bán. Năm 2022 có phát sinh nghiệp vụ sau:\n- Tháng 07/2022 Công ty đủ điều kiện ký hợp đồng mua bán nhà tại dự án xây dựng kinh doanh BĐS trên địa bàn Quận Long Biên;\n- Công ty thực hiện kê khai thuế TNDN tạm nộp theo phương án tỷ lệ 1% trên số tiền thu được theo tiến độ thu tiền, số tiền thu được theo tiến độ trong năm là 200 tỷ đồng.\n- Chi phí bán hàng của hoạt động kinh doanh bất động sản phát sinh năm 2022 là 30 tỷ đồng.\nHỏi khi kê khai QTT TNDN năm 2022 Công ty sẽ hạch toán đối với chi phí bán hàng trên như thế nào?",
+        "Choice": "B",
+        "Answer": "Không được hạch toán"
+    },
+    {
+        "ID": 164,
+        "Question": "Khi thực hiện thanh tra kiểm tra dự án kinh doanh bất động sản xây dựng nhà để bán, dấu hiệu để nhận biết một dự án đã đủ điều kiện ký hợp đồng mua bán",
+        "Choice": "D",
+        "Answer": "Cả ba nội dung trên"
+    },
+    {
+        "ID": 165,
+        "Question": "Quyết định kiểm tra thuế tại trụ sở của người nộp thuế phải được gửi cho người nộp thuế chậm nhất bao nhiêu ngày kể từ ngày ban hành Quyết định.",
+        "Choice": "C",
+        "Answer": "03 ngày làm việc"
+    },
+    {
+        "ID": 166,
+        "Question": "Cơ quan thuế ban hành quyết định bãi bỏ Quyết định kiểm tra tại trụ sở người nộp thuế trong trường hợp nào?",
+        "Choice": "D",
+        "Answer": "Cả 3 đáp án a, b, c"
+    },
+    {
+        "ID": 167,
+        "Question": "Cơ quan thuế ban hành quyết định bãi bỏ Quyết định kiểm tra tại trụ sở người nộp thuế trong trường hợp nào?",
+        "Choice": "A",
+        "Answer": "Thủ trưởng cơ quan thuế ban hành Quyết định kiểm tra nhưng người nộp thuế đã bỏ kinh doanh; hoặc người nộp thuế có văn bản đề nghị hủy hồ sơ đề nghị hoàn thuế hoặc người đại diện người nộp thuế vắng mặt trong thời gian dài bởi lý do bất khả kháng; hoặc văn phòng đại diện của thương nhân nước ngoài đã chấm dứt hoạt động hoặc chưa chấm dứt hoạt động nhưng không còn hoạt động tại địa chỉ đã đăng ký; hoặc các cơ quan điều tra, cơ quan thanh tra đang điều tra, thanh tra doanh nghiệp; hoặc người nộp thuế có văn bản đề nghị khôi phục mã số thuế."
+    },
+    {
+        "ID": 168,
+        "Question": "Trường hợp nào thì cơ quan thuế tạm dừng kiểm tra trong quá trình kiểm tra tại trụ sở người nộp thuế?",
+        "Choice": "C",
+        "Answer": "Trường hợp phát sinh lý do bất khả kháng, không thể tiếp tục thực hiện kiểm tra "
+    },
+    {
+        "ID": 169,
+        "Question": "Trong các trường hợp sau trường hợp nào thì cơ quan thuế tạm dừng kiểm tra trong quá trình kiểm tra tại trụ sở người nộp thuế?",
+        "Choice": "B",
+        "Answer": "Trường hợp người nộp thuế gặp hỏa hoạn cháy trụ sở "
+    },
+    {
+        "ID": 170,
+        "Question": "Việc kiểm tra theo Quyết định kiểm tra thuế phải được tiến hành chậm nhất bao nhiêu ngày kể từ ngày ban hành Quyết định kiểm tra thuế?",
+        "Choice": "B",
+        "Answer": "10 ngày làm việc"
+    },
+    {
+        "ID": 171,
+        "Question": "Trường hợp người nộp thuế không ký biên bản công bố Quyết định kiểm tra thì đoàn kiểm tra thực hiện xử lý như thế nào:",
+        "Choice": "D",
+        "Answer": "Cả b và c"
+    },
+    {
+        "ID": 172,
+        "Question": "Thời hạn cuộc kiểm tra thuế là như thế nào?",
+        "Choice": "C",
+        "Answer": "Thời hạn kiểm tra được xác định trong quyết định kiểm tra nhưng không quá 10 ngày làm việc tại trụ sở của người nộp thuế. Thời hạn kiểm tra được tính từ ngày công bố quyết định kiểm tra; trường hợp phạm vi kiểm tra lớn, nội dung phức tạp thì người đã quyết định kiểm tra có thể gia hạn 01 lần nhưng không quá 10 ngày làm việc tại trụ sở của người nộp thuế;"
+    },
+    {
+        "ID": 173,
+        "Question": "Việc lập và ký biên bản kiểm tra phải được thực hiện trong thời hạn như thế nào?",
+        "Choice": "B",
+        "Answer": "Phải được thực hiện trong thời hạn 05 ngày làm việc kể từ ngày kết thúc kiểm tra tại trụ sở người nộp thuế"
+    },
+    {
+        "ID": 174,
+        "Question": "Việc báo cáo kết quả kiểm tra, dự thảo Quyết định xử phạt vi phạm hành chính về thuế hoặc Kết luận kiểm tra thuế được thực hiện trong thời hạn như thế nào?",
+        "Choice": "A",
+        "Answer": " Chậm nhất là 03 ngày làm việc kể từ ngày ký biên bản kiểm tra thuế"
+    },
+    {
+        "ID": 175,
+        "Question": "Trường hợp kết quả kiểm tra dẫn đến phải xử lý truy thu về thuế, Thủ trưởng cơ quan thuế phải ban hành Quyết định xử phạt vi phạm hành chính về thuế trong thời hạn như thế nào?",
+        "Choice": "D",
+        "Answer": "cả a, b và c"
+    },
+    {
+        "ID": 176,
+        "Question": "Trường hợp trong quá trình kiểm tra thuế hoặc khi kết thúc kiểm tra mà phát hiện hành vi trốn thuế có dấu hiệu tội phạm thì đoàn kiểm tra phải làm gì",
+        "Choice": "A",
+        "Answer": " Trong thời hạn 5 ngày làm việc kể từ ngày phát hiện hành vi vi phạm, Trưởng đoàn kiểm tra có trách nhiệm báo cáo Lãnh đạo bộ phận kiểm tra thuế trình Thủ trưởng cơ quan thuế xem xét chuyển hồ sơ sang cơ quan điều tra theo quy định của pháp luật."
+    },
+    {
+        "ID": 177,
+        "Question": "Trong quá trình kiểm tra tại trụ sở người nộp thuế, nếu nội dung phát hiện qua kiểm tra mà các nội dung này khi ban hành Quyết định xử lý hoặc Kết luận kiểm tra có thể dẫn đến khiếu nại của người nộp thuế về kết quả xử lý thì trưởng đoàn kiểm tra phải làm gì? Chọn câu trả lời đúng nhất",
+        "Choice": "B",
+        "Answer": "Trưởng đoàn kiểm tra phải tập hợp hồ sơ, tài liệu có liên quan đến nội dung vướng mắc để báo cáo Lãnh đạo bộ phận kiểm tra."
+    },
+    {
+        "ID": 178,
+        "Question": "Trong quá trình kiểm tra thực tế tại trụ sở người nộp thuế trường hợp cần thiết phải gia hạn thời gian kiểm tra thì Trưởng đoàn kiểm tra phải báo cáo Người ban hành Quyết định kiểm tra chậm nhất bao nhiêu ngày trước khi kết thúc thời gian kiểm tra tại trụ sở người nộp thuế",
+        "Choice": "A",
+        "Answer": "01 (một) ngày làm việc trước khi kết thúc thời gian kiểm tra"
+    },
+    {
+        "ID": 179,
+        "Question": "Trường hợp hết thời hạn 05 (năm) ngày làm việc kể từ ngày công khai dự thảo biên bản kiểm tra thuế người nộp thuế không ký biên bản kiểm tra thuế thì Trưởng đoàn kiểm tra phải làm gì?",
+        "Choice": "C",
+        "Answer": "Lập biên bản vi phạm hành chính về việc không ký biên bản kiểm tra, báo cáo Lãnh đạo bộ phận kiểm tra thuế để báo cáo Người có thẩm quyền ban hành Quyết định xử phạt vi phạm hành chính theo quy định, đồng thời yêu cầu người nộp thuế ký biên bản kiểm tra."
+    },
+    {
+        "ID": 180,
+        "Question": "Trường hợp người nộp thuế vẫn đang hoạt động kinh doanh bình thường vẫn thực hiện kê khai thuế, khi cơ quan thuế ban hành Quyết định kiểm tra nhưng người nộp thuế không nhận Quyết định kiểm tra, hoặc cố tình trốn tránh không chấp hành Quyết định kiểm tra thì đoàn kiểm tra ",
+        "Choice": "C",
+        "Answer": "thực hiện lập biên bản vi phạm hành chính về hành vi vi phạm quy định về chấp hành quyết định kiểm tra; trên cơ sở biên bản vi phạm hành chính, đoàn kiểm tra báo cáo Người ban hành Quyết định kiểm tra để xử phạt vi phạm hành chính, áp dụng các biện pháp quản lý thuế (nếu có) và thực hiện các bước ấn định thuế theo quy định"
+    },
+    {
+        "ID": 181,
+        "Question": "Trường hợp người nộp thuế không có mặt hoặc trốn tránh hoặc vì lý do khách quan mà không ký biên bản vi phạm hành chính hoặc không ký biên bản công bố quyết định kiểm tra thì trưởng đoàn kiểm tra làm gì?",
+        "Choice": "C",
+        "Answer": "Mời đại diện chính quyền cấp xã, phường nơi xảy ra vi phạm ký xác nhận hoặc mời ít nhất 01 người chứng kiến xác nhận. Trường hợp không có sự xác nhận của chính quyền hoặc của người chứng kiến thì phải ghi rõ lý do vào biên bản."
+    },
+    {
+        "ID": 182,
+        "Question": "Kết quả kiểm tra trên biên bản kiểm tra có thể không thống nhất với số liệu và tình hình của biên bản xác nhận số liệu của thành viên đoàn kiểm tra không? ",
+        "Choice": "B",
+        "Answer": "Có. Nếu kết quả tại biên bản kiểm tra không thống nhất với số liệu và tình hình của biên bản xác nhận số liệu của thành viên đoàn kiểm tra thì Trưởng đoàn kiểm tra có quyền quyết định và chịu trách nhiệm về nội dung biên bản kiểm tra. Trong trường hợp này, thành viên trong đoàn kiểm tra có quyền bảo lưu số liệu theo biên bản từng phần việc được giao."
+    },
+    {
+        "ID": 183,
+        "Question": "Trường hợp sau 5 kể từ ngày lập biên bản kiểm tra, người nộp thuế có ý kiến giải trình và đoàn kiểm tra được giao xem xét ý kiến giải trình mà kết quả có sự thay đổi so với biên bản kiểm tra đã lập thì đoàn kiểm tra phải làm gì? Chọn câu trả lời đúng nhất",
+        "Choice": "B",
+        "Answer": "Căn cứ vào biên bản kiểm tra đã lập, văn bản giải trình của người nộp thuế hoặc biên bản giải trình trực tiếp để báo cáo Lãnh đạo bộ phận kiểm tra thuế trình Thủ trưởng cơ quan thuế xử lý theo quy định."
+    },
+    {
+        "ID": 184,
+        "Question": "Trường hợp không phải xử lý truy thu về thuế; không phải xử phạt vi phạm hành chính về thuế thì trong thời hạn bao lâu kể từ ngày ký biên bản kiểm tra, Thủ trưởng cơ quan thuế phải ký kết luận kiểm tra thuế",
+        "Choice": "A",
+        "Answer": "Không quá 07 (bảy) ngày làm việc "
+    },
+    {
+        "ID": 185,
+        "Question": "Bộ phận Hành chính của cơ quan thuế thực hiện gửi Quyết định thanh tra cho người nộp thuế bằng thư bảo đảm có hồi báo cho cơ quan thuế chậm nhất bao nhiêu ngày kể từ khi ban hành quyết định thanh tra",
+        "Choice": "C",
+        "Answer": "03 ngày làm việc"
+    },
+    {
+        "ID": 186,
+        "Question": "Quyết định thanh tra thuế tại trụ sở của người nộp thuế phải được gửi cho người nộp thuế chậm nhất bao nhiêu ngày kể từ ngày ban hành Quyết định.",
+        "Choice": "C",
+        "Answer": "03 ngày làm việc"
+    },
+    {
+        "ID": 187,
+        "Question": "Sau khi quyết định thanh tra được ban hành, Trưởng đoàn thanh tra có trách nhiệm thông báo cho đại diện người nộp thuế theo hình thức nào?",
+        "Choice": "D",
+        "Answer": "Cả 3 đáp án trên"
+    },
+    {
+        "ID": 188,
+        "Question": "Việc lập kế hoạch giám sát thanh tra được thực hiện chậm nhất bao nhiêu ngày kể từ ngày ban hành quyết định giám sát và trước thời điểm công bố Quyết định thanh tra , Quyết định giám sát tại đơn vị",
+        "Choice": "D",
+        "Answer": "5 ngày làm việc"
+    },
+    {
+        "ID": 189,
+        "Question": "Quyết định thanh tra thuế phải được công bố chậm nhất bao nhiêu ngày kể từ ngày ra quyết định thanh tra thuế.",
+        "Choice": "A",
+        "Answer": "15 ngày "
+    },
+    {
+        "ID": 190,
+        "Question": "Tổng thời gian thanh tra đối với cuộc thanh tra do Cục Thuế tiến hành không quá khoảng thời gian nào?",
+        "Choice": "B",
+        "Answer": "Tổng thời gian thanh tra đối với cuộc thanh tra do Cục Thuế tiến hành không quá 30 ngày làm việc tính từ ngày công bố quyết định thanh tra đến ngày kết thúc cuộc thanh tra tại nơi được thanh tra"
+    },
+    {
+        "ID": 191,
+        "Question": "Tổng thời gian thanh tra (gồm cả thời gian gia hạn) đối với cuộc thanh tra do Cục Thuế tiến hành không quá khoảng thời gian nào?",
+        "Choice": "B",
+        "Answer": "Tổng thời gian thanh tra (gồm cả thời gian gia hạn) đối với cuộc thanh tra do Cục Thuế tiến hành không quá 45 ngày làm việc."
+    },
+    {
+        "ID": 192,
+        "Question": "Trường hợp cần thiết phải bổ sung thêm thời gian thanh tra, thì thời hạn Trưởng đoàn thanh tra phải báo cáo Lãnh đạo Bộ phận Thanh tra để trình Lãnh đạo cơ quan thuế ra quyết định gia hạn thanh tra là bao giờ ?",
+        "Choice": "B",
+        "Answer": "05 (năm) ngày làm việc trước khi kết thúc thời hạn thanh tra theo quyết định"
+    },
+    {
+        "ID": 193,
+        "Question": "Trường hợp khi nhận được Quyết định thanh tra, người nộp thuế có văn bản đề nghị hoãn thời gian tiến hành thanh tra, Trưởng đoàn thanh tra có trách nhiệm báo cáo Lãnh đạo Bộ phận thanh tra để trình Lãnh đạo cơ quan thuế ra văn bản thông báo cho người nộp thuế biết về việc chấp nhận hay không chấp nhận hoãn thời gian thanh tra. Thời hạn thực hiện việc trên là bao nhiêu ngày ?",
+        "Choice": "A",
+        "Answer": "05 (năm) ngày làm việc kể từ ngày nhận được văn bản đề nghị"
+    },
+    {
+        "ID": 194,
+        "Question": "Khi kết thúc thanh tra, trường hợp người nộp thuế không ký Biên bản thanh tra thì trong bao nhiêu ngày  kể từ ngày công bố công khai biên bản thanh tra, Trưởng đoàn thanh tra phải lập biên bản xử phạt vi phạm hành chính, báo cáo lãnh đạo bộ phận thanh tra để trình Lãnh đạo cơ quan thuế ban hành quyết định xử lý vi phạm hành chính, đồng thời thông báo yêu cầu người nộp thuế ký biên bản thanh tra ?",
+        "Choice": "A",
+        "Answer": "Chậm nhất 05 ngày làm việc"
+    },
+    {
+        "ID": 195,
+        "Question": "Kết thúc thanh tra, Trưởng đoàn thanh tra phải có báo cáo kết quả thanh tra với Lãnh đạo bộ phận thanh tra thuế trong thời hạn bao nhiêu ngày ?",
+        "Choice": "C",
+        "Answer": "Chậm nhất 15 ngày làm việc"
+    },
+    {
+        "ID": 196,
+        "Question": "Trong thời hạn bao nhiêu ngày làm việc kể từ ngày nhận được báo cáo kết quả thanh tra kèm theo dự thảo kết luận thanh tra, Lãnh đạo cơ quan thuế thực hiện ký kết luận thanh tra (trừ trường hợp nội dung kết luận thanh tra phải chờ kết luận của cơ quan, tổ chức có thẩm quyền)",
+        "Choice": "C",
+        "Answer": "Chậm nhất 15 ngày làm việc"
+    },
+    {
+        "ID": 197,
+        "Question": "Trong thời hạn bao nhiêu ngày ngày kể từ ngày ký kết luận thanh tra, Trưởng đoàn thanh tra có trách nhiệm bàn giao hồ sơ cuộc thanh tra cho bộ phận, người được giao nhiệm vụ theo quy định của pháp luật và quy chế của cơ quan",
+        "Choice": "D",
+        "Answer": "Chậm nhất 30 ngày "
+    },
+    {
+        "ID": 198,
+        "Question": "Các trường hợp thanh tra đột xuất",
+        "Choice": "E",
+        "Answer": "Một trong các trường hợp trên"
+    },
+    {
+        "ID": 199,
+        "Question": "Đối với trường hợp thanh tra đột xuất thì dự thảo quyết định thanh tra phải trình kèm theo hồ sơ nào sau đây:",
+        "Choice": "D",
+        "Answer": "Các câu trả lời trên đều đúng"
+    },
+    {
+        "ID": 200,
+        "Question": "Thanh tra lại các kết luận thanh tra thuế",
+        "Choice": "D",
+        "Answer": "Các câu trả lời trên đều đúng"
+    },
+    {
+        "ID": 201,
+        "Question": "Thời hiệu thanh tra lại là bao nhiêu năm năm, kể từ ngày ký kết luận thanh tra",
+        "Choice": "C",
+        "Answer": "03 (ba) năm"
+    },
+    {
+        "ID": 202,
+        "Question": "Kế hoạch thanh tra năm đã được phê duyệt được điều chỉnh nếu thuộc một trong các trường hợp sau đây",
+        "Choice": "C",
+        "Answer": "Cả 2 đáp án trên"
+    },
+    {
+        "ID": 203,
+        "Question": "Quá thời hạn 90 ngày kể từ ngày hết thời hạn nộp vào NSNN các khoản kiến nghị qua thanh tra theo kết luận thanh tra, quyết định xử lý vi phạm về thuế qua thanh tra mà người nộp thuế chưa nộp vào NSNN thì bộ phận Quản lý nợ thực hiện",
+        "Choice": "C",
+        "Answer": "Cả 2 đáp án trên"
+    },
+    {
+        "ID": 204,
+        "Question": "Theo cách hiểu đầy đủ hiện nay, Hoạt động thương mại điện tử là việc tiến hành một phần hoặc toàn bộ quy trình của hoạt động thương mại bằng... ",
+        "Choice": "B",
+        "Answer": "Phương tiện điện tử có kết nối với mạng Internet, mạng viễn thông di động hoặc các mạng mở khác"
+    },
+    {
+        "ID": 205,
+        "Question": "Website thương mại điện tử cho phép các thương nhân, tổ chức, cá nhân không phải chủ sở hữu website có thể tiến hành một phần hoặc toàn bộ quy trình mua bán hàng hóa, dịch vụ trên đó được gọi là….",
+        "Choice": "A",
+        "Answer": "Sàn giao dịch thương mại điện tử"
+    },
+    {
+        "ID": 206,
+        "Question": "Theo quy định mới nhất theo Nghị định 91/2022/NĐ-CP sửa đổi, bổ sung một số điều Nghị định 126 quy định chi tiết Luật Quản lý thuế, sàn thương mại điện tử có trách nhiệm kê khai và nộp thuế thay cho tổ chức, cá nhân kinh doanh trên sàn",
+        "Choice": "B",
+        "Answer": "Sai"
+    },
+    {
+        "ID": 207,
+        "Question": "Công ty kinh doanh trên sàn thương mại điện tử thực hiện chương trình khuyến mại rút thăm trúng thưởng bằng hàng hóa đơn vị đang kinh doanh), có đăng ký/thông báo tại cơ quan nhà nước có thẩm quyền theo quy định. Trường hợp này doanh nghiệp có phải xuất hóa đơn hay không, giá tính thuế khi xuất hóa đơn?",
+        "Choice": "C",
+        "Answer": "Có phải xuất hóa đơn, giá tính thuế bằng 0"
+    },
+    {
+        "ID": 208,
+        "Question": "Doanh nghiệp kinh doanh đồng thời 2 hoạt động thương mại tại Hà Nội nơi đóng trụ sở chính và hoạt động chuyển nhượng bất động sản của dự án đầu tư cơ sở hạ tầng, nhà để chuyển nhượng tại Quảng Ninh, doanh nghiệp phải kê khai thuế GTGT ở đâu?",
+        "Choice": "C",
+        "Answer": "Hà Nội và Quảng Ninh"
+    },
+    {
+        "ID": 209,
+        "Question": "Năm 2023, Ông Đỗ Hoài Nam kinh doanh trên sàn Shopee có tổng thu nhập nhận được trong năm là 80 triệu đồng, thì thuộc trường hợp nộp thuế GTGT và nộp thuế TNCN theo mức thuế suất nào?",
+        "Choice": "D",
+        "Answer": "Cả 3 trường hợp đều sai"
+    },
+    {
+        "ID": 210,
+        "Question": "Theo quy định, tiểu mục nộp thuế GTGT, TNCN của cá nhân kinh doanh thương mại điện tử lần lượt là",
+        "Choice": "B",
+        "Answer": "1701;1003"
+    },
+    {
+        "ID": 211,
+        "Question": "Thời hạn nộp hồ sơ khai thuế đối với hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp kê khai theo tháng chậm nhất là ngày…",
+        "Choice": "B",
+        "Answer": "Thứ 20 của tháng tiếp theo tháng phát sinh nghĩa vụ thuế"
+    },
+    {
+        "ID": 212,
+        "Question": "Ông Thao và vợ đều là người khuyết tật. Năm 2023, vợ chồng ông có kinh doanh bán quần áo trên sàn giao dịch thương mại điện tử. Nay, sàn thương mại quyết toán trả cho ông tổng cộng hơn 700 triệu đồng. Tổng số thuế ông phải nộp là?",
+        "Choice": "A",
+        "Answer": "10,5 triệu đồng"
+    },
+    {
+        "ID": 213,
+        "Question": "Trường hợp tổ chức là chủ sở hữu sàn thương mại điện tử không cung cấp thông tin theo quy định thì cơ quan thuế xử lý vi phạm hành chính với mức:",
+        "Choice": "B",
+        "Answer": "4.000.000 đồng"
+    },
+    {
+        "ID": 214,
+        "Question": "Công ty A tại Việt nam cho thuê phòng qua Agoda với số tiền: 5 triệu đồng/phòng/đêm với 3 đêm, tiền hoa hồng trả cho trang web Agoda là 2%, Vậy doanh nghiệp A hạch toán doanh thu với số tiền là?",
+        "Choice": "B",
+        "Answer": "15 triệu đồng"
+    },
+    {
+        "ID": 215,
+        "Question": "Công ty B kinh doanh dịch vụ quảng cáo, là đại lý cấp 1 của google, qua kiểm tra tài khoản cá nhân chủ sở hữu Công ty thấy có khoản 2 tỷ chuyển về với nội dung Facebook trả tiền quảng cáo video \"Ánh Sáng Hoàn Mỹ\", thực hiện kết xuất dữ liệu tại công ty thuê máy chủ (server), đoàn kiểm tra thấy có nhiều tài khoản đăng nhập tìm kiếm video \"Ánh Sáng Hoàn Mỹ\", thuế suất ghi nhận cho khoản thu nhập 2 tỷ đồng là?",
+        "Choice": "C",
+        "Answer": "GTGT 10%, TNDN 20%"
+    },
+    {
+        "ID": 216,
+        "Question": "Năm 2023, Chị  Hương cho thuê nhà với qua trang booking.com với thu nhập 300 triệu đồng/năm và 01 hợp đồng làm tư vấn ngoài giờ cho Công ty giáo dục trong nước 50 triệu đồng. Các loại thuế và số thuế tương ứng chị Hương phải nộp?\n",
+        "Choice": "D",
+        "Answer": "Phải nộp thuế TNCN, số tiền: 20 triệu đồng và phải nộp thuế GTGT, số tiền: 15 triệu đồng"
+    },
+    {
+        "ID": 217,
+        "Question": "Công ty kinh doanh trên sàn thương mại điện tử thực hiện chương trình khuyến mại rút thăm trúng thưởng bằng hàng hóa đơn vị đang kinh doanh, chưa đăng ký/thông báo tại cơ quan nhà nước có thẩm quyền theo quy định. Trường hợp này doanh nghiệp có phải xuất hóa đơn không, giá tính thuế khi xuất hóa đơn là bao nhiêu?",
+        "Choice": "B",
+        "Answer": "Có phải xuất hóa đơn, giá bằng giá thị trường của hàng hóa"
+    },
+    {
+        "ID": 218,
+        "Question": "Công ty CP C (sau đây gọi là Công ty) mua voucher (phiếu quà tặng) của các nhà cung cấp hàng hóa, dịch vụ để làm giải thưởng cho khách hàng trong các chương trình quảng cáo của Công ty hoặc bán lại cho các đối tác khác thì khi thu tiền, các nhà cung cấp hàng hóa, dịch vụ (bên bán voucher, phiếu quà tặng), khách hàng và các Công ty khác chưa sử dụng, Công ty phải làm gì.",
+        "Choice": "A",
+        "Answer": "Lập chứng từ thu"
+    },
+    {
+        "ID": 219,
+        "Question": "Công ty TNHH D (sau đây gọi là Công ty) mua voucher (phiếu quà tặng) của các nhà cung cấp hàng hóa, dịch vụ để làm giải thưởng cho khách hàng trong các chương trình quảng cáo của Công ty hoặc bán lại cho các đối tác khác thì khi thu tiền, các nhà cung cấp hàng hóa, dịch vụ (bên bán voucher, phiếu quà tặng), khách hàng và các Công ty khác đã sử dụng, Công ty phải làm gì.",
+        "Choice": "C",
+        "Answer": "Lập hóa đơn GTGT, kê khai thuế theo quy định"
+    },
+    {
+        "ID": 220,
+        "Question": "Từ ngày 21/03/2022, Tổng Cục Thuế cho ra mắt cổng thông tin điện tử dành cho nhà cung cấp ở nước ngoài, bạn cho biết các chức năng hiện tại trên cổng để thuận tiện cho nhà cung cấp nước ngoài",
+        "Choice": "D",
+        "Answer": "Kê khai thuế, nộp thuế và tra cứu thông tin"
+    },
+    {
+        "ID": 221,
+        "Question": "Năm 2023, Công ty E kinh doanh hàng tiêu dùng phát sinh khoản bán hàng qua sàn giao dịch TMĐT, người mua hàng sẽ tích đơn trên sàn, sau đó công ty sẽ thuê một đơn vị vận chuyển để giao hàng, người bán chuyển tiền vào tài khoản của gian hàng Công ty đã đăng ký thuê trên trang thương mại điện tử, một ngày công ty có khoản 300 đơn hàng thanh toán thành công, Công ty xuất hóa đơn vào cuối tháng sau khi đối soát thanh toán với Ngân Hàng",
+        "Choice": "B",
+        "Answer": "Sai"
+    },
+    {
+        "ID": 222,
+        "Question": "Người lao động nước ngoài làm việc trong năm quyết toán thuế 2023 là 8 tháng rồi về nước. Vậy trường hợp này NNT có phải quyết toán thuế TNCN trước khi về nước hay không?",
+        "Choice": "C",
+        "Answer": "Phải trực tiếp quyết toán thuế với cơ quan thuế trên cơ sở thu nhập nhận được trong những tháng lao động thực tế tại Việt Nam (quyết toán thuế từ tháng 1/2023 đến tháng 08/2023)\n"
+    },
+    {
+        "ID": 223,
+        "Question": "Người lao động nước ngoài trong năm quyết toán thuế 2023 làm việc đến tháng 9/2023 thì phải về nước do công ty mẹ yêu cầu, NNT đã thực hiện quyết toán thuế 9 tháng đầu năm 2023 với cơ quan thuế Việt Nam trước khi về nước. Sang tháng 10/2023 người này lại được công ty mẹ cho phép quay lại Việt Nam  tiếp tục làm việc và người này đã tiếp tục kê khai thuế TNCN cho 3 tháng 10, 11, 12 năm 2023 như bình thường. Vậy trường hợp này NNT có phải thực hiện lại quyết toán thuế năm 2023 hay không?",
+        "Choice": "B",
+        "Answer": "Phải thực hiện lại quyết toán năm 2023 do tờ khai quyết toán năm 2023 lần 1 chưa đủ số thu nhập nhận được ở Việt Nam trong 12 tháng của năm 2023\n"
+    },
+    {
+        "ID": 224,
+        "Question": "Người lao động nước ngoài được cử sang làm việc tại Văn phòng đại diện của Công ty nước ngoài tại Viêt Nam từ năm 2022 cho đến nay, được cấp thẻ cư trú, có giấy phép lao động tại Việt Nam và chỉ làm việc duy nhất tại Văn phòng đại diện này từ khi đến VN. Người lao động này có 1 phần thu nhập nhận ở Việt Nam, phần còn lại được công ty mẹ trả trực tiếp vào tài khoản cá nhân. Vậy người nước ngoài này phải quyết toán thuế TNCN năm 2023 như thế nào?",
+        "Choice": "C",
+        "Answer": "Một trong hai cách nêu trên."
+    },
+    {
+        "ID": 225,
+        "Question": "Trong thực tiễn có nhiều trường hợp NNT được cấp 02 MST cá nhân do cung cấp thông tin cá nhân cho cơ quan thuế theo 02 loại giấy tờ là CMTND và CCCD. Vậy NNT có được phép sử dụng 02 MST cá nhân để kê khai nộp thuế TNCN hay không?",
+        "Choice": "A",
+        "Answer": "Không được phép"
+    },
+    {
+        "ID": 226,
+        "Question": "Khi NNT có 02 MST cá nhân thì phải hủy MST nào?",
+        "Choice": "B",
+        "Answer": "Hủy mã số thuế được cấp sau"
+    },
+    {
+        "ID": 227,
+        "Question": "NNT đăng ký NPT là cháu ruột đang ở nhờ nhà mình (có đăng ký tạm trú) để giảm trừ gia cảnh khi xác định nghĩa vụ thuế TNCN. Vậy trong trường hợp nào việc đăng ký NPT này là đúng?",
+        "Choice": "C",
+        "Answer": "cả hai phương án đều đúng"
+    },
+    {
+        "ID": 228,
+        "Question": "Trong năm quyết toán 2021, NNT có nhiều nguồn thu nhập đã được các tổ chức chi trả tạm khấu trừ và cung cấp chứng từ khấu trừ với tổng số thuế là 50 triệu đồng, mặt khác cũng có 1 số nguồn thu nhập mà tổ chức chi trả chưa tạm khấu trừ thuế nên NNT đã tạm tính bằng 10% thu nhập nhận được và tự nộp vào NSNN là 20 triệu đồng. Khi thực hiện quyết toán thuế năm 2021, NNT phải khai báo về số đã nộp, đã được tạm khấu trừ trong năm 2021 như thế nào cho đúng? ",
+        "Choice": "C",
+        "Answer": "Kê khai 50 triệu đồng vào chỉ tiêu số {34} và kê khai 20 triệu đồng vào chỉ tiêu {35} trên Tờ khai quyết toán thuế TNCN mẫu số 02/QTT-TNCN ban hành kèm theo Thông tư số 80/2021/TT-BTC  ngày 29/9/2021 của BTC"
+    },
+    {
+        "ID": 229,
+        "Question": "Kỳ tính thuế đối với cá nhân cư trú được quy định như thế nào?",
+        "Choice": "D",
+        "Answer": "Tất cả các câu trên"
+    },
+    {
+        "ID": 230,
+        "Question": "Trong năm 2023 NNT phát sinh số thuế phải nộp thêm sau quyết toán lớn hơn 50.000 đồng đồng thời NNT cũng phải đi chữa bệnh ung thư. NNT được biết mình mắc bệnh này sẽ được miễn giảm thuế TNCN. Điều này có đúng k? câu trả lời nào sau đây là chính xác nhất?",
+        "Choice": "C",
+        "Answer": "NNT sẽ được miễn giảm thuế TNCN phải nộp năm 2023 do bệnh ung thư phát hiện trong năm này thuộc dạng bệnh hiểm nghèo, được xét giảm thuế TNCN phải nộp năm 2023 nếu có các chứng từ chứng minh chi phí khám chữa bệnh trong năm 2023 do cơ quan y tế cấp hoặc hóa đơn mua thuốc chữa bệnh kèm theo đơn thuốc của bác sỹ, số thuế được giảm không được vượt quá số thuế phải nộp năm 2023 "
+    },
+    {
+        "ID": 231,
+        "Question": "Năm 2020, người nộp thuế A thực hiện việc giảm trừ gia cảnh cho bản thân theo mức thuế nào sau đây là đúng?",
+        "Choice": "A",
+        "Answer": "11 triệu đồng/tháng"
+    },
+    {
+        "ID": 232,
+        "Question": "Năm 2007 bà A được nhận thừa kế từ mẹ đẻ là 200 cây vàng, hỏi bà A có phải chịu thuế TNCN từ thừa kế hay không?",
+        "Choice": "A",
+        "Answer": "Bà A không phải tính thuế TNCN đối với khoản thu nhập từ thừa kế 200 cây vàng trong năm 2007."
+    },
+    {
+        "ID": 233,
+        "Question": "Năm 2021, anh B lần đầu tiên mua được căn hộ chung cư để ở riêng, năm 2023 anh B lấy vợ nên chuyển nhượng căn hộ chung cư cũ sang căn hộ chung cư mới để hai vợ chồng được ở rộng hơn. Vậy, anh B khi làm thủ tục chuyển nhượng căn hộ cũ có phải thực hiện nghĩa vụ thuế TNCN hay không?",
+        "Choice": "C",
+        "Answer": "Cả hai đáp án đều đúng"
+    },
+    {
+        "ID": 234,
+        "Question": "Năm 2023, chị B căn cứ vào nhận xét của cơ sở y tế về tình trạng sức khỏe không tốt đã tự nguyện mua bảo hiểm y tế không bắt buộc và trong năm đó chị cũng nhận được lợi ích việc công ty mua bảo hiểm y tế tự nguyện cho chị.  Vậy chị B có phải kê thu nhập từ việc nhận được bảo hiểm y tế công ty mua cho chị trong năm 2023 hay không?",
+        "Choice": "B",
+        "Answer": "Chị B không phải kê khai thu nhập từ việc nhận được bảo hiểm y tế công ty mua cho chị ."
+    },
+    {
+        "ID": 235,
+        "Question": "Trong năm 2023, chị B căn cứ vào nhận xét của cơ sở y tế về tình trạng sức khỏe không tốt đã tự nguyện mua bảo hiểm y tế không bắt buộc.  Cuối năm 2023 chị B xảy ra vấn đề phải nhập viện điều trị bệnh mất thính lực. Vậy chị B có được giảm trừ chi phí mua bảo hiểm y tế không bắt buộc nêu trên vào thu nhập chịu thuế năm 2023 như là 1 khoản chi phí chữa bệnh hiểm nghèo năm 2023 hay không?",
+        "Choice": "A",
+        "Answer": "không đượcgiảm trừ"
+    },
+    {
+        "ID": 236,
+        "Question": "Ông A là người Nhật được bổ nhiệm làm việc tại cả Việt Nam và Australia từ năm 2021, phần lớn thời gian sống với gia đình và làm việc chủ yếu ở Australia; ông A có nhà thuê dài hạn và thẻ thường trú định cư lâu dài tại Australia;  ông A ở Việt Nam các năm 2021, 2022, 2023 đều dưới 183 ngày nên đã thực hiện kê khai thuế TNCN tại Việt Nam theo diện không cư trú. Năm 2024, ông A dự kiến sẽ sống và làm việc tại Việt Nam trên 183 ngày. Ông A đề nghị hướng dẫn việc xác định là đối tượng cư trú hay không cư trú của Việt Nam trong năm 2024.",
+        "Choice": "C",
+        "Answer": "cả hai đáp án đều đúng"
+    },
+    {
+        "ID": 237,
+        "Question": "Năm 2023, anh A cho cá nhân kinh doanh B thuê nhà với giá trị hợp đồng là 30 triệu đồng/năm và 01 hợp đồng với Công ty C với giá trị hợp đồng trong năm là 60 triệu đồng/năm. Anh A có phải nộp thuế thu nhập cá nhân và thuế GTGT không?\n",
+        "Choice": "A",
+        "Answer": "Không phải nộp thuế TNCN và thuế GTGT\n"
+    },
+    {
+        "ID": 238,
+        "Question": "NNT thực hiện nhiều hành vi vi phạm nhưng chỉ bị xử phạt về một hành vi khai sai chỉ tiêu trên hồ sơ thuế có khung phạt tiền cao nhất trong số các hành vi đã thực hiện theo quy định tại Nghị định số 125/2020/NĐ-CP và áp dụng tình tiết tăng nặng vi phạm nhiều lần (không bị xử phạt về từng hành vi vi phạm) trong trường hợp nào?",
+        "Choice": "C",
+        "Answer": "Trường hợp cùng một thời điểm người nộp thuế khai sai một hoặc nhiều chỉ tiêu trên các hồ sơ thuế của cùng một sắc thuế "
+    },
+    {
+        "ID": 239,
+        "Question": "Doanh nghiệp X trong năm tính thuế có tài liệu sau:\n- Doanh thu tiêu thụ sản phẩm: 8.000 triệu đồng\n- Tổng hợp chi phí phát sinh trong kỳ: 6.000 triệu đồng, trong đó:\n+ Chi trả lãi tiền vay vốn tương ứng với phần vốn điều lệ còn thiếu: 300 triệu đồng.\n+ Chi đào tạo tay nghề cho công nhân: 200 triệu đồng.\n+ các chi phí còn lại được coi là hợp lý.\nThuế suất thuế TNDN là 20%.\nThuế TNDN doanh nghiệp X phải nộp trong năm:",
+        "Choice": "C",
+        "Answer": "460 triệu đồng"
+    },
+    {
+        "ID": 239,
+        "Question": "Hành vi vi phạm về in, phát hành mua bán trái phép hóa đơn, chứng từ đã ghi nội dung với số lượng từ bao nhiêu được xác định có dấu hiệu tội phạm phải chuyển hồ sơ vi phạm cho cơ quan Nhà nước có thẩm quyền để tiến hành tố tụng:",
+        "Choice": "A",
+        "Answer": "Từ 10 hóa đơn, chứng từ số trở lên"
+    },
+    {
+        "ID": 240,
+        "Question": "Khoản chi nào sau đây không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN:",
+        "Choice": "A",
+        "Answer": "Tiền lương, tiền công của chủ doanh nghiệp tư nhân; Tiền lương, tiền công của chủ công ty TNHH 1 thành viên (do 1 cá nhân làm chủ)"
+    },
+    {
+        "ID": 241,
+        "Question": "Năm 2016, DN A có dự án đầu tư mới sản xuất SP A và được hưởng ưu đãi về thời gian miễn thuế, giảm thuế theo mức miễn 4 năm và giảm 50% số thuế phải nộp trong 9 năm tiếp theo. Nếu dự án phát sinh doanh thu từ năm 2016, đến năm 2018 mới phát sinh thu nhập thì thời gian tính miễn thuế, giảm thuế được tính liên tục từ năm:",
+        "Choice": "C",
+        "Answer": 2018
+    },
+    {
+        "ID": 242,
+        "Question": "Thời điểm xác định doanh thu tính thuế TNDN đối với hoạt động bán hàng hóa là:",
+        "Choice": "D",
+        "Answer": "Thời điểm chuyển giao quyền sử dụng hoặc chuyển giao quyền sở hữu hàng hóa"
+    },
+    {
+        "ID": 243,
+        "Question": "Vốn điều lệ của công ty A năm 2023 là 4 tỷ đồng; cổ đông đã góp được: 3,5 tỷ đồng. Trong năm công ty có 02 khoản vay,  6 tháng đầu năm  vay  là 500 triệu đồng (lãi vay tương ứng là 30 triệu); 6 tháng cuối năm tổng vay của cả năm là 600 triệu đồng (lãi vay tương ứng là 75 triệu).  Công ty được tính chi phí lãi vay vào chi phí được trừ là bao nhiêu?",
+        "Choice": "B",
+        "Answer": " 12,5 triệu đồng  "
+    },
+    {
+        "ID": 244,
+        "Question": "Hợp tác xã Kỳ Anh hoạt động chính trong lĩnh vực trồng trọt, chăn nuôi, nuôi trồng thủy sản và sản xuất muối tại Hà Tĩnh. Hợp tác xã cho thuê 1 phần đất của HTX để phơi khô hải sản trước khi đóng gói. Hỏi khoản thu nhập nào của Kỳ Anh không phải chịu thuế TNDN",
+        "Choice": "A",
+        "Answer": " Thu nhập từ trồng trọt, chăn nuôi, nuôi trồng thủy sản và sản xuất muối "
+    },
+    {
+        "ID": 245,
+        "Question": "Lỗ chênh lệch tỷ giá hối đoái nào trong kỳ tính thuế được tính vào chi phí được trừ là",
+        "Choice": "D",
+        "Answer": "Lỗ chênh lệch tỷ giá hối đoái do đánh giá lại số dư cuối năm là các khoản nợ phải trả có nguồn gốc ngoại tệ"
+    },
+    {
+        "ID": 246,
+        "Question": "Trong năm 2023 công ty có hoạt động cho thuê tài sản, bên thuê trả tiền trước cho nhiều năm thì doanh thu để tính thu nhập chịu thuế TNDN được xác định như thế nào?",
+        "Choice": "C",
+        "Answer": "Lựa chọn 1 trong 2 phương án trên"
+    },
+    {
+        "ID": 247,
+        "Question": "Năm 2023, công ty A chi trang phục cho người lao động bằng tiền: 4tr đồng/người, chi bằng hiện vật giá trị  2 trđồng/người (có đầy đủ hóa đơn chứng từ). Chi phí được trừ  trong chi phí tính thuế TNDN đối với khoản chi trang phục cho người lao động trong năm là bao nhiêu?",
+        "Choice": "A",
+        "Answer": "6tr đồng/người/năm"
+    },
+    {
+        "ID": 248,
+        "Question": "Công ty ký hợp đồng lao động 12 tháng  với người lao động, nhưng người lao động làm việc dưới 3 tháng thì nghỉ. Vậy trường hợp này khấu trừ thuế TNCN như thế nào?",
+        "Choice": "B",
+        "Answer": "Khấu trừ theo biểu lũy tiến từng phần"
+    },
+    {
+        "ID": 249,
+        "Question": "Năm 2023, Ông Y mua bảo hiểm hưu trí tự nguyện thông qua việc giao kết hợp đồng bảo hiểm với doanh nghiệp bảo hiểm Z (được phép cung cấp các sản phẩm hưu trí tự nguyện), mức đóng góp 1.200.000 đồng/tháng và Công ty Bảo hiểm K, mức đóng góp 1.500.000 đồng/tháng. Trường hợp các sản phẩm hưu trí tự nguyện này tuân thủ các quy định của Bộ Tài chính và được Bộ Tài chính phê chuẩn triển khai, ông Y sẽ được trừ ra khỏi thu nhập chịu thuế TNCN năm 2023 số tiền mua bảo hiểm hưu trí tự nguyện là bao nhiêu:",
+        "Choice": "C",
+        "Answer": "12.000.000 đồng"
+    },
+    {
+        "ID": 250,
+        "Question": "Trường hợp Công ty thưởng cho cá nhân người lao động bằng cổ phiếu. Thì khi  cá nhân chuyển nhượng cổ phiếu thưởng phát sinh nghĩa vụ khai thuế như thế nào? Thời điểm tính thuế là khi nào?\n",
+        "Choice": "C",
+        "Answer": "Thuế TNCN từ tiền lương tiền công và chuyển nhượng cổ phiếu. Thời điểm tính thuế là khi cá nhân chuyển nhượng cổ phiếu thưởng. "
+    },
+    {
+        "ID": 251,
+        "Question": "Chị Hà có thu nhập 500tr đồng từ hoạt động hợp tác kinh doanh với Shoppe. Tại thời điểm năm2023 chị Hà có đăng ký mã số thuế nhưng chưa có đăng ký kinh doanh. Khoản thu nhập từ Shoppe này sẽ được coi là khoản thu nhập gì?",
+        "Choice": "B",
+        "Answer": "Thu nhập từ tiền lương tiền công \n"
+    },
+    {
+        "ID": 252,
+        "Question": "Công ty có chi trả hộ khoản tiền học lớp 1 cho con người lao động nước ngoài đang làm việc tại việt nam học tại Việt Nam gồm các khoản: học phí, đồng phục, tiền sách giáo khoa, đưa đón. Vậy các khoản trên có phải cộng vào thu nhập chịu thuế để  tính thuế TNCN của người lao động nước ngoài không? biết rằng các khoản chi nêu trên đều được quy định trên hợp đồng lao động.",
+        "Choice": "C",
+        "Answer": "Chỉ có tiền học phí là không phải tính vào thu nhập chịu thuế TNCN"
+    },
+    {
+        "ID": 253,
+        "Question": "Doanh nghiệp sử dụng toàn bộ số tiền từ việc giảm đóng vào Quỹ bảo hiểm tai nạn lao động, bệnh nghề nghiệp hỗ trợ cho người lao động phòng, chống Covid-19 theo Quyết định số 23/2021/QĐ-TTg thì khi nhận khoản hỗ trợ này người lao động không phải nộp thuế TNCN. Nhận định này đúng hay sai?",
+        "Choice": "A",
+        "Answer": "Đúng"
+    },
+    {
+        "ID": 254,
+        "Question": "Người lao động nước ngoài tại Doanh nghiệp nhận được thu nhập từ Doanh nghiệp tại Việt Nam chi trả và nhận thu nhập từ nước ngoài chi trả. Đối với khoản thu nhập nhận được tại Việt Nam và khoản thu nhập nhận được do nước ngoài chi trả phải kê khai thế nào?",
+        "Choice": "D",
+        "Answer": "Doanh nghiệp kê khai thu nhập của người lao động nhận được tại Việt nam  theo mẫu 05/KK-TNCN ban hành kèm theo Thông tư số 80/2021/TT-BTC và cá nhân kê khai khoản  thu nhập từ nước ngoài theo mẫu 02/KK-TNCN ban hành kèm theo Thông tư số 80/2021/TT-BTC"
+    },
+    {
+        "ID": 255,
+        "Question": "Công ty chi trả các khoản thu nhập từ tiền lương, tiền công từ hai triệu (2.000.000) đồng/lần trở lên cho người lao động vào thời điểm sau khi đã chấm dứt hợp đồng lao động thì Công ty phải thực hiện khấu trừ thuế thu nhập cá nhân của người lao động như thế nào?",
+        "Choice": "B",
+        "Answer": "Thực hiện khấu trừ thuế thu nhập cá nhân của người lao động theo mức 10% trên tổng thu nhập chịu thuế từ tiền lương, "
+    },
+    {
+        "ID": 256,
+        "Question": "Năm 2023, ông A có phát sinh thu nhập từ tiền lương tiền công như sau:\n- Tổng TNCT tại Công ty X: 300 triệu đồng (có HĐLD trên 3 tháng)\n- Tổng TNCT tại Công ty Y: 85 triệu đồng (có HĐLD trên 3 tháng)\n- Tổng TNCT tại Công ty Z: 25 triệu đồng thu nhập vãng lai đã khấu trừ tại nguồn 10%\nQuyết toán thuế năm 2023 Ông A thực hiện QTT như thế nào? ",
+        "Choice": "B",
+        "Answer": "Ông A phải tự QTT vối tổng thu nhập chịu thuế là 410 triệu đồng"
+    },
+    {
+        "ID": 257,
+        "Question": "Thời gian áp dụng giảm thuế GTGT theo Nghị định số 15/2022/NĐ-CP ngày 28/1/2022 của Chính phủ?",
+        "Choice": "D",
+        "Answer": "Từ ngày 01/02/2022  đến ngày 31/12/2022"
+    },
+    {
+        "ID": 258,
+        "Question": "Việc giảm thuế giá trị gia tăng cho từng loại hàng hóa, dịch vụ quy định tại khoản 1 Điều 1 Nghị định số 15/2022/NĐ-CP ngày 28/1/2022 được áp dụng thống nhất tại các khâu nào?",
+        "Choice": "A",
+        "Answer": "Nhập khẩu, sản xuất, gia công, kinh doanh thương mại. Mặt hàng than thuộc Phụ lục I ban hành kèm theo Nghị định 15/2022/NĐ-CP, tại các khâu khác ngoài khâu khai thác bán ra không được giảm thuế giá trị gia tăng."
+    },
+    {
+        "ID": 259,
+        "Question": "Danh mục hàng hóa, dịch vụ không được giảm thuế giá trị gia tăng nêu tại Phần A Phụ lục I ban hành kèm theo Nghị định số 15/2022/NĐ-CP ngày 28/1/2022 là một phần của Phụ lục Danh mục và nội dung hệ thống ngành sản phẩm Việt Nam ban hành kèm theo văn bản nào?",
+        "Choice": "A",
+        "Answer": "Quyết định số 43/2018/QĐ-TTg ngày 01/11/2018"
+    },
+    {
+        "ID": 260,
+        "Question": "Theo quy định hiện nay, giá đất được trừ để tính thuế GTGT trong trường hợp cơ sở kinh doanh nhận chuyển nhượng quyền sử dụng đất của các tổ chức, cá nhân là:",
+        "Choice": "C",
+        "Answer": "Giá đất tại thời điểm nhận chuyển nhượng quyền sử dụng đất không bao gồm giá trị cơ sở hạ tầng. Cơ sở kinh doanh được kê khai, khấu trừ thuế giá trị gia tăng đầu vào của cơ sở hạ tầng (nếu có)"
+    },
+    {
+        "ID": 261,
+        "Question": "Thời gian áp dụng giảm thuế GTGT theo Nghị định số 92/2021/NĐ-CP ngày 27/10/2021 của Chính phủ?",
+        "Choice": "D",
+        "Answer": "Từ ngày 01/11/2021  đến ngày 31/12/2021"
+    },
+    {
+        "ID": 262,
+        "Question": "Giảm thuế giá trị gia tăng theo Nghị định 92/2021/NĐ-CP  ngày 27/10/2021 của Chính phủ đối với hàng hóa, dịch vụ sau:",
+        "Choice": "E",
+        "Answer": "Cả Phương án A và C "
+    },
+    {
+        "ID": 263,
+        "Question": "Trường hợp cơ sở kinh doanh ký hợp đồng trước ngày 01/02/2022 để cung cấp dịch vụ cho khách hàng, dịch vụ này thuộc đối tượng giảm thuế GTGT theo quy định tại Nghị định số 15/2022/NĐ-CP ngày 28/01/2022 của Chính phủ. Doanh nghiệp có thu tiền trước hoặc trong khi cung cấp dịch vụ, đã lập hóa đơn tại thời điểm thu tiền trước ngày 01/02/2022 với thuế suất 10% nhưng dịch vụ hoàn thành trong thời gian từ ngày 01/02/2022 đến hết ngày 31/12/2022 thì việc áp dụng giảm thuế GTGT được thực hiện như thế nào?",
+        "Choice": "A",
+        "Answer": "Đối với phần tiền đã lập hóa đơn trước ngày 01/02/2022 không thuộc trường hợp được áp dụng chính sách giảm thuế GTGT; đối với phần tiền còn lại chưa thanh toán, được lập hóa đơn từ ngày 01/02/2022 đến hết ngày 31/12/2022 theo quy định của pháp luật thì được áp dụng chính sách giảm thuế GTGT."
+    },
+    {
+        "ID": 264,
+        "Question": "Đối với các hóa đơn đã lập khi bán hàng hóa, dịch vụ trước ngày 01/02/2022 với thuế suất thuế GTGT 10%, sau ngày 01/02/2022 phát sinh các nội dung sai sót cần điều chỉnh về tiền hàng, thuế GTGT hoặc trả lại hàng thì hóa đơn điều chỉnh, hóa đơn trả lại hàng được lập với thuế suất thuế GTGT như thế nào?",
+        "Choice": "B",
+        "Answer": "Doanh nghiệp lập hóa đơn lập hóa đơn điều chỉnh, hóa đơn trả lại hàng, DN lập với mức thuế suất thuế GTGT 10% không phân biệt HHDV có thuộc đối tượng giảm thuế GTGT theo quy định tại Nghị định 15/2022/NĐ-CP hay không."
+    },
+    {
+        "ID": 265,
+        "Question": "Việc lập hóa đơn đối với hàng hóa, dịch vụ thuộc đối tượng được giảm thuế GTGT theo quy định tại Nghị định số 15/2022/NĐ-CP ngày 28/01/2022 của Chính phủ đối với cơ sở kinh doanh nộp thuế GTGT theo phương pháp khấu trừ được thực hiện như sau:",
+        "Choice": "B",
+        "Answer": "Cơ sở kinh doanh khi bán hàng hóa, cung cấp dịch vụ áp dụng các mức thuế suất khác nhau thì trên hóa đơn giá trị gia tăng phải ghi rõ thuế suất của từng hàng hóa, dịch vụ "
+    },
+    {
+        "ID": 266,
+        "Question": "Mức giảm thuế GTGT theo Nghị định số 92/2021/NĐ-CP ngày 27/10/2021 của Chính phủ?",
+        "Choice": "A",
+        "Answer": "- Doanh nghiệp, tổ chức tính thuế giá trị gia tăng theo phương pháp khấu trừ được giảm 30% mức thuế suất thuế giá trị gia tăng đối với hàng hóa, dịch vụ thuộc đối tượng được giảm theo quy định\n\n- Doanh nghiệp, tổ chức tính thuế giá trị gia tăng theo phương pháp tỷ lệ % trên doanh thu được giảm 30% mức tỷ lệ % để tính thuế giá trị gia tăng đối với hàng hóa, dịch vụ thuộc đối tượng được giảm theo quy định"
+    },
+    {
+        "ID": 267,
+        "Question": "Thời gian áp dụng giảm thuế GTGT theo Nghị định số 44/2023/NĐ-CP ngày 30/06/2023 của Chính phủ?",
+        "Choice": "B",
+        "Answer": "Từ ngày 01/07/2023 đến ngày 31/12/2023"
+    },
+    {
+        "ID": 268,
+        "Question": "Thời gian áp dụng giảm thuế GTGT theo Nghị định số 94/2024/NĐ-CP ngày 28/12/2023 của Chính phủ?",
+        "Choice": "D",
+        "Answer": "Từ ngày 01/01/2023  đến ngày 30/6/2024"
+    },
+    {
+        "ID": 269,
+        "Question": "Theo quy định tại Nghị định số 123/2020/NĐ-CP ngày 19/10/2021 của Chính phủ, trường hợp nào người bán phải gửi mẫu 04/SS-HĐĐT thông báo hóa đơn điện tử có sai sót?",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên"
+    },
+    {
+        "ID": 270,
+        "Question": "Theo quy định tại Nghị định số 123/2020/NĐ-CP ngày 19/10/2021 của Chính phủ, thời hạn chậm nhất người bán phải gửi mẫu 04/SS-HĐĐT  thông báo hóa đơn điện tử có sai sót là:",
+        "Choice": "B",
+        "Answer": "Ngày cuối cùng của kỳ kê khai thuế giá trị gia tăng phát sinh hóa đơn điện tử điều chỉnh"
+    },
+    {
+        "ID": 271,
+        "Question": "Theo quy định tại Quyết định số 1450/QĐ-TCT ngày 07 tháng 10 năm 2021 của Tổng cục trưởng Tổng cục Thuế ban hành quy định về thành phần chứa dữ liệu nghiệp vụ hóa đơn điện tử và phương thức truyền nhận với cơ quan thuế, Trường hợp Công ty lập hóa đơn điện tử theo quy định tại NĐ 123/2020/NĐ-CP, cung cấp hàng hóa, dịch vụ không chịu thuế GTGT, trên hóa đơn GTGT tại chỉ tiêu “thuế suất”, Công ty thể hiện như thế nào?",
+        "Choice": "C",
+        "Answer": "c, KCT"
+    },
+    {
+        "ID": 272,
+        "Question": "Hóa đơn điện tử có mã của cơ quan thuế khởi tạo từ máy tính tiền áp dụng cho những đối tượng nào?",
+        "Choice": "D",
+        "Answer": "Doanh nghiệp, hộ, cá nhân kinh doanh nộp thuế theo phương pháp kê khai có hoạt động cung cấp hàng hóa, dịch vụ trực tiếp đến người tiêu dùng theo mô hình kinh doanh (trung tâm thương mại, siêu thị, bán lẻ hàng tiêu dùng, ăn uống, nhà hàng, khách sạn, bán lẻ thuốc tân dược, kinh doanh vàng, bạc, dịch vụ vui chơi, giải trí và các dịch vụ khác)"
+    },
+    {
+        "ID": 273,
+        "Question": "Chữ ký số thể hiện trên hóa đơn điện tử có mã của cơ quan thuế khởi tạo từ máy tính tiền?",
+        "Choice": "A",
+        "Answer": "Không bắt buộc có chữ ký số người bán và chữ ký số người mua"
+    },
+    {
+        "ID": 274,
+        "Question": "Theo quy định tại Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ,  hóa đơn giá trị gia tăng là hóa đơn dành cho các tổ chức khai thuế giá trị gia tăng theo phương pháp khấu trừ sử dụng cho các hoạt động nào sau đây:",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án trên đều đúng"
+    },
+    {
+        "ID": 275,
+        "Question": "Theo quy định tại Nghị định số 123/2020/NĐ-CP ngày 19/10/2020 của Chính phủ, trường hợp người cung cấp dịch vụ có thu tiền trước hoặc trong khi cung cấp dịch vụ thì thời điểm lập hóa đơn là thời điểm nào?",
+        "Choice": "A",
+        "Answer": "Thời điểm thu tiền (không bao gồm trường hợp thu tiền đặt cọc hoặc tạm ứng để đảm bảo thực hiện hợp đồng cung cấp các dịch vụ: kế toán, kiểm toán, tư vấn tài chính, thuế; thẩm định giá; khảo sát, thiết kế kỹ thuật; tư vấn giám sát; lập dự án đầu tư xây dựng)"
+    },
+    {
+        "ID": 276,
+        "Question": "Kể từ ngày 01/7/2022, quy định về sử dụng chứng từ khấu trừ thuế TNCN như thế nào?",
+        "Choice": "D",
+        "Answer": "Cả phương án A và C đều đúng"
+    },
+    {
+        "ID": 277,
+        "Question": "Doanh nghiệp Việt Nam ký hợp đồng với tổ chức ở Singapore để thực hiện dịch vụ quảng cáo sản phẩm tại thị trường Singapore và Việt Nam thì có thuộc đối tượng chịu thuế nhà thầu không?",
+        "Choice": "D",
+        "Answer": "Doanh nghiệp Việt Nam ký hợp đồng với tổ chức ở Singapore để thực hiện dịch vụ quảng cáo sản phẩm tại thị trường Singapore thì dịch vụ quảng cáo này của tổ chức Singapore không thuộc đối tượng áp dụng của Thông tư số 103/2014/TT-BTC. Trường hợp tổ chức ở Singapore thực hiện quảng cáo sản phẩm để tiêu thụ tại thị trường Việt Nam trên internet thì thu nhập từ dịch vụ quảng cáo này thuộc đối tượng áp dụng của Thông tư số 103/2014/TT-BTC"
+    },
+    {
+        "ID": 278,
+        "Question": "Trường hợp nhà cung cấp nước ngoài đã trực tiếp đăng ký thuế, kê khai, nộp thuế tại Việt Nam mà chuyển sang uỷ quyền cho tổ chức, đại lý thuế kê khai, nộp thuế thay thì sau bao lâu phải thông báo cho cơ quan thuế quản lý trực tiếp bằng cách thay đổi thông tin theo mẫu số 01-1/NCCNN ban hành kèm theo phụ lục I Thông tư này và gửi kèm theo tài liệu có liên quan.",
+        "Choice": "C",
+        "Answer": "chậm nhất 05 ngày làm việc trước ngày hợp đồng ủy quyền có hiệu lực"
+    },
+    {
+        "ID": 279,
+        "Question": "Doanh nghiệp Z đăng ký với Sở Kế hoạch và Đầu tư đặt trụ sở hoạt động kinh doanh tại huyện Quốc Oai. Doanh nghiệp Z từ khi thành lập chịu sự quản lý của Chi cục Thuế huyện Quốc Oai. Tuy nhiên, ngày 18/2/2024 doanh nghiệp Z nộp hồ sơ chuyển trụ sở về quận Hai Bà Trưng lên Sở Kế hoạch và Đầu tư. Việc thay đổi trụ sở kinh doanh khiến doanh nghiệp Z cần thay đổi cơ quan quản lý thuế. Hiện nay đã tới hạn nộp tờ khai thuế tháng 01/2024, doanh nghiệp không thực hiện nộp tờ khai thuế tháng 01/2024 cho Chi cục Thuế Huyện Quốc Oai vì đã có thông báo về việc chuyển trụ sở kinh doanh tới Sở Kế hoạch và Đầu tư. Doanh nghiệp Z thực hiện như vậy có bị xét là nộp chậm tờ khai thuế tháng 01/2024 không?",
+        "Choice": "B",
+        "Answer": "Có"
+    },
+    {
+        "ID": 280,
+        "Question": "Ông Trần Hồng Q đang làm việc tại Công ty TNHH Y từ ngày 19/4/2022 đến nay. Ông Trần Hồng Q có nhận làm tư vấn cho Công ty cổ phần D từ ngày 15/03/2022 đến ngày 15/04/2022 với thù lao 8 triệu/tháng (đã khấu trừ 10% thuế TNCN).  Ngày 20/01/2023, ông Trần Hồng Quang ủy quyền cho Công ty TNHH Y quyết toán thuế thu nhập cá nhân năm 2022 cho ông. Liệu ông Trần Hồng Q đã thực hiện đúng chưa?",
+        "Choice": "B",
+        "Answer": "Đúng"
+    },
+    {
+        "ID": 281,
+        "Question": "Thời hiệu xử phạt đối với hành vi vi phạm thủ tục thuế là bao lâu",
+        "Choice": "B",
+        "Answer": "02 năm"
+    },
+    {
+        "ID": 282,
+        "Question": "Đối với cùng một hành vi vi phạm hành chính về thuế, hóa đơn thì:",
+        "Choice": "C",
+        "Answer": "Mức phạt tiền đối với tổ chức bằng 02 lần mức phạt tiền đối với cá nhân"
+    },
+    {
+        "ID": 283,
+        "Question": "Tiền chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn được xác định như thế nào?",
+        "Choice": "C",
+        "Answer": "Tổ chức, cá nhân chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn thì bị tính tiền chậm nộp tiền phạt theo mức 0,05%/ngày tính trên số tiền phạt chậm nộp."
+    },
+    {
+        "ID": 284,
+        "Question": "Trong các trường hợp sau, Trường hợp nào được hoàn thuế GTGT theo quy định",
+        "Choice": "D",
+        "Answer": "Tất cả đáp án trên đều đúng "
+    },
+    {
+        "ID": 285,
+        "Question": "Trong các điều kiện trên, điều kiện nào không thuộc điều kiện hoàn thuế GTGT đối với dự án đầu tư của cơ sở kinh doanh mới thành lập",
+        "Choice": "A",
+        "Answer": "Cơ sở kinh doanh nộp thuế GTGT theo phương pháp trực tiếp "
+    },
+    {
+        "ID": 286,
+        "Question": "Đăng ký thuế lần đầu đối với người nộp thuế là cá nhân thuộc diện nộp thuế thu nhập cá nhân không thông qua tổ chức chi trả thì cần những giấy tờ gì?",
+        "Choice": "C",
+        "Answer": "Cả hai phương án trên"
+    },
+    {
+        "ID": 287,
+        "Question": "Hồ sơ miễn thuế, giảm thuế đối với trường hợp do cơ quan thuế quyết định\nmiễn thuế, giảm thuế bao gồm\n",
+        "Choice": "C",
+        "Answer": "Cả A và B đúng"
+    },
+    {
+        "ID": 288,
+        "Question": "Cơ quan thuế có trách nhiệm giải quyết hồ sơ miễn thuế, giảm thuế trong thời hạn bao nhiêu ngày kể từ ngày nhận đủ hồ sơ",
+        "Choice": "C",
+        "Answer": "Ba mươi ngày, kể từ ngày nhận đủ hồ sơ"
+    },
+    {
+        "ID": 289,
+        "Question": "Trường hợp nào sau đây cơ quan thuế trực tiếp kiểm tra hồ sơ ra quyết định miễn thuế, giảm thuế",
+        "Choice": "C",
+        "Answer": "Hộ kinh doanh, cá nhân kinh doanh nộp thuế theo phương pháp khoán có tạm nghỉ kinh doanh."
+    },
+    {
+        "ID": 290,
+        "Question": "Hồ sơ khai thuế GTGT đối với đơn vị phụ thuộc, địa điểm kinh doanh là cơ sở sản xuất",
+        "Choice": "A",
+        "Answer": "mẫu số 01/GTGT, phụ lục phân bổ mẫu số 01-6/GTGT"
+    },
+    {
+        "ID": 291,
+        "Question": "Để đối chiếu dữ liệu nợ thuế nhanh nhất và chính xác nhất, cán bộ có thể sử dụng chức năng nào trên TMS",
+        "Choice": "A",
+        "Answer": "Chức năng Tra cứu thông tin tổng quan NNT (10.1.2)"
+    },
+    {
+        "ID": 292,
+        "Question": "Chức năng Tra cứu thông tin tổng quan NNT (10.1.2) có thể:",
+        "Choice": "C",
+        "Answer": "Cả 2 phương án a, b"
+    },
+    {
+        "ID": 293,
+        "Question": "Câu nào sau đây là đúng nhất về hệ thống TMS để phục vụ đối chiếu nợ thuế",
+        "Choice": "B",
+        "Answer": "Hệ thống TMS có thể kết xuất được toàn bộ dữ liệu NNT từ năm 2015 đến nay (đối với thuế TNCN từ năm 2011 đến nay)"
+    },
+    {
+        "ID": 294,
+        "Question": "Chức năng Tra cứu tiền chậm nộp (9.1.7) có thể:",
+        "Choice": "C",
+        "Answer": "Cả 2 phương án a, b"
+    },
+    {
+        "ID": 295,
+        "Question": "Các nguyên nhân có thể dẫn đến nợ sai",
+        "Choice": "D",
+        "Answer": "Cả 3 phương án a,b,c"
+    },
+    {
+        "ID": 296,
+        "Question": "Thời gian khoanh nợ tiền thuế theo quy định tại Luật quản lý thuế số 38/2019/QH14 đối với người nộp thuế không còn hoạt động kinh doanh tại địa chỉ kinh doanh đã đăng ký",
+        "Choice": "D",
+        "Answer": "Tính từ ngày cơ quan quản lý thuế có văn bản thông báo về việc người nộp thuế hoặc đại diện theo pháp luật của người nộp thuế không hiện diện tại địa chỉ kinh doanh, địa chỉ liên lạc đã đăng ký với cơ quan quản lý thuế đến khi người nộp thuế tiếp tục hoạt động kinh doanh hoặc được xóa nợ theo quy định.  "
+    },
+    {
+        "ID": 297,
+        "Question": "Các trường hợp bị cưỡng chế thi hành quyết định hành chính về quản lý thuế",
+        "Choice": "E",
+        "Answer": "Phương án a,b,c,d"
+    },
+    {
+        "ID": 298,
+        "Question": "Chưa thực hiện biện pháp cưỡng chế thuế đối với trường hợp nào?",
+        "Choice": "E",
+        "Answer": "Phương án a,b,c"
+    },
+    {
+        "ID": 299,
+        "Question": "Các biện pháp cưỡng chế thi hành quyết định hành chính về quản lý thuế",
+        "Choice": "A",
+        "Answer": "(1)Trích tiền từ tài khoản của đối tượng bị cưỡng chế thi hành quyết định hành chính về quản lý thuế tại Kho bạc Nhà nước, ngân hàng thương mại, tổ chức tín dụng khác; phong tỏa tài khoản; (2) Khấu trừ một phần tiền lương hoặc thu nhập; (3) Dừng làm thủ tục hải quan đối với hàng hóa xuất khẩu, nhập khẩu; (4) Ngừng sử dụng hóa đơn; (5) Kê biên tài sản, bán đấu giá tài sản kê biên theo quy định của pháp luật; (6) Thu tiền, tài sản khác của đối tượng bị cưỡng chế thi hành quyết định hành chính về quản lý thuế do cơ quan, tổ chức, cá nhân khác đang nắm giữ; (7) Thu hồi giấy chứng nhận đăng ký doanh nghiệp, giấy chứng nhận đăng ký kinh doanh, giấy chứng nhận đăng ký hợp tác xã, giấy chứng nhận đăng ký đầu tư, giấy phép thành lập và hoạt động, giấy phép hành nghề"
+    },
+    {
+        "ID": 300,
+        "Question": "Quyết định cưỡng chế chấm dứt hiệu lực khi nào",
+        "Choice": "C",
+        "Answer": "Cả 2 phương án a,b"
+    },
+    {
+        "ID": 301,
+        "Question": "Trường hợp đang áp dụng biện pháp cưỡng chế ngừng sử dụng hóa đơn mà người nộp thuế có văn bản đề nghị sử dụng hóa đơn để có nguồn thanh toán tiền lương công nhân, thanh toán các khoản chi phí đảm bảo sản xuất kinh doanh được liên tục thì cơ quan thuế tiếp tục cho người nộp thuế sử dụng hóa đơn theo từng lần phát sinh với điều kiện:",
+        "Choice": "B",
+        "Answer": "Người nộp thuế phải nộp ngay ít nhất 18% doanh thu trên hóa đơn được sử dụng vào ngân sách nhà nước"
+    },
+    {
+        "ID": 302,
+        "Question": "Đối với  quyết định xử phạt vi phạm hành chính, thời gian để áp dụng biện pháp cưỡng chế là ",
+        "Choice": "A",
+        "Answer": "Người nộp thuế không chấp hành quyết định xử phạt vi phạm hành chính về quản lý thuế theo thời hạn ghi trên quyết định xử phạt vi phạm hành chính về quản lý thuế, trừ trường hợp được hoãn hoặc tạm đình chỉ thi hành quyết định xử phạt."
+    },
+    {
+        "ID": 303,
+        "Question": "Thời hiệu thi hành Quyết định cưỡng chế tài khoản:         ",
+        "Choice": "A",
+        "Answer": "Trường hợp cưỡng chế bằng biện pháp trích tiền từ tài khoản, phong tỏa tài khoản của đối tượng bị cưỡng chế thì có hiệu lực thi hành trong thời hạn 30 ngày kể từ ngày ban hành quyết định.\n"
+    },
+    {
+        "ID": 304,
+        "Question": "Thời điểm áp dụng biện pháp cưỡng chế đối với đối tượng có số thuế được gia hạn",
+        "Choice": "A",
+        "Answer": "Người nộp thuế có tiền thuế nợ khi hết thời hạn gia hạn nộp tiền thuế"
+    },
+    {
+        "ID": 305,
+        "Question": "Trường hợp Thanh tra nhà nước không trực tiếp thanh tra đối với NNT mà thực hiện thanh tra tại cơ quan QLT có nội dung kiến nghị nêu trong kết luận thanh tra liên quan đến nghĩa vụ thuế của NNT thì Cơ quan Thuế có trách nhiệm:",
+        "Choice": "B",
+        "Answer": "Tổ chức thực hiện kết luận"
+    },
+    {
+        "ID": 306,
+        "Question": "Trường hợp Kiểm toán nhà nước không trực tiếp kiểm toán đối với NNT mà thực hiện kiểm toán tại cơ quan QLT có nội dung kiến nghị nêu trong báo cáo kiểm toán liên quan đến nghĩa vụ thuế của NNT thì Cơ quan Thuế có trách nhiệm:",
+        "Choice": "A",
+        "Answer": "Tổ chức thực hiện kết luận"
+    },
+    {
+        "ID": 307,
+        "Question": "Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán là Ứng dụng gì?",
+        "Choice": "A",
+        "Answer": "Theo dõi toàn bộ các kiến nghị được nêu tại các Kết luận Thanh tra, Thông báo/Báo cáo KTNN có nội dung liên quan đến Cục Thuế TP Hà Nội"
+    },
+    {
+        "ID": 308,
+        "Question": "Thời hạn báo cáo định kỳ hàng tháng của các Phòng/CCT được giao chủ trì thực hiện nhiệm vụ phải cập nhật vào Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán là khi nào?",
+        "Choice": "A",
+        "Answer": "Trước ngày 23 hàng tháng"
+    },
+    {
+        "ID": 309,
+        "Question": "Mỗi Phòng/CCT được cấp mấy tài khoản để đăng nhập vào Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán?",
+        "Choice": "A",
+        "Answer": "Một"
+    },
+    {
+        "ID": 310,
+        "Question": "Phòng/CCT sau khi rà soát mà phát sinh nhiệm vụ còn phải thực hiện theo kiến nghị của cơ quan thanh tra, kiểm toán nhưng chưa có trong CSDL của Ứng dụng thì xử lý thế nào?",
+        "Choice": "C",
+        "Answer": "Chuyển thông tin về phòng TTKT10 cập nhật"
+    },
+    {
+        "ID": 311,
+        "Question": "Trường hợp cần cập nhật thay đổi số tiền đã thu vào NSNN đối với các kiến nghị xử lý kinh tế, các Phòng/CCT cần thực hiện như thế nào để được phê duyệt trên Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán ?",
+        "Choice": "B",
+        "Answer": "Nhập số tiền đã nộp vào Ứng dụng và tải file gửi kèm theo chứng từ, tài liệu liên quan"
+    },
+    {
+        "ID": 312,
+        "Question": "Có thể truy cập và sử dụng Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán ở đâu?",
+        "Choice": "B",
+        "Answer": "Ở máy tính kết nối mạng nội bộ, địa chỉ: 10.1.64.214:8010/ "
+    },
+    {
+        "ID": 313,
+        "Question": "Có thể đổi mật khẩu trên Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán không?",
+        "Choice": "A",
+        "Answer": "Có "
+    },
+    {
+        "ID": 314,
+        "Question": "Có thể tải tài liệu liên quan đến nhiệm vụ được phân công trên Ứng dụng theo dõi kết quả thực hiện kiến nghị của các cơ quan thanh tra, kiểm toán không?",
+        "Choice": "A",
+        "Answer": "Có "
+    },
+    {
+        "ID": 315,
+        "Question": "Ứng dụng TTR cho phép nhập Quyết định bổ sung đối với các cuộc TTKT đã tồn tại trong hệ thống ở trạng thái. ",
+        "Choice": "C",
+        "Answer": "Đã hoàn thành"
+    },
+    {
+        "ID": 316,
+        "Question": "Ứng dụng TTR cho phép NSD nhập số nộp thanh tra kiểm tra nhiều lần?",
+        "Choice": "D",
+        "Answer": "Nhiều lần"
+    },
+    {
+        "ID": 317,
+        "Question": "Trong một cuộc thanh tra, kiểm tra, cán bộ có vai trò nào sẽ được thao tác với chức năng Nhật ký đoàn",
+        "Choice": "C",
+        "Answer": "Trưởng đoàn"
+    },
+    {
+        "ID": 318,
+        "Question": "DN A gửi hồ sơ Báo cáo tài chính (BCTC) năm 2017 tại bộ phận 1 cửa, cán bộ nhập tay vào ứng Hệ thống cơ sở dữ liệu báo cáo tại chính doanh nghiệp ( UD BCTC).  NSD khi khai thác dữ liệu BCTC năm 2017 của DN a thì khai thác tại ứng dụng nào",
+        "Choice": "C",
+        "Answer": "Hệ thống cơ sở dữ liệu báo cáo tại chính doanh nghiệp ( UD BCTC)"
+    },
+    {
+        "ID": 319,
+        "Question": "Tại ứng dụng TTR khi nhập quyết định truy thu, tăng lỗ, tăng khấu trừ, tăng chi phí thì nhập như thế nào",
+        "Choice": "A",
+        "Answer": "Tăng lỗ, tăng khấu trừ, tăng chi phí thì nhập âm"
+    },
+    {
+        "ID": 320,
+        "Question": "Tại ứng dụng TTR khi nhập quyết định truy thu, giảm lỗ, giảm khấu trừ, giảm chi phí thì nhập như thế nào",
+        "Choice": "B",
+        "Answer": "Giảm lỗ, giảm khấu trừ, giảm chi phí thì nhập dương"
+    },
+    {
+        "ID": 321,
+        "Question": "Tại ứng dụng nhật ký điện tử (iTNK) NSD có thể thực hiện chỉnh sửa nội dung tiến độ công việc của ngày hôm trước không",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 322,
+        "Question": "Tại UD nhật ký điện tử (iTNK), trong chức năng nhật ký đoàn, NSD có vai trò trưởng đoàn có được thêm nội dung không",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 323,
+        "Question": "Tại UD nhật ký điện tử (iTNK), trong quá trình tiến hành cuộc thanh tra, kiểm tra, NSD là trưởng đoàn sử dụng chức năng nào để Gia hạn thời gian tiến hành cuộc thanh tra, kiểm tra",
+        "Choice": "C",
+        "Answer": "Gia hạn cuộc TTKT"
+    },
+    {
+        "ID": 324,
+        "Question": "Ứng dụng TTR chức năng Nhận  file kết quả kiểm tra hồ sơ khai thuế GTGT của NNT có rủi ro, tại tab Danh sách NNT được nhận tự động, NSD  lựa chọn danh sách NNT như thế nào để nhận vào kế hoạch kiểm tra tại CQT",
+        "Choice": "D",
+        "Answer": "Tất cả phương án trên"
+    },
+    {
+        "ID": 325,
+        "Question": "Tại UD nhật ký điện tử (iTNK), Lãnh đạo cơ quan thuế đưa ra yêu cầu báo cáo cho cuộc thanh tra kiểm tra, NSD có vai trò nào trong cuộc thanh tra kiểm tra sẽ phản hồi lại yêu cầu báo cáo",
+        "Choice": "D",
+        "Answer": "Giám sát"
+    },
+    {
+        "ID": 326,
+        "Question": "Trong UD TMS, NSD muốn tra cứu chi tiết TNCN nhiều nguồn thì tra cứu tại chức năng nào? 3.2.4.2;3.9.4.1;3.9.4.2",
+        "Choice": "D",
+        "Answer": "3.2.4.2  Dùng để tra cứu chi tiết TNCN nhiều nguồn"
+    },
+    {
+        "ID": 327,
+        "Question": "Tại UD nhật ký điện tử (iTNK), trong quá trình tiến hành cuộc thanh tra, kiểm tra ngày bắt đầu tính thời hạn thanh tra, kiểm tra trên hệ thống ứng dụng là ngày nào",
+        "Choice": "C",
+        "Answer": "Ngày công bố quyết định thanh tra, kiểm tra trên hệ thống ứng dụng"
+    },
+    {
+        "ID": 328,
+        "Question": "Tại UD nhật ký điện tử (iTNK), trong quá trình tiến hành cuộc thanh tra, kiểm tra, NSD là trưởng đoàn thanh tra, kiểm tra sẽ không được thực hiện chức năng nào",
+        "Choice": "B",
+        "Answer": "Chỉnh sửa tiến độ công việc của thành viên đoàn"
+    },
+    {
+        "ID": 329,
+        "Question": "Ứng dụng TTR chức năng Tra cứu kết quả kiểm tra tại CQT, tại màn hình nhập điều kiện tra cứu NSD lựa chọn Loại kết quả như thế nào để thực hiện In nhận xét, In thông báo giải trình ",
+        "Choice": "B",
+        "Answer": "Dòng kết quả là Kết quả"
+    },
+    {
+        "ID": 330,
+        "Question": "Anh/chị Hãy cho biết Hệ thống TPR phân tích rủi ro dựa trên dữ liệu được tập trung từ những hệ thống nghiệp vụ nào",
+        "Choice": "C",
+        "Answer": "Hệ thống tập trung cơ sở dữ liệu và khai thác thông tin người nộp thuế TPH; Hệ thống hỗ trợ thanh tra kiểm tra TTR; Hệ thống cơ sở dữ liệu BCTC"
+    },
+    {
+        "ID": 331,
+        "Question": "Tại UD nhật ký điện tử (iTNK), trưởng đoàn khi Cập nhật thông tin quyết định có thể lựa chọn nhiều nội dung tại tab nội dung hoặc nhiều chuyên đề tại tab cho 1 cuộc thanh tra, kiểm tra đúng hay sai",
+        "Choice": "A",
+        "Answer": "Đúng"
+    },
+    {
+        "ID": 332,
+        "Question": "Sau khi có kết quả phân tích rủi ro hồ sơ khai thuế GTGT tại CQT, ứng dụng TPR đẩy kết quả của những NNT có mức độ rủi ro như thế nào sang hệ thống TTR ",
+        "Choice": "D",
+        "Answer": "Đẩy tất cả kết quả phân tích sang hệ thống TTR"
+    },
+    {
+        "ID": 333,
+        "Question": "Tại ứng dụng nhật ký điện tử iTNK, Báo cáo giám sát (Mẫu 05-TTr) NSD nào sẽ thực hiện gửi báo cáo",
+        "Choice": "D",
+        "Answer": "Giám sát"
+    },
+    {
+        "ID": 334,
+        "Question": "Đối với những TTKT cuộc đang thực hiện hoặc đã kết thúc ứng dụng TTR có cho phép xóa những cuộc TTKT này không?",
+        "Choice": "B",
+        "Answer": "Không"
+    },
+    {
+        "ID": 335,
+        "Question": "ứng dụng XMHĐ, đối với những cấu hình ký thay/ký thừa lệnh/ký thừa ủy quyền đã được thiết lập, hệ thống có cho xóa không?",
+        "Choice": "B",
+        "Answer": "Không, chỉ cho sửa Kỳ hiệu lực"
+    },
+    {
+        "ID": 336,
+        "Question": "XMHĐ, thông tin Mã cán bộ thuế được lấy theo Thông tin mã Cán bộ quản lý trên TMS?",
+        "Choice": "A",
+        "Answer": "Đúng"
+    },
+    {
+        "ID": 337,
+        "Question": "XMHĐ, Sau khi nhấn nút Duyệt xác minh, NSD thực hiện ký số trên ứng dụng KĐT?",
+        "Choice": "A",
+        "Answer": "Đúng"
+    },
+    {
+        "ID": 338,
+        "Question": "XMHĐ, khi nhập thông tin chi tiết hàng hóa, dịch vụ để xác minh, ứng dụng có hỗ trợ lấy dữ liệu hóa đơn điện tử theo NĐ 123? ",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 339,
+        "Question": "XMHĐ, khi gán phòng ban cho NSD và thiết lập cấu hình ký thay/ký thừa lệnh/ký thừa ủy quyền, NSD phải nhập đúng ký tự viết Hoa, ký tự viết thường?",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 340,
+        "Question": "Đối với YCXM gửi đi, nếu nút Gửi lãnh đạo bị mờ, NSD cần kiểm tra các cột?",
+        "Choice": "C",
+        "Answer": "Cả hai trường hợp trên"
+    },
+    {
+        "ID": 341,
+        "Question": "Đối với phiếu trả lời YCXM gửi đến,  nếu nút Ghi và gủi duyệt xác minh bị mờ, NSD cần kiểm tra các cột?",
+        "Choice": "D",
+        "Answer": "Cả 3 trường hợp trên"
+    },
+    {
+        "ID": 342,
+        "Question": "Khi lãnh đạo phòng/đội duyệt xác minh, các yêu cầu có được tự động gửi sang ứng dụng Ký điện tử?",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 343,
+        "Question": "Khi các YCXM gửi đi được ký điện tử thành công, ứng dụng KĐT có trả về thông tin số công văn, ngày công văn cho ứng dụng XMHĐ?",
+        "Choice": "A",
+        "Answer": "Có"
+    },
+    {
+        "ID": 344,
+        "Question": "NSD kết xuất excel các báo cáo XMHĐ của đơn vị mình ở đâu?",
+        "Choice": "A",
+        "Answer": "DWH với đường dẫn: https://csdlnnt.gdt.gov.vn/bi/"
+    },
+    {
+        "ID": 345,
+        "Question": "Đoàn kiểm tra chấp hành pháp luật thuế phát hiện NNT sử dụng hóa đơn bất hợp pháp để kê khai khấu trừ thuế, xác định chi phí được trừ dẫn đến giảm số thuế GTGT phải nộp tháng 5/2021 nhưng không dẫn đến giảm số thuế TNDN phải nộp năm 2021. Trường hợp không có dấu hiệu tội phạm thì việc xử lý như thế nào:",
+        "Choice": "D",
+        "Answer": "Không xử phạt vi phạm hành chính về hóa đơn nhưng phải xử phạt vi phạm hành chính về thuế GTGT, TNDN"
+    },
+    {
+        "ID": 346,
+        "Question": "Quá thời hạn thi hành Quyết định xử lý vi phạm hành chính, NNT chậm nộp tiền phạt vi phạm hành chính về thuế, hóa đơn thì bị tính tiền chậm nộp tiền phạt theo:",
+        "Choice": "C",
+        "Answer": "Mức 0,05%/ngày tính trên số tiền phạt chậm nộp"
+    },
+    {
+        "ID": 347,
+        "Question": "Chọn đáp án lời đúng cho câu hỏi sau đây: Một người thực hiện nhiều hành vi vi phạm hành chính thì bị xử phạt như thế nào?",
+        "Choice": "D",
+        "Answer": "d) Bị xử phạt về từng hành vi vi phạm."
+    },
+    {
+        "ID": 348,
+        "Question": "Quyết định xử phạt vi phạm hành chính được sửa đổi, bổ sung khi thuộc trường hợp nào sau đây:",
+        "Choice": "A",
+        "Answer": "Có sai sót, vi phạm mà không thuộc trường hợp hủy bỏ toàn bộ nội dung quyết định và không thuộc trường hợp có sai sót về kỹ thuật soạn thảo."
+    },
+    {
+        "ID": 349,
+        "Question": "Theo Nghị định số 125/2020/NĐ-CP, Trưởng đoàn thanh tra Cục Thuế không có quyền xử phạt đối với hành vi nào sau đây:",
+        "Choice": "A",
+        "Answer": "Hành vi khai sai dẫn đến thiếu số tiền thuế phải nộp."
+    },
+    {
+        "ID": 350,
+        "Question": "Theo Nghị định số 125/2020/NĐ-CP, vụ việc nào sau đây không là vụ việc có nhiều tình tiết phức tạp:",
+        "Choice": "C",
+        "Answer": "Vụ việc được phát hiện qua kiểm tra thuế tại trụ sở cơ quan thuế."
+    },
+    {
+        "ID": 351,
+        "Question": "Theo Nghị định số 125/2020/NĐ-CP, hình thức nào dưới đây không là hình thức giao, gửi Quyết định xử phạt vi phạm hành chính về thuế cho tổ chức, cá nhân bị xử phạt?",
+        "Choice": "B",
+        "Answer": "Gửi qua địa chỉ email của tổ chức, cá nhân bị xử phạt."
+    },
+    {
+        "ID": 352,
+        "Question": "Thời hạn ban hành quyết định xử phạt vi phạm hành chính nào sau đây không phải là thời hạn ban hành quyết định xử phạt theo Luật số 67/2020/QH14 sửa đổi, bổ sung một số điều của Luật Xử lý vi phạm hành chính:",
+        "Choice": "D",
+        "Answer": " 01 tháng, kể từ ngày lập biên bản vi phạm hành chính đối với vụ việc thuộc trường hợp giải trình."
+    },
+    {
+        "ID": 353,
+        "Question": "Chọn đáp án đúng cho tình huống sau: Ngày 15/9/2021 Doanh nghiệp A bán hàng cho Doanh nghiệp B chưa lập hóa đơn nhưng đã kê khai thuế. Thời hiệu xử phạt vi phạm hành chính đối với hành vi không lập hóa đơn khi bán hàng là:",
+        "Choice": "B",
+        "Answer": "2 năm"
+    },
+    {
+        "ID": 354,
+        "Question": "Chọn đáp án đúng cho tình huống sau: Ngày 15/01/2023 Doanh nghiệp A nộp hồ sơ khai thuế GTGT cho kỳ tính thuế tháng 08/2020 phát sinh số thuế GTGT phải nộp 30 triệu đồng. Cơ quan thuế lập biên bản vi phạm hành chính ngày 16/01/2023. Thời hiệu xử phạt đối với hành vi nộp hồ sơ khai thuế quá thời hạn trên 90 ngày là?",
+        "Choice": "B",
+        "Answer": "2 năm."
+    },
+    {
+        "ID": 355,
+        "Question": "Chọn đáp án đúng cho tình huống sau: Ngày 13/01/2023, Đoàn kiểm tra thuế kiểm tra tại trụ sở người nộp thuế phát hiện người nộp thuế khai sai các chỉ tiêu liên quan đến xác định nghĩa vụ thuế trên Tờ khai thuế GTGT tháng 01/2021, tháng 8/2021, tháng 5/2022 nhưng không dẫn đến thiếu số tiền thuế phải nộp. Xác định hành vi vi phạm và tình tiết tăng nặng?",
+        "Choice": "B",
+        "Answer": "03 hành vi: hành vi khai sai không dẫn đến thiếu thuế tháng 01/2021;  hành vi khai sai không dẫn đến thiếu thuế tháng 8/2021 với 01 tình tiết tăng nặng vi phạm nhiều lần; hành vi khai sai không dẫn đến thiếu thuế tháng 5/2022 với 01 tình tiết tăng nặng vi phạm nhiều lần; "
+    },
+    {
+        "ID": 356,
+        "Question": "Kể từ ngày 01 tháng 01 năm 2022, thời hiệu xử phạt vi phạm hành chính:",
+        "Choice": "D",
+        "Answer": "Tất cả các phương án trên đều đúng."
+    },
+    {
+        "ID": 357,
+        "Question": "Chi cục trưởng Chi cục Thuế trong phạm vi địa bàn quản lý của mình có thẩm quyền phạt tiền đối với cá nhân vi phạm đến:",
+        "Choice": "B",
+        "Answer": "25 triệu đồng đối với các hành vi vi phạm thủ tục về thuế, hóa đơn"
+    },
+    {
+        "ID": 358,
+        "Question": "Người có thẩm quyền xử phạt có thể giao cho cấp phó thực hiện thẩm quyền xử phạt vi phạm hành chính theo hình thức:",
+        "Choice": "C",
+        "Answer": "c. Quyết định, trong đó xác định rõ phạm vi, nội dung, thời hạn giao quyền."
+    },
+    {
+        "ID": 359,
+        "Question": "Thời hạn ra quyết định xử phạt vi phạm hành chính đối với vụ việc mà cá nhân, tổ chức có yêu cầu giải trình hoặc phải xác minh các tình tiết có liên quan, vụ việc đặc biệt nghiêm trọng, có nhiều tình tiết phức tạp, thì thời hạn ra quyết định xử phạt được quy định là:",
+        "Choice": "D",
+        "Answer": "02 tháng, kể từ ngày lập biên bản vi phạm hành chính;"
+    },
+    {
+        "ID": 360,
+        "Question": "Nhà máy của công ty trách nhiệm hữu hạn một thành viên Minh Nguyệt đi vào hoạt động được 2 năm không may bị chập điện cháy kho hàng, gặp khó khăn trong sản xuất kinh doanh, không thể nộp thuế đúng thời hạn quy định. Vậy, trong trường hợp này việc nộp thuế của công ty trách nhiệm hữu hạn một thành viên Minh Nguyệt có được gia hạn hay không? Nếu được gia hạn thì thời gian bao lâu? Hồ sơ gia hạn như thế nào?",
+        "Choice": "A",
+        "Answer": "Công ty trách nhiệm hữu hạn một thành viên Minh Nguyệt có đơn đề nghị chậm nộp thuế với lý do bị hỏa hoạn cháy kho hàng thì được gia hạn nộp thuế. Thời gian gia hạn hộp thuế không quá 02 năm. Hồ sơ gia hạn nộp thuế bao gồm văn bản đề nghị gia hạn nộp thuế và tài liệu chứng minh lý do gia hạn theo quy định tại Khoản 2 Điều 64 Luật quản lý thuế năm 2019."
+    },
+    {
+        "ID": 361,
+        "Question": "Số văn bản quy phạm pháp luật hiện hành quy định về quản lý thuế đối với DN có giao dịch liên kết",
+        "Choice": "D",
+        "Answer": "Cả ba phương án trên"
+    },
+    {
+        "ID": 362,
+        "Question": "Thứ tự các bước công việc nên tiến hành để đảm bảo hiệu quả kiểm tra phát hiện, xử lý hành vi vi phạm của các DN có phát sinh giao dịch liên kết nhưng không kê khai theo quy định",
+        "Choice": "B",
+        "Answer": "Bước 1: yêu cầu DN giải trình, xác định danh sách các DN có phát sinh giao dịch kinh doanh trong thời kỳ thanh tra (theo từng năm); Bước 2: khai thác thông tin liên quan để xác định các DN có quan hệ liên kết (thuộc danh sách các DN có phát sinh giao dịch KD); Bước 3: Xử lý hành vi vi phạm pháp luật về QLT đối với DN có GDLK theo quy định;"
+    },
+    {
+        "ID": 363,
+        "Question": "Cơ sở giáo dục công lập A có số liệu kê khai thuế TNCN của kỳ tính thuế năm 2022 như sau:\n1. Tờ khai khấu trừ thuế TNCN (mẫu 05/KK-TNCN): chỉ tiêu thuế TNCN đã khấu trừ từ tháng 01/2022 đến tháng 12/2022 là 1 tỷ đồng.\n2. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN):\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 1,5 tỷ đồng.\nVậy số thuế TNCN phải nộp năm 2022 của cơ sớ giáo dục công lập A đã kê khai là bao nhiều?\n",
+        "Choice": "C",
+        "Answer": "2,5 tỷ đồng"
+    },
+    {
+        "ID": 364,
+        "Question": "Cơ sở giáo dục công lập A có số liệu kê khai thuế TNCN của kỳ tính thuế năm 2022 như sau:\n1. Tờ khai khấu trừ thuế TNCN (mẫu 05/KK-TNCN): chỉ tiêu thuế TNCN đã khấu trừ từ tháng 01/2022 đến tháng 12/2022 là 500 triệu đồng.\n2. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN):\n- Chỉ tiêu thuế TNCN đã khấu trừ: 1 tỷ đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 1,5 tỷ đồng.\nVới số liệu kê khai như trên đơn vị có phát sinh rủi ro về việc xác định nghĩa vụ thuế TNCN phải nộp hay không?\n",
+        "Choice": "B",
+        "Answer": "Rủi ro về việc kê khai thiếu thuế TNCN, số thuế có thể kê khai thiếu là 500 triệu đồng"
+    },
+    {
+        "ID": 365,
+        "Question": "Cơ sở giáo dục công lập A có số liệu kê khai thuế TNCN của kỳ tính thuế năm 2022 như sau:\n1. Tờ khai khấu trừ thuế TNCN (mẫu 05/KK-TNCN): chỉ tiêu thuế TNCN đã khấu trừ từ tháng 01/2022 đến tháng 12/2022 là 1 tỷ đồng.\n2. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN) chính thức:\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 1,5 tỷ đồng.\n3. Tờ khai Quyết toán thuế TNCN (mẫu 05/QTT-TNCN) bổ sung lần 1:\n- Chỉ tiêu thuế TNCN đã khấu trừ: 500 triệu đồng.\n- Chỉ tiêu thuế TNCN còn phải nộp: 2 tỷ đồng.\n- Chỉ tiêu chênh lệch thuế TNCN còn phải nộp giữa số điều chỉnh và số kê khai là tăng 200 triệu\nVậy số thuế TNCN phải nộp năm 2022 của cơ sớ giáo dục công lập A đã kê khai là bao nhiều?\n",
+        "Choice": "D",
+        "Answer": "2,7 tỷ đồng"
+    },
+    {
+        "ID": 366,
+        "Question": "Hồ sơ khai thuế GTGT đối với hoạt động chuyển nhượng bất động sản",
+        "Choice": "C",
+        "Answer": "mẫu số 05/GTGT"
+    },
+    {
+        "ID": 367,
+        "Question": "Hồ sơ khai quyết toán thuế thu nhập doanh nghiệp đối với toàn bộ hoạt động chuyển nhượng bất động sản",
+        "Choice": "A",
+        "Answer": "mẫu số 03/TNDN, phụ lục bảng phân bổ mẫu số 03-8A/TNDN"
+    },
+    {
+        "ID": 368,
+        "Question": "Sau khi hết hạn nộp hồ sơ khai thuế theo quy định, người nộp thuế phát hiện hồ sơ khai thuế đã nộp cho cơ quan thuế có sai sót, nhầm lẫn ảnh hưởng đến số thuế phải nộp thì được khai bổ sung hồ sơ khai thuế trong trường hợp: ",
+        "Choice": "A",
+        "Answer": "Ngay sau khi người nộp thuế phát hiện hồ sơ khai thuế đã nộp cho cơ quan thuế có sai sót, nhầm lẫn. "
+    },
+    {
+        "ID": 369,
+        "Question": "Luật quản lý thuế số 38/2019/QH14 ngày 13/06/2019 quy định về điều chỉnh tiền chậm nộp như sau:",
+        "Choice": "A",
+        "Answer": "Người nộp thuế khai bổ sung hồ sơ khai thuế làm giảm số tiền thuế phải nộp hoặc cơ quan quản lý thuế, cơ quan nhà nước có thẩm quyền kiểm tra, thanh tra phát hiện số tiền thuế phải nộp giảm thì được điều chỉnh số tiền chậm nộp đã tính tương ứng với số tiền chênh lệch giảm"
+    },
+    {
+        "ID": 370,
+        "Question": "Luật quản lý thuế số 38 quy định về Nộp thuế trong thời gian giải quyết khiếu nại, khởi kiện",
+        "Choice": "C",
+        "Answer": "Cả hai phương án a và b"
+    },
+    {
+        "ID": 371,
+        "Question": "Khoản 6 Điều 18 Nghị định 132/2020/NĐ-CP quy định:",
+        "Choice": "A",
+        "Answer": "6. Hồ sơ xác định giá giao dịch liên kết được lập trước thời điểm kê khai quyết toán thuế thu nhập doanh nghiệp hàng năm và phải lưu giữ, xuất trình theo yêu cầu cung cấp thông tin của Cơ quan thuế"
+    },
+    {
+        "ID": 372,
+        "Question": "Đối tượng áp dụng Nghị định 132/2020/NĐ-CP là:",
+        "Choice": "B",
+        "Answer": "Tổ chức sản xuất, kinh doanh hàng hóa, dịch vụ (sau đây gọi chung là người nộp thuế) là đối tượng nộp thuế thu nhập doanh nghiệp có phát sinh giao dịch với các bên có quan hệ liên kết theo quy định tại điều 5 Nghị định này"
+    },
+    {
+        "ID": 373,
+        "Question": "Theo quy định của Luật quản lý thuế, thời điểm nào được xác định là ngày người nộp thuế đã nộp tiền thuế, tiền phạt vào NSNN? ",
+        "Choice": "A",
+        "Answer": "Ngày Kho bạc Nhà nước, Ngân hàng thương mại, tổ chức tín dụng khác hoặc tổ chức dịch vụ xác nhận trên chứng từ nộp thuế của người nộp thuế trong trường hợp nộp thuế bằng chuyển khoản"
+    },
+    {
+        "ID": 374,
+        "Question": "Người nộp thuế có thể nộp tiền thuế, tiền phạt vào Ngân sách nhà nước tại: ",
+        "Choice": "D",
+        "Answer": "Ngân hàng thương mại, tổ chức tín dụng khác và tổ chức dịch vụ theo quy định của pháp luật."
+    },
+    {
+        "ID": 375,
+        "Question": "Thời gian tính tiền chậm nộp được quy định theo Luật Quản lý thuế số 38/2019/QH14 ngày 13/06/2019 như thế nào",
+        "Choice": "A",
+        "Answer": "Thời gian tính tiền chậm nộp được tính liên tục kể từ ngày tiếp theo ngày phát sinh tiền chậm nộp quy định tại khoản 1 Điều này đến ngày liền kề trước ngày số tiền nợ thuế, tiền thu hồi hoàn thuế, tiền thuế tăng thêm, tiền thuế ấn định, tiền thuế chậm chuyển đã nộp vào ngân sách nhà nước"
+    },
+    {
+        "ID": 376,
+        "Question": "Mức tính tiền chậm nộp được quy định theo Luật Quản lý thuế số 38/2019/QH14 ngày 13/06/2019",
+        "Choice": "B",
+        "Answer": "Mức tính tiền chậm nộp bằng 0,03%/ngày tính trên số tiền thuế chậm nộp;"
+    },
+    {
+        "ID": 377,
+        "Question": "Thứ tự thanh toán tiền thuế, tiền chậm nộp, tiền phạt theo Luật Quản lý thuế số 38/2019/QH14 ngày 13/06/2019",
+        "Choice": "C",
+        "Answer": "Tiền nợ thuế, tiền phạt, tiền chậm nộp quá hạn thuộc đối tượng áp dụng các biện pháp cưỡng chế; Tiền nợ thuế, tiền phạt, tiền chậm nộp quá hạn chưa thuộc đối tượng áp dụng các biện pháp cưỡng chế; Tiền thuế, tiền phạt, tiền chậm nộp phát sinh."
+    },
+    {
+        "ID": 378,
+        "Question": "Theo Luật quản lý thuế số 38/2019/QH14 ngày 13/06/2019: Cơ quan quản lý thuế thông báo cho người nộp thuế biết số tiền thuế, tiền phạt còn nợ và số ngày chậm nộp trong thời hạn",
+        "Choice": "B",
+        "Answer": "Sau 30 ngày kể từ ngày hết thời hạn nộp thuế, người nộp thuế chưa nộp tiền thuế, tiền chậm nộp, tiền phạt"
+    },
+    {
+        "ID": 379,
+        "Question": "Thời hạn nộp hồ sơ quyết toán thuế TNCN đối với cá nhân trực tiếp quyết toán thuế",
+        "Choice": "A",
+        "Answer": "Chậm nhất là ngày cuối cùng của tháng thứ 04 kể từ ngày kết thúc năm dương lịch"
+    },
+    {
+        "ID": 380,
+        "Question": "Sau khi hết hạn nộp quyết toán TNDN năm 2023, ngày 2/5/2024, cán bộ kiểm tra hồ sơ đã ban hành thông báo yêu cầu giải trình bổ sung thông tin tài liệu tới Công ty CP X về các nội dung kê khai có dấu hiệu sai sót trong hồ sơ khai thuế. \nNgày 12/5/2024, Công ty CP X đã thực hiện kê khai điều chỉnh số liệu theo nội dung CQT gửi đồng thời gửi văn bản giải trình đối tới Cơ quan thuế. \nNgày 13/5/2024, cán bộ kiểm tra hồ sơ đã lập biên bản làm việc với NNT để ghi nhận nội dung làm việc. Vậy cán bộ kiểm tra có xử phạt VPHC về thuế đối với Công ty CP X hay không ? ",
+        "Choice": "B",
+        "Answer": "Không xử phạt VPHC"
+    },
+    {
+        "ID": 381,
+        "Question": "Ngày 31/3/2024, Công ty CP X nộp báo cáo quyết toán thuế TNDN tới Cơ quan thuế. Thời hạn công chức thuế được giao nhiệm vụ kiểm tra thuế phải sử dụng phần mềm ứng dụng kiểm tra để kiểm tra, lập danh sách người nộp thuế có rủi ro cao là ngày bao nhiêu ?",
+        "Choice": "C",
+        "Answer": "Ngày 25/04/2024"
+    },
+    {
+        "ID": 382,
+        "Question": "Sau khi công khai dự thảo biên bản kiểm tra thuế, nếu người nộp thuế không ký biên bản kiểm tra thuế, Trưởng đoàn kiểm tra có phải thực hiện nhiệm vụ gì ? Thời hạn thực hiện là bao lâu ?",
+        "Choice": "C",
+        "Answer": "Báo cáo lãnh đạo bộ phận trình người có thẩm quyền ban hành Quyết định xử phạt VPHC đối với hành vi không ký biên bản kiểm tra thuế, thời hạn 5 ngày làm việc"
+    },
+    {
+        "ID": 383,
+        "Question": "Ông Nguyễn Văn B mất ngày 25/8/2015, sang năm 2016 công ty nơi ông làm việc thanh toán nốt khoản tiền thưởng của ông từ Quỹ khen thưởng năm 2015 cho vợ ông là người được hưởng thừa kế của ông. Vậy công ty có phải khấu trừ thuế TNCN khi trả tiền cho người hưởng thừa kế hay không?",
+        "Choice": "B",
+        "Answer": "Không phải khấu trừ thuế TNCN của ông B"
+    },
+    {
+        "ID": 384,
+        "Question": "Cá nhân cư trú có thu nhập từ tiền lương, tiền công đồng thời thuộc diện xét giảm thuế do thiên tai, hoả hoạn, tai nạn, bệnh hiểm nghèo thì thực hiện nghĩa vụ quyết toán thuế như thế nào?",
+        "Choice": "B",
+        "Answer": "b) Không ủy quyền QTT mà cá nhân tự khai quyết toán thuế kèm theo hồ sơ xét giảm thuế."
+    },
+    {
+        "ID": 385,
+        "Question": "Cá nhân là người Việt Nam có nhà ở và đăng ký thường trú theo quy định của pháp luật Việt Nam được cử đi công tác nước ngoài trong năm tính thuế trên 183 ngày. Hỏi cá nhân này có phải là đối tượng cư trú của Việt Nam trong năm tính thuế đó hay không?",
+        "Choice": "C",
+        "Answer": "Cả hai phương án đều đúng"
+    },
+    {
+        "ID": 386,
+        "Question": "Thời điểm cá nhân cư trú có thu nhập từ hoạt động đầu tư vốn kê khai trực tiếp với cơ quan thuế là khi nào?",
+        "Choice": "C",
+        "Answer": "Cá nhân kê khai trong vòng 10 ngày kể từ ngày tổ chức trả, cá nhân trả thu  nhập cho người nộp thuế hoặc từ ngày người nộp thuế nhận được thu nhập."
+    },
+    {
+        "ID": 387,
+        "Question": "Trường hợp, qua thanh tra kiểm sau hoàn thuế Đoàn kiểm tra phát hiện người nộp thuế đã được hoàn thuế giá trị gia tăng đối với hàng hóa xuất khẩu nhưng bị người bán trả lại hàng hóa đã xuất khẩu, NNT chưa khai bổ sung và nộp số tiền đã được hoàn tương ứng với hàng xuất khẩu bị trả lại và nộp tiền chậm nộp tương ứng thì:",
+        "Choice": "C",
+        "Answer": "NNT bị thu hồi số tiền đã hoàn tương ứng, xử phạt vi phạm hành chính, tính tiền chậm nộp theo quy định"
+    },
+    {
+        "ID": 388,
+        "Question": "Thời hạn giải quyết hoàn thuế đối với hồ sơ thuộc diệnkiểm tra trước hoàn thuế",
+        "Choice": "C",
+        "Answer": "40 ngày kể từ ngày CQT có thông báo bằng văn bản chấp nhận hồ sơ vàthời hạn giải quyết hồ sơ hoàn thuế"
+    },
+    {
+        "ID": 389,
+        "Question": "Chị Phạm Thu Hà có thu nhập 500tr đồng từ hoạt động quảng cáo trên app youtube. Chị Phạm Thu Hà cũng làm thêm ngoài giờ cho một công ty làm về giáo dục và công ty này đã khấu trừ thuế TNCN 10%. Khoản thu nhập 500 triệu của chị có phải đóng thuế? Là những loại thuế gì?",
+        "Choice": "C",
+        "Answer": "Phải đóng thuế GTGT, TNCN"
+    },
+    {
+        "ID": 390,
+        "Question": "Năm 2023, anh Lê Hoài Châu có khoản thu từ hoạt động quảng cáo và video trên youtube trị giá 500 trệu đồng, anh Lê Hoài Châu thực hiện tự kê khai và nộp thuế TNCN từ khoản nhận được này với mức thuế suất nào:",
+        "Choice": "D",
+        "Answer": "Thuế TNCN: 2% ; Thuế GTGT: 5%"
+    },
+    {
+        "ID": 391,
+        "Question": "Năm 2023, bà Phạm Thu Hiền có khoản thu từ hoạt động bán hàng online trên sàn TMĐT, thực hiện tự kê khai và nộp thuế TNCN từ khoản nhận được này với mức thuế suất nào:",
+        "Choice": "B",
+        "Answer": "Thuế TNCN: 0,5%; Thuế GTGT: 1%"
+    },
+    {
+        "ID": 392,
+        "Question": "Công ty cổ phần P tự xây dựng nhà nghỉ giữa ca cho công nhân ở trong khu vực sản xuất kinh doanh. Công ty cổ phần P không có đơn vị, tổ, đội trực thuộc thực hiện hoạt động xây dựng này. Khi hoàn thành, nghiệm thu nhà nghỉ giữa ca, Công ty cổ phần P xác định gia tính thuế ntn",
+        "Choice": "A",
+        "Answer": "Công ty cổ phần P không phải lập hóa đơn. Thuế GTGT đầu vào hình thành nhà nghỉ giữa ca được kê khai, khấu trừ theo quy định."
+    },
+    {
+        "ID": 393,
+        "Question": "Thời điểm xác định thuế GTGT đối với hoạt động xây dựng, lắp đặt",
+        "Choice": "A",
+        "Answer": "Thời điểm nghiệm thu, bàn giao công trình, hạng mục công trình, khối lượng xây dựng, lắp đặt hoàn thành, không phân biệt đã thu được tiền hay chưa thu được tiền."
+    },
+    {
+        "ID": 394,
+        "Question": "Thu nhập chịu thuế của Nhà thầu nước ngoài, Nhà thầu phụ nước ngoài trong một số trường hợp cụ thể như sau:",
+        "Choice": "D",
+        "Answer": "Cả 2 trường hợp a, b"
+    },
+    {
+        "ID": 395,
+        "Question": "Năm 2019, Công ty A phát sinh nghiệp vụ như sau: Hoạt động xây dựng lãi 5 tỷ đồng, hoạt kinh doanh BĐS lỗ: 2 tỷ đồng. Công ty A phải tính và nộp thuế TNDN như thế nào: ",
+        "Choice": "A",
+        "Answer": "Thuế TNDN phải nộp: (5tỷ - 2tỷ)*20% = 600 triệu đồng."
+    },
+    {
+        "ID": 396,
+        "Question": "Năm 2020, Công ty B phát sinh nghiệp vụ như sau: Hoạt động xây dựng lỗ 2 tỷ đồng, hoạt kinh doanh BĐS lãi: 5 tỷ đồng. Công ty B phải tính và nộp thuế TNDN như thế nào: ",
+        "Choice": "C",
+        "Answer": "Thuế TNDN phải nộp: 5tỷ *20% = 1 tỷ đồng. Đồng thời chuyển lỗ hoạt động XD 2 tỷ sang kỳ sau"
+    },
+    {
+        "ID": 397,
+        "Question": "Doanh nghiệp được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN đối với khoản chi phí nào dưới đây:",
+        "Choice": "A",
+        "Answer": "Phần chi phí quản lý kinh doanh do doanh nghiệp nước ngoài phân bổ cho cơ sở thường trú tại Việt Nam theo mức tính quy định của pháp luật Việt Nam"
+    },
+    {
+        "ID": 398,
+        "Question": "Doanh nghiệp Việt Nam có dự án đầu tư ra nước ngoài. Theo pháp luật thuế TNDN hiện hành, khoản thu nhập (lãi), khoản lỗ phát sinh từ dự án thầu tự tại nước ngoài này có được bù trừ vào số lỗ, số thu nhập (lại) phát sinh trong nước của doanh nghiệp khi tính thuế TNDN hay không?",
+        "Choice": "B",
+        "Answer": "Không được bù trừ."
+    },
+    {
+        "ID": 399,
+        "Question": "Doanh nghiệp không được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN đối với khoản chi phí nào dưới đây:",
+        "Choice": "D",
+        "Answer": "Cả ba (03) khoản chi nêu trên."
+    }
+]
