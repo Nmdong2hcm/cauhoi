@@ -103,13 +103,13 @@
     },
     {
         "ID": 18,
-        "Question": "Theo quy định pháp luật quản lý thuế hiện hành, trường hợp công ty không nộp hoặc nộp thuế số thuế TNDN tạm nộp thì bị xử phạt về hành vi gì?".",
+        "Question": "Theo quy định pháp luật quản lý thuế hiện hành, trường hợp công ty không nộp hoặc nộp thuế số thuế TNDN tạm nộp thì bị xử phạt về hành vi gì?",
         "Choice": "0",
-        "Answer": "Không bị xử phạt vi phạm hành chính về hành vi khai thiếu thuế."."
+        "Answer": "Không bị xử phạt vi phạm hành chính về hành vi khai thiếu thuế."
     },
     {
         "ID": 19,
-        "Question": "Trường hợp trong năm 2023, Công ty C ký hợp đồng với Công ty D vay tiền , kỳ hạn 6 tháng (thời gian cho vay từ 01/8/2023 đến ngày 31/01/2024), lãi suất cho vay bằng lãi suất cho vay thông thường của tổ chức tín dụng, lãi vay được thỏa thuận thanh toán vào cuối kỳ khi hoàn trả khoản vay. Nội dung nào dưới đây đúng với quy định của pháp luật hiện hành?";",
+        "Question": "Trường hợp trong năm 2023, Công ty C ký hợp đồng với Công ty D vay tiền , kỳ hạn 6 tháng (thời gian cho vay từ 01/8/2023 đến ngày 31/01/2024), lãi suất cho vay bằng lãi suất cho vay thông thường của tổ chức tín dụng, lãi vay được thỏa thuận thanh toán vào cuối kỳ khi hoàn trả khoản vay. Nội dung nào dưới đây đúng với quy định của pháp luật hiện hành?",
         "Choice": "0",
         "Answer": "Công ty hạch toán lãi vay từ 01/8/2023 đến 31/12/2023 vào thu nhập chịu thuế 2023. Lãi vay từ 01/01/2024 đến 21/01/2024 vào 2024"
     },
