@@ -1,117 +1,117 @@
 [ 
     {
         "ID": 1,
-        "Question": "Thời hạn thi hành biện pháp khắc phục hậu quả được quy định tại các văn bản hướng dẫn văn bản QPPL về xử lý VPHC là",
-        "Choice": "D",
-        "Answer": "Theo thời hạn ghi trong quyết định xử phạt VPHC hoặc Quyết định áp dụng khắc phục hậu quả"
+        "Question": "Theo quy định pháp luật hiện hành, trường hợp Công ty A tại TP HCM ký hợp đồng phân phối sản phẩm cho Chi nhánh Công ty B tại Cần Thơ thì đối với khoản hỗ trợ chi phí bán hàng mà Công ty A nhận được từ Chi nhánh Công ty B để thực hiện dịch vụ khuyến mãi, chiết khấu cho khách hàng thì trường hợp nào sau đây đúng?",
+        "Choice": "0",
+        "Answer": "Chi nhánh Công ty B phải lập hóa đơn GTGT, kê khai nộp thuế GTGT theo quy định"
     },
     {
         "ID": 2,
-        "Question": "Chọn đáp án đúng cho tình huống sau: Ngày 15/12/2022, Đoàn thanh tra thuế tại trụ sở người nộp thuế phát hiện người nộp thuế có hành vi sử dụng hóa đơn không hợp pháp để khai thuế làm giảm số thuế phải nộp 50 triệu đồng của kỳ tính thuế TNDN năm 2021. Không có tình tiết tăng nặng, giảm nhẹ. Xác định số tiền phạt?",
-        "Choice": "B",
-        "Answer": "b) 75 triệu đồng."
+        "Question": "CNăm 2023, Công ty A có hoạt động thu hộ cước vận tải cho các hãng vận tải nước ngoài thì Công ty A thực hiện kê khai, nộp thuế TNDN nhà thầu của hãng vận tải nước ngoài áp dụng theo phương pháp trực tiếp như thế nào?",
+        "Choice": "0",
+        "Answer": "Thực hiện tạm nộp thuế TNDN hàng quý của hãng vận tải nước ngoài và khai quyết toán năm."
     },
     {
         "ID": 3,
-        "Question": "Theo quy định hiện hành, “Khoảng giá trị giao dịch độc lập chuẩn” là gì?",
-        "Choice": "A",
-        "Answer": "“Khoảng giá trị giao dịch độc lập chuẩn” là tập hợp các giá trị từ bách phân vị thứ 35 đến bách phân vị thứ 75; trung vị của khoảng giá trị giao dịch độc lập chuẩn là giá trị bách phân vị thứ 50 theo hàm xác suất thống kê."
+        "Question": "Việc xử phạt VPHC về thuế đối với hành vi vi phạm của người nộp thuế trong năm 2023 được thực hiện theo quy định tại văn bản quy phạm pháp luật hiện hành nào?",
+        "Choice": "0",
+        "Answer": "Nghị định số 125/2020/NĐ-CP"
     },
     {
         "ID": 4,
-        "Question": "Theo quy định hiện hành, các bên liên kết được quy định gồm",
-        "Choice": "B",
-        "Answer": "11 trường hợp"
+        "Question": "Theo quy định pháp luật quản lý thuế hiện hành , nhiệm vụ của cơ quan quản lý thuế bao gồm các nhiệm vụ nào ?",
+        "Choice": "0",
+        "Answer": "Tất cả các đáp án đều đúng"
     },
     {
         "ID": 5,
-        "Question": "Trường hợp \"Người nộp thuế (có giao dịch liên kết trong kỳ) vi phạm pháp luật về thuế nhưng thực hiện đầy đủ chế độ kế toán, hóa đơn, chứng từ\", thì cơ quan thuế thực hiện ấn định thế nào là đúng quy định? ",
-        "Choice": "B",
-        "Answer": "Việc ấn định doanh thu, chi phí hoặc thu nhập chịu thuế để xác định nghĩa vụ thuế được thực hiện theo các nguyên tắc phân tích, so sánh, phương pháp xác định giá giao dịch liên kết và cơ sở dữ liệu sử dụng trong quản lý giá giao dịch liên kết quy định tại Nghị định 132/2020/NĐ-CP."
+        "Question": "Công ty A ở nước ngoài (bên chuyển nhượng) có thu nhập phát sinh từ việc chuyển nhượng vốn đầu tư tại Công ty B ở Việt Nam cho Công ty C ở nước ngoài (bên nhận chuyển nhượng) thì việc kê khai, nộp thuế TNDN đối với hoạt động chuyển nhượng vốn của Công ty A phát sinh tại Việt Nam được thực hiện thế nào theo luật quản lý thuế hiện hành?",
+        "Choice": "0",
+        "Answer": "Công ty B có trách nhiệm kê khai và nộp thay số thuế TNDN phải nộp từ hoạt động chuyển nhượng vốn của Công ty A."
     },
     {
         "ID": 6,
-        "Question": "Người nộp thuế bị ấn định thuế khi thuộc một trong các trường hợp vi phạm pháp luật về thuế: \"Không tuân thủ quy định về nghĩa vụ kê khai, xác định giá giao dịch liên kết hoặc không cung cấp thông tin theo quy định về quản lý thuế đối với doanh nghiệp có phát sinh giao dịch liên kết\" được quy định tại văn bản nào",
-        "Choice": "C",
-        "Answer": "Luật quản lý thuế số 38/2019/QH14"
+        "Question": "Theo quy định về quản lý thuế hiện hành, trường hợp Công ty A trụ sở chính ở TP HCM có chi trả lương cho người lao động làm việc tại Chi nhánh ở TP Hà Nội (người lao động ký hợp đồng lao động với trụ sở chính Công ty) thì việc khai thuế TNCN được thực hiện như thế nào?",
+        "Choice": "0",
+        "Answer": "Công ty A nộp hồ sơ khai thuế TNCN tại cơ quan thuế quản lý trực tiếp trụ sở chính và phân bổ thuế TNCN theo số thuế thực tế đã khấu trừ của từng cá nhân cho TP Hà Nội theo quy định."
     },
     {
         "ID": 7,
-        "Question": "Tại Khoản 3 Điều 16 Nghị định 132/2020/NĐ-CP có quy định nào dưới đây",
-        "Choice": "B",
-        "Answer": "a) Tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ của người nộp thuế được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp không vượt quá 30% của tổng lợi nhuận thuần từ hoạt động kinh doanh trong kỳ cộng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ cộng chi phí khấu hao phát sinh trong kỳ của người nộp thuế;"
+        "Question": "Trường hợp Công ty ABC có trích các khoản tiền lương, tiền công phải trả người lao động vào chi phí sản xuất kinh doanh trong năm 2023 thì Công ty được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN năm 2023 đối với trường hợp nào sau đây?",
+        "Choice": "0",
+        "Answer": "Trích lập dự phòng (không quá 17% quỹ tiền lương thực hiện năm 2023) để bổ sung vào quỹ tiền lương của năm sau liền kề, nếu doanh nghiệp có lãi."
     },
     {
         "ID": 8,
-        "Question": "Tổ chức nước ngoài cung cấp các dịch vụ chuyên môn, quản lý và phát hành trái phiếu, tư vấn pháp lý, đại lý lưu ký, tổ chức roadshow (một hoạt động thuộc mảng kích hoạt thương hiệu) cho Công ty A ở Việt Nam tại các nước mà Công ty A phát hành chứng chỉ GDR (Global Depositary Receipt - chứng chỉ lưu ký toàn cầu) và trái phiếu quốc tế thì thu nhập từ các dịch vụ này có phải nộp thuế nhà thầu không?",
-        "Choice": "A",
-        "Answer": "Tổ chức nước ngoài có thu nhập từ các dịch vụ này không thuộc đối tượng áp dụng của Thông tư số 103/2014/TT-BTC"
+        "Question": "TTheo quy định của pháp luật thuế GTGT hiện hành, trường hợp doanh nghiệp A tại Việt Nam hoạt động trong lĩnh vực kế toán kiểm toán, kê khai thuế GTGT theo phương pháp khấu trừ. Ngày 31/01/2024 Công ty ký hợp đồng cung cấp dịch vụ kiểm toán với Công ty nước ngoài B để thực hiện dịch vụ kiểm toán tại Doanh nghiệp C (là doanh nghiệp chế xuất tại Việt Nam) thì dịch vụ cung cấp của Doanh nghiệp A áp dụng thuế suất thuế GTGT như thế nào?",
+        "Choice": "0",
+        "Answer": "Áp dụng thuế suất 0% nếu đáp ứng điều kiện tại khoản 2 Điều 9 Thông tư số 219/2013/TT-BTC."
     },
     {
         "ID": 9,
-        "Question": "Nhận định nào dưới đây là đúng là kỹ năng thanh kiểm tra các doanh nghiệp có giao dịch liên kết",
-        "Choice": "B",
-        "Answer": "Kiểm tra \"sơ bộ\" các phụ lục về giao dịch liên kết kèm theo Tờ khai quyết toán thuế TNDN là bước công việc cần thiết nhằm nâng cao hiệu quả công tác thanh kiểm tra DN có GDLK"
+        "Question": "Thuế TNDN bổ sung theo quy định chống xói mòn cơ sở thuế toàn cầu (Nghị quyết số 107/2023/QH15 ngày 29/11/2023 của Quốc hội) được áp dụng tại Việt Nam từ thời điểm nào?",
+        "Choice": "0",
+        "Answer": "Áp dụng từ năm tài chính 2024."
     },
     {
         "ID": 10,
-        "Question": "Theo quy định tại Khoản 2 Điều 19 Nghị định 132/2020/NĐ-CP: Người nộp thuế có trách nhiệm kê khai xác định giá giao dịch liên kết theo Phụ lục I ban hành kèm theo Nghị định này nhưng được miễn lập Hồ sơ xác định giá giao dịch liên kết trong trường hợp:",
-        "Choice": "A",
-        "Answer": "Người nộp thuế có phát sinh giao dịch liên kết nhưng tổng doanh thu phát sinh của kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết phát sinh trong kỳ tính thuế dưới 30 tỷ đồng;"
+        "Question": "TDoanh nghiệp A tại Việt Nam là đơn vị sản xuất đồ gốm. Trong quá trình sản xuất năm 2023, doanh nghiệp A có hàng lỗi , hỏng, không tái chế lại được và phải thực hiện tiêu hủy. Khi xác định thu nhập chịu thuế TND, hàng hóa lỗi, hỏng nêu trên được xử lý như thế nào?",
+        "Choice": "0",
+        "Answer": "Không được tính vào chi phí được trừ vì sự kiện hàng hóa bị lỗi, hỏng trong trường hợp này không được xem là sự kiện bất khả kháng."
     },
     {
         "ID": 11,
-        "Question": "Tại Khoản 3 Điều 19 Nghị định 132/2020/NĐ-CP có quy định nào dưới đây",
-        "Choice": "A",
-        "Answer": "Người nộp thuế thuộc trường hợp được miễn kê khai, miễn lập Hồ sơ xác định giá giao dịch liên kết theo quy định tại khoản 1, khoản 2 Điều này, việc xác định tổng chi phí lãi vay được trừ khi xác định thu nhập chịu thuế thu nhập doanh nghiệp của doanh nghiệp có giao dịch liên kết được thực hiện theo quy định tại khoản 3 Điều 16 Nghị định này."
+        "Question": "Theo pháp luật thuế TNDN hiện hành, người nộp thuế TNDN bao gồm các trường hợp nào sau đây?",
+        "Choice": "0",
+        "Answer": "Tổ chức hoạt động sản xuất, kinh doanh hàng hóa, dịch vụ có thu nhập chịu thuế."
     },
     {
         "ID": 12,
-        "Question": "Vi phạm quy định về “chi phí được trừ khi tính thuế” theo quy định về quản lý thuế đối với DN có giao dịch liên kết gồm các trường hợp",
-        "Choice": "D",
-        "Answer": "Cả 3 đáp án a, b và c"
+        "Question": "Theo pháp luật thuế TNDN hiện hành, khoản chi phí nào sau đây được tính vào chi phí được trừ khi xác định thu nhập chịu thuế TNDN?",
+        "Choice": "0",
+        "Answer": "Hàng hóa hết hạn sử dụng không được bồi thường phải tiêu hủy."
     },
     {
         "ID": 13,
-        "Question": "Căn cứ phân loại mức độ \"khó - dễ\" trong việc phát hiện các DN có quan hệ liên kết",
-        "Choice": "B",
-        "Answer": "Mức độ sẵn có của thông tin liên quan mà cơ quan thuế có thể khai thác"
+        "Question": "Thời hạn Quyết toán thuế TNCN năm 2023 đối với tổ chức là trường hợp nào sau đây?",
+        "Choice": "0",
+        "Answer": "Mức độ sẵn có của thông tin liên quan mà cơ quan thuế có thể khai thác01/4/2024 (Vì 31/3/2024 là chủ nhật)."
     },
     {
         "ID": 14,
-        "Question": "Việc xác định hành vi vi phạm về quản lý thuế đối với doanh nghiệp có giao dịch liên kết cần căn cứ vào:",
-        "Choice": "B",
-        "Answer": "Hồ sơ, bằng chứng xác định qua thanh kiểm tra và các quy định có liên quan tại văn bản quy phạm pháp luật về quản lý thuế đối với DN có giao dịch liên kết (hành vi, chế tài) và Luật quản lý thuế hiện hành"
+        "Question": "Theo pháp luật thuế GTGT hiện hành, thuế GTGT có các mức thuế suất nào?",
+        "Choice": "0",
+        "Answer": "0%; 5%; 10%."
     },
     {
         "ID": 15,
-        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ nhỏ hơn hoặc bằng không.",
-        "Choice": "B",
-        "Answer": "Không xử lý do DN không thuộc đối tượng áp dụng quy định tại Khoản 3 Điều 16 Nghị định 132/2020/NĐ-CP"
+        "Question": "TTrường hợp hóa đơn điện tử bán hàng hóa, dịch vụ đã lập có sai sót (F0) và người bán đã xử lý theo hình thức điều chỉnh hóa đơn (F1), sau đó phát hiện hóa đơn (F1) tiếp tục có sai sót thì người bán sẽ thực hiện lập hóa đơn như thế nào theo quy định pháp luật hiện hành?",
+        "Choice": "0",
+        "Answer": "Lập hóa đơn (F2) điều chỉnh cho hóa đơn (F0)."
     },
     {
         "ID": 16,
-        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ vượt mức khống chế (ghi chú: mức khống chế là số dương).",
-        "Choice": "B",
-        "Answer": "Loại trừ \"tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ\" vượt mức khống chế đã xác định"
+        "Question": "Theo pháp luật thuế TNCN hiện hành, thuế suất thuế TNCN áp dụng đối với thu nhập từ tiền lương, tiền công của cá nhân cư trú bao gồm các trường hợp nào?",
+        "Choice": "0",
+        "Answer": "Tỷ lệ % và lũy tiến từng phần."
     },
     {
         "ID": 17,
-        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ, có mức khống chế (của tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh) là số âm.",
-        "Choice": "B",
-        "Answer": "Loại trừ toàn bộ \"tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ\" và số loại trừ không được chuyển các kỳ sau"
+        "Question": "Công ty A khai thuế GTGT theo phương pháp khấu trừ, là nhà thầu có trụ sở chính tại TP HCM, ký hợp đồng trực tiếp với Công ty B để thi công công trình xây dựng tại tỉnh Bình Thuận do Công ty B là chủ đầu tư, giá trị công trình xây dựng bao gồm cả thuế GTGT dưới 1 tỷ đồng. Công ty A không thành lập đơn vị phụ thuộc tại tỉnh Bình Thuận để thực hiện thi công công trình thì Công ty A kê khai thuế GTGT đối với hoạt động xây dựng này theo pháp luật thuế hiện hành như thế nào?",
+        "Choice": "0",
+        "Answer": "Công ty A khai thuế GTGT của Công trình xây dựng tập trung tại cơ quan thuế quản lý trụ sở chính theo mẫu 01/GTGT."
     },
     {
         "ID": 18,
-        "Question": "Theo quy định hiện hành, cần xử lý như thế nào về chi phí lãi vay trong trường hợp: DN có giao dịch liên kết trong kỳ; \"hành vi 1\": có tổng chi phí lãi vay sau khi trừ lãi tiền gửi và lãi cho vay phát sinh trong kỳ vượt mức khống chế (ghi chú: mức khống chế là số dương); \"hành vi 2\": đồng thời DN có vi phạm thuộc trường hợp \"ấn định tỷ suất lợi nhuận\".",
-        "Choice": "B",
-        "Answer": "Xử lý đồng thời cả hai \"hành vi\"."
+        "Question": "Theo quy định pháp luật quản lý thuế hiện hành, trường hợp công ty không nộp hoặc nộp thuế số thuế TNDN tạm nộp thì bị xử phạt về hành vi gì?".",
+        "Choice": "0",
+        "Answer": "Không bị xử phạt vi phạm hành chính về hành vi khai thiếu thuế."."
     },
     {
         "ID": 19,
-        "Question": "Người nộp thuế được miễn các nghĩa vụ nào trong trường hợp: \"Người nộp thuế có phát sinh giao dịch liên kết nhưng tổng doanh thu phát sinh của kỳ tính thuế dưới 50 tỷ đồng và tổng giá trị tất cả các giao dịch liên kết phát sinh trong kỳ tính thuế dưới 30 tỷ đồng\";",
-        "Choice": "B",
-        "Answer": "Người nộp thuế có trách nhiệm kê khai xác định giá giao dịch liên kết theo Phụ lục I ban hành kèm theo Nghị định này nhưng được miễn lập Hồ sơ xác định giá giao dịch liên kết "
+        "Question": "Trường hợp trong năm 2023, Công ty C ký hợp đồng với Công ty D vay tiền , kỳ hạn 6 tháng (thời gian cho vay từ 01/8/2023 đến ngày 31/01/2024), lãi suất cho vay bằng lãi suất cho vay thông thường của tổ chức tín dụng, lãi vay được thỏa thuận thanh toán vào cuối kỳ khi hoàn trả khoản vay. Nội dung nào dưới đây đúng với quy định của pháp luật hiện hành?";",
+        "Choice": "0",
+        "Answer": "Công ty hạch toán lãi vay từ 01/8/2023 đến 31/12/2023 vào thu nhập chịu thuế 2023. Lãi vay từ 01/01/2024 đến 21/01/2024 vào 2024"
     },
     {
         "ID": 20,
